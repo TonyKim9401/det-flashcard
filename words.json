@@ -1,0 +1,5990 @@
+[
+  {
+    "english": "abroad",
+    "korean": "해외에, 외국으로",
+    "example": "She decided to study abroad for a year.",
+    "wrongOptions": ["국내에", "집에서", "근처에"]
+  },
+  {
+    "english": "abrupt",
+    "korean": "갑작스러운, 급작스러운",
+    "example": "The meeting came to an abrupt end.",
+    "wrongOptions": ["점진적인", "예상된", "부드러운"]
+  },
+  {
+    "english": "academic",
+    "korean": "학문의, 학업의",
+    "example": "His academic performance has improved significantly.",
+    "wrongOptions": ["운동의", "사회적인", "예술적인"]
+  },
+  {
+    "english": "acceptable",
+    "korean": "받아들일 수 있는, 허용 가능한",
+    "example": "Your proposal is acceptable to everyone.",
+    "wrongOptions": ["거부할 만한", "불가능한", "위험한"]
+  },
+  {
+    "english": "accommodate",
+    "korean": "수용하다, 적응시키다",
+    "example": "The hotel can accommodate up to 200 guests.",
+    "wrongOptions": ["거부하다", "제한하다", "분리하다"]
+  },
+  {
+    "english": "accountable",
+    "korean": "책임이 있는, 설명할 의무가 있는",
+    "example": "Managers are accountable for their team's performance.",
+    "wrongOptions": ["무관한", "자유로운", "면제된"]
+  },
+  {
+    "english": "achieve",
+    "korean": "성취하다, 달성하다",
+    "example": "She achieved her goal of becoming a doctor.",
+    "wrongOptions": ["포기하다", "실패하다", "지연하다"]
+  },
+  {
+    "english": "acidic",
+    "korean": "산성의, 신맛이 나는",
+    "example": "Lemon juice is highly acidic.",
+    "wrongOptions": ["알칼리성의", "중성의", "단맛의"]
+  },
+  {
+    "english": "acknowledgement",
+    "korean": "인정, 승인",
+    "example": "He received acknowledgement for his hard work.",
+    "wrongOptions": ["거부", "무시", "비난"]
+  },
+  {
+    "english": "acoustic",
+    "korean": "음향의, 청각의",
+    "example": "The theater has excellent acoustic properties.",
+    "wrongOptions": ["시각적인", "전기의", "화학적인"]
+  },
+  {
+    "english": "across",
+    "korean": "가로질러, 건너서",
+    "example": "We walked across the bridge.",
+    "wrongOptions": ["아래로", "위로", "옆으로"]
+  },
+  {
+    "english": "adaptable",
+    "korean": "적응할 수 있는, 융통성 있는",
+    "example": "She is very adaptable to new situations.",
+    "wrongOptions": ["고집스러운", "경직된", "변하지 않는"]
+  },
+  {
+    "english": "add",
+    "korean": "더하다, 추가하다",
+    "example": "Please add sugar to my coffee.",
+    "wrongOptions": ["빼다", "나누다", "곱하다"]
+  },
+  {
+    "english": "addictive",
+    "korean": "중독성의, 중독을 일으키는",
+    "example": "Video games can be very addictive.",
+    "wrongOptions": ["해독의", "예방하는", "무해한"]
+  },
+  {
+    "english": "address",
+    "korean": "다루다, 언급하다; 주소",
+    "example": "We need to address this problem immediately.",
+    "wrongOptions": ["무시하다", "회피하다", "숨기다"]
+  },
+  {
+    "english": "adjustable",
+    "korean": "조절할 수 있는, 조정 가능한",
+    "example": "This chair has an adjustable height.",
+    "wrongOptions": ["고정된", "영구적인", "불변의"]
+  },
+  {
+    "english": "administer",
+    "korean": "관리하다, 시행하다",
+    "example": "Nurses administer medication to patients.",
+    "wrongOptions": ["방치하다", "거부하다", "무시하다"]
+  },
+  {
+    "english": "administration",
+    "korean": "행정, 관리",
+    "example": "The school administration made a new policy.",
+    "wrongOptions": ["혼돈", "무질서", "방치"]
+  },
+  {
+    "english": "admire",
+    "korean": "존경하다, 감탄하다",
+    "example": "I admire her courage and determination.",
+    "wrongOptions": ["경멸하다", "무시하다", "비난하다"]
+  },
+  {
+    "english": "adopt",
+    "korean": "채택하다, 입양하다",
+    "example": "They decided to adopt a new strategy.",
+    "wrongOptions": ["거부하다", "포기하다", "버리다"]
+  },
+  {
+    "english": "advantage",
+    "korean": "이점, 유리함",
+    "example": "Being bilingual is a great advantage.",
+    "wrongOptions": ["불이익", "단점", "약점"]
+  },
+  {
+    "english": "adventurous",
+    "korean": "모험적인, 대담한",
+    "example": "She has an adventurous spirit.",
+    "wrongOptions": ["소심한", "신중한", "조심스러운"]
+  },
+  {
+    "english": "adverse",
+    "korean": "불리한, 해로운",
+    "example": "Adverse weather conditions delayed the flight.",
+    "wrongOptions": ["유리한", "이로운", "긍정적인"]
+  },
+  {
+    "english": "advise",
+    "korean": "조언하다, 권고하다",
+    "example": "I advise you to study harder.",
+    "wrongOptions": ["명령하다", "강요하다", "금지하다"]
+  },
+  {
+    "english": "affect",
+    "korean": "영향을 주다, 작용하다",
+    "example": "The weather can affect your mood.",
+    "wrongOptions": ["무시하다", "차단하다", "격리하다"]
+  },
+  {
+    "english": "affectionate",
+    "korean": "애정 어린, 다정한",
+    "example": "She gave him an affectionate hug.",
+    "wrongOptions": ["냉담한", "무관심한", "적대적인"]
+  },
+  {
+    "english": "affirmative",
+    "korean": "긍정적인, 찬성하는",
+    "example": "She gave an affirmative answer.",
+    "wrongOptions": ["부정적인", "반대하는", "중립적인"]
+  },
+  {
+    "english": "affordable",
+    "korean": "구입할 수 있는, 저렴한",
+    "example": "We need to find affordable housing.",
+    "wrongOptions": ["비싼", "고가의", "사치스러운"]
+  },
+  {
+    "english": "aftermath",
+    "korean": "여파, 결과",
+    "example": "The aftermath of the storm was devastating.",
+    "wrongOptions": ["원인", "시작", "예방"]
+  },
+  {
+    "english": "afterward",
+    "korean": "나중에, 그 후에",
+    "example": "We had dinner and went to a movie afterward.",
+    "wrongOptions": ["이전에", "동시에", "미리"]
+  },
+  {
+    "english": "agreeable",
+    "korean": "기분 좋은, 동의할 수 있는",
+    "example": "The weather was quite agreeable.",
+    "wrongOptions": ["불쾌한", "거슬리는", "반대할 만한"]
+  },
+  {
+    "english": "aimless",
+    "korean": "목적 없는, 방향 없는",
+    "example": "He wandered aimlessly through the streets.",
+    "wrongOptions": ["목표 지향적인", "계획적인", "의도적인"]
+  },
+  {
+    "english": "alcoholic",
+    "korean": "알코올의, 알코올 중독자",
+    "example": "This is an alcoholic beverage.",
+    "wrongOptions": ["무알코올의", "건강한", "영양의"]
+  },
+  {
+    "english": "alignment",
+    "korean": "정렬, 일직선 배치",
+    "example": "The wheels need proper alignment.",
+    "wrongOptions": ["불균형", "무질서", "분산"]
+  },
+  {
+    "english": "allegedly",
+    "korean": "전하는 바에 의하면, 주장된 바로는",
+    "example": "He was allegedly involved in the crime.",
+    "wrongOptions": ["확실히", "증명되어", "명백히"]
+  },
+  {
+    "english": "allocation",
+    "korean": "할당, 배분",
+    "example": "The budget allocation was announced today.",
+    "wrongOptions": ["회수", "제거", "금지"]
+  },
+  {
+    "english": "allow",
+    "korean": "허락하다, 허용하다",
+    "example": "Smoking is not allowed in this building.",
+    "wrongOptions": ["금지하다", "막다", "거부하다"]
+  },
+  {
+    "english": "allowance",
+    "korean": "용돈, 허용량",
+    "example": "Children receive a weekly allowance.",
+    "wrongOptions": ["빚", "벌금", "세금"]
+  },
+  {
+    "english": "along with",
+    "korean": "~와 함께, ~뿐만 아니라",
+    "example": "She came along with her brother.",
+    "wrongOptions": ["~없이", "~대신에", "~제외하고"]
+  },
+  {
+    "english": "alter",
+    "korean": "바꾸다, 변경하다",
+    "example": "We need to alter our plans.",
+    "wrongOptions": ["유지하다", "보존하다", "고정하다"]
+  },
+  {
+    "english": "alternatively",
+    "korean": "대안으로, 또는",
+    "example": "You can drive or, alternatively, take the bus.",
+    "wrongOptions": ["필수적으로", "반드시", "오직"]
+  },
+  {
+    "english": "altruism",
+    "korean": "이타주의, 이타심",
+    "example": "Her actions showed great altruism.",
+    "wrongOptions": ["이기주의", "탐욕", "냉소"]
+  },
+  {
+    "english": "amateur",
+    "korean": "아마추어, 비전문가",
+    "example": "He is an amateur photographer.",
+    "wrongOptions": ["전문가", "숙련자", "대가"]
+  },
+  {
+    "english": "amazing",
+    "korean": "놀라운, 경이로운",
+    "example": "The view from the mountain was amazing.",
+    "wrongOptions": ["평범한", "지루한", "실망스러운"]
+  },
+  {
+    "english": "ambiguous",
+    "korean": "애매한, 모호한",
+    "example": "His answer was ambiguous and unclear.",
+    "wrongOptions": ["명확한", "분명한", "확실한"]
+  },
+  {
+    "english": "amend",
+    "korean": "수정하다, 개정하다",
+    "example": "They voted to amend the constitution.",
+    "wrongOptions": ["유지하다", "고수하다", "보존하다"]
+  },
+  {
+    "english": "amplifier",
+    "korean": "증폭기, 확성기",
+    "example": "The guitar is connected to an amplifier.",
+    "wrongOptions": ["감쇠기", "차단기", "억제기"]
+  },
+  {
+    "english": "amusement",
+    "korean": "즐거움, 오락",
+    "example": "The children watched with great amusement.",
+    "wrongOptions": ["지루함", "슬픔", "고통"]
+  },
+  {
+    "english": "ancient",
+    "korean": "고대의, 아주 오래된",
+    "example": "They discovered ancient ruins.",
+    "wrongOptions": ["현대의", "최신의", "새로운"]
+  },
+  {
+    "english": "angular",
+    "korean": "각진, 모가 난",
+    "example": "The building has an angular design.",
+    "wrongOptions": ["둥근", "부드러운", "곡선의"]
+  },
+  {
+    "english": "anniversary",
+    "korean": "기념일, 주년",
+    "example": "They celebrated their 10th wedding anniversary.",
+    "wrongOptions": ["장례식", "취임식", "개막식"]
+  },
+  {
+    "english": "annual",
+    "korean": "연례의, 매년의",
+    "example": "The company holds an annual meeting.",
+    "wrongOptions": ["월간의", "주간의", "일일의"]
+  },
+  {
+    "english": "antique",
+    "korean": "골동품, 고풍의",
+    "example": "She collects antique furniture.",
+    "wrongOptions": ["현대품", "복제품", "신제품"]
+  },
+  {
+    "english": "anxiously",
+    "korean": "걱정스럽게, 불안하게",
+    "example": "She waited anxiously for the test results.",
+    "wrongOptions": ["평온하게", "침착하게", "여유롭게"]
+  },
+  {
+    "english": "apparently",
+    "korean": "명백히, 분명히",
+    "example": "Apparently, he forgot about the meeting.",
+    "wrongOptions": ["불확실하게", "의심스럽게", "애매하게"]
+  },
+  {
+    "english": "appeal",
+    "korean": "호소하다, 매력",
+    "example": "The charity appealed for donations.",
+    "wrongOptions": ["거부하다", "무시하다", "반대하다"]
+  },
+  {
+    "english": "appear",
+    "korean": "나타나다, ~처럼 보이다",
+    "example": "Stars appear in the night sky.",
+    "wrongOptions": ["사라지다", "숨다", "가리다"]
+  },
+  {
+    "english": "apply for",
+    "korean": "~에 지원하다, 신청하다",
+    "example": "She decided to apply for the job.",
+    "wrongOptions": ["취소하다", "거부하다", "포기하다"]
+  },
+  {
+    "english": "appreciate",
+    "korean": "감사하다, 인정하다",
+    "example": "I really appreciate your help.",
+    "wrongOptions": ["무시하다", "경멸하다", "비난하다"]
+  },
+  {
+    "english": "approachable",
+    "korean": "접근하기 쉬운, 친근한",
+    "example": "The teacher is very approachable.",
+    "wrongOptions": ["거만한", "무뚝뚝한", "냉담한"]
+  },
+  {
+    "english": "area",
+    "korean": "지역, 영역",
+    "example": "This area is known for its beaches.",
+    "wrongOptions": ["점", "선", "각"]
+  },
+  {
+    "english": "argue",
+    "korean": "논쟁하다, 주장하다",
+    "example": "They argued about politics.",
+    "wrongOptions": ["동의하다", "찬성하다", "수용하다"]
+  },
+  {
+    "english": "arise",
+    "korean": "발생하다, 일어나다",
+    "example": "Problems may arise during the project.",
+    "wrongOptions": ["사라지다", "해결되다", "예방되다"]
+  },
+  {
+    "english": "armed",
+    "korean": "무장한, 무기를 든",
+    "example": "The guards were armed with rifles.",
+    "wrongOptions": ["비무장의", "평화로운", "무방비의"]
+  },
+  {
+    "english": "article",
+    "korean": "기사, 물품",
+    "example": "I read an interesting article today.",
+    "wrongOptions": ["책", "소설", "시"]
+  },
+  {
+    "english": "as such",
+    "korean": "그 자체로, 그런 것으로",
+    "example": "He is the manager and, as such, makes the decisions.",
+    "wrongOptions": ["반대로", "예외적으로", "우연히"]
+  },
+  {
+    "english": "as well",
+    "korean": "또한, ~도 역시",
+    "example": "She speaks French and German as well.",
+    "wrongOptions": ["대신에", "제외하고", "오직"]
+  },
+  {
+    "english": "assault",
+    "korean": "폭행, 공격",
+    "example": "He was charged with assault.",
+    "wrongOptions": ["방어", "보호", "평화"]
+  },
+  {
+    "english": "assertive",
+    "korean": "자기주장이 강한, 단호한",
+    "example": "You need to be more assertive in meetings.",
+    "wrongOptions": ["소극적인", "수동적인", "우유부단한"]
+  },
+  {
+    "english": "assignment",
+    "korean": "과제, 임무",
+    "example": "The teacher gave us a difficult assignment.",
+    "wrongOptions": ["휴가", "보상", "면제"]
+  },
+  {
+    "english": "assistant",
+    "korean": "조수, 보조자",
+    "example": "She works as a teaching assistant.",
+    "wrongOptions": ["상사", "관리자", "책임자"]
+  },
+  {
+    "english": "assorted",
+    "korean": "여러 가지의, 다양한",
+    "example": "The box contains assorted chocolates.",
+    "wrongOptions": ["단일한", "동일한", "획일적인"]
+  },
+  {
+    "english": "at any rate",
+    "korean": "어쨌든, 어떻든",
+    "example": "At any rate, we need to finish this today.",
+    "wrongOptions": ["절대로", "결코", "아마도"]
+  },
+  {
+    "english": "attach",
+    "korean": "붙이다, 첨부하다",
+    "example": "Please attach the file to your email.",
+    "wrongOptions": ["분리하다", "떼어내다", "제거하다"]
+  },
+  {
+    "english": "attend",
+    "korean": "참석하다, 출석하다",
+    "example": "Will you attend the conference?",
+    "wrongOptions": ["결석하다", "불참하다", "회피하다"]
+  },
+  {
+    "english": "attendance",
+    "korean": "출석, 참석",
+    "example": "Attendance is mandatory for all students.",
+    "wrongOptions": ["결석", "부재", "불참"]
+  },
+  {
+    "english": "attitude",
+    "korean": "태도, 자세",
+    "example": "She has a positive attitude toward life.",
+    "wrongOptions": ["무관심", "냉담", "방치"]
+  },
+  {
+    "english": "attorney",
+    "korean": "변호사",
+    "example": "He hired an attorney for the case.",
+    "wrongOptions": ["판사", "검사", "배심원"]
+  },
+  {
+    "english": "attractiveness",
+    "korean": "매력, 호감",
+    "example": "The attractiveness of the offer is obvious.",
+    "wrongOptions": ["혐오감", "거부감", "불쾌감"]
+  },
+  {
+    "english": "audience",
+    "korean": "청중, 관객",
+    "example": "The audience applauded loudly.",
+    "wrongOptions": ["연기자", "출연자", "공연자"]
+  },
+  {
+    "english": "august",
+    "korean": "위엄 있는, 장엄한",
+    "example": "The building has an august appearance.",
+    "wrongOptions": ["초라한", "평범한", "하찮은"]
+  },
+  {
+    "english": "author",
+    "korean": "저자, 작가",
+    "example": "She is the author of several novels.",
+    "wrongOptions": ["독자", "편집자", "출판사"]
+  },
+  {
+    "english": "authority",
+    "korean": "권한, 권위",
+    "example": "He has the authority to make decisions.",
+    "wrongOptions": ["무력", "무능", "복종"]
+  },
+  {
+    "english": "autonomy",
+    "korean": "자율성, 자치",
+    "example": "The region gained autonomy from the government.",
+    "wrongOptions": ["의존", "종속", "지배"]
+  },
+  {
+    "english": "available",
+    "korean": "이용 가능한, 구할 수 있는",
+    "example": "The product is now available in stores.",
+    "wrongOptions": ["품절된", "금지된", "불가능한"]
+  },
+  {
+    "english": "average",
+    "korean": "평균의, 보통의",
+    "example": "The average temperature is 20 degrees.",
+    "wrongOptions": ["최고의", "최저의", "극단적인"]
+  },
+  {
+    "english": "aviator",
+    "korean": "비행사, 조종사",
+    "example": "He dreamed of becoming an aviator.",
+    "wrongOptions": ["승객", "정비사", "관제사"]
+  },
+  {
+    "english": "avoid",
+    "korean": "피하다, 회피하다",
+    "example": "Try to avoid making mistakes.",
+    "wrongOptions": ["추구하다", "맞서다", "직면하다"]
+  },
+  {
+    "english": "award",
+    "korean": "상, 수여하다",
+    "example": "She received an award for her research.",
+    "wrongOptions": ["처벌", "벌금", "제재"]
+  },
+  {
+    "english": "awesome",
+    "korean": "멋진, 굉장한",
+    "example": "That was an awesome performance!",
+    "wrongOptions": ["형편없는", "지루한", "끔찍한"]
+  },
+  {
+    "english": "bachelor",
+    "korean": "미혼 남성, 학사",
+    "example": "He earned a bachelor's degree in engineering.",
+    "wrongOptions": ["기혼자", "석사", "박사"]
+  },
+  {
+    "english": "ballot",
+    "korean": "투표용지, 투표",
+    "example": "Citizens cast their ballots in the election.",
+    "wrongOptions": ["연설", "시위", "청원"]
+  },
+  {
+    "english": "ban",
+    "korean": "금지하다, 금지령",
+    "example": "The government banned smoking in public places.",
+    "wrongOptions": ["허용하다", "장려하다", "권장하다"]
+  },
+  {
+    "english": "barely",
+    "korean": "간신히, 겨우",
+    "example": "I could barely hear what he said.",
+    "wrongOptions": ["충분히", "완전히", "명확히"]
+  },
+  {
+    "english": "basis",
+    "korean": "기초, 근거",
+    "example": "Trust is the basis of a good relationship.",
+    "wrongOptions": ["결과", "종말", "파괴"]
+  },
+  {
+    "english": "bay",
+    "korean": "만, 후미",
+    "example": "The ship sailed into the bay.",
+    "wrongOptions": ["산", "사막", "평야"]
+  },
+  {
+    "english": "beach",
+    "korean": "해변, 바닷가",
+    "example": "We spent the day at the beach.",
+    "wrongOptions": ["산꼭대기", "계곡", "숲"]
+  },
+  {
+    "english": "bear",
+    "korean": "견디다, 참다; 곰",
+    "example": "I can't bear this pain anymore.",
+    "wrongOptions": ["즐기다", "환영하다", "선호하다"]
+  },
+  {
+    "english": "bear the brunt of",
+    "korean": "~의 주된 타격을 받다",
+    "example": "The coastal areas bore the brunt of the storm.",
+    "wrongOptions": ["피하다", "면하다", "예방하다"]
+  },
+  {
+    "english": "belong",
+    "korean": "속하다, ~의 것이다",
+    "example": "This book belongs to me.",
+    "wrongOptions": ["버리다", "거부하다", "제외하다"]
+  },
+  {
+    "english": "beverage",
+    "korean": "음료",
+    "example": "Would you like a hot or cold beverage?",
+    "wrongOptions": ["음식", "간식", "디저트"]
+  },
+  {
+    "english": "bias",
+    "korean": "편견, 선입견",
+    "example": "The judge showed no bias in the trial.",
+    "wrongOptions": ["공정성", "객관성", "중립"]
+  },
+  {
+    "english": "bike",
+    "korean": "자전거",
+    "example": "She rides her bike to work every day.",
+    "wrongOptions": ["자동차", "버스", "기차"]
+  },
+  {
+    "english": "billiards",
+    "korean": "당구",
+    "example": "They played billiards at the club.",
+    "wrongOptions": ["축구", "야구", "농구"]
+  },
+  {
+    "english": "biodiversity",
+    "korean": "생물 다양성",
+    "example": "The rainforest has incredible biodiversity.",
+    "wrongOptions": ["단일성", "획일성", "균질성"]
+  },
+  {
+    "english": "biofuel",
+    "korean": "바이오 연료",
+    "example": "Biofuel is a renewable energy source.",
+    "wrongOptions": ["석탄", "석유", "천연가스"]
+  },
+  {
+    "english": "bitterly",
+    "korean": "몹시, 격렬하게",
+    "example": "She complained bitterly about the decision.",
+    "wrongOptions": ["온화하게", "부드럽게", "달콤하게"]
+  },
+  {
+    "english": "bizarre",
+    "korean": "기괴한, 이상한",
+    "example": "That was a bizarre dream.",
+    "wrongOptions": ["평범한", "일반적인", "정상적인"]
+  },
+  {
+    "english": "block",
+    "korean": "막다, 차단하다; 블록",
+    "example": "A fallen tree blocked the road.",
+    "wrongOptions": ["열다", "통과시키다", "허용하다"]
+  },
+  {
+    "english": "blonde",
+    "korean": "금발의",
+    "example": "She has beautiful blonde hair.",
+    "wrongOptions": ["검은색의", "갈색의", "붉은색의"]
+  },
+  {
+    "english": "blow",
+    "korean": "불다, 타격",
+    "example": "The wind blew strongly all night.",
+    "wrongOptions": ["빨다", "잡아당기다", "밀다"]
+  },
+  {
+    "english": "blown away",
+    "korean": "감탄하다, 압도되다",
+    "example": "I was blown away by her performance.",
+    "wrongOptions": ["실망하다", "지루하다", "무관심하다"]
+  },
+  {
+    "english": "boarding school",
+    "korean": "기숙학교",
+    "example": "He attended a boarding school in Switzerland.",
+    "wrongOptions": ["통학학교", "유치원", "직업학교"]
+  },
+  {
+    "english": "boost",
+    "korean": "증진시키다, 향상시키다",
+    "example": "Exercise can boost your energy levels.",
+    "wrongOptions": ["감소시키다", "약화시키다", "저하시키다"]
+  },
+  {
+    "english": "bother",
+    "korean": "괴롭히다, 신경 쓰이게 하다",
+    "example": "Don't bother me while I'm working.",
+    "wrongOptions": ["돕다", "위로하다", "격려하다"]
+  },
+  {
+    "english": "boundary",
+    "korean": "경계, 한계",
+    "example": "The river forms a natural boundary.",
+    "wrongOptions": ["중심", "내부", "핵심"]
+  },
+  {
+    "english": "bountiful",
+    "korean": "풍부한, 넉넉한",
+    "example": "They had a bountiful harvest this year.",
+    "wrongOptions": ["부족한", "빈약한", "결핍된"]
+  },
+  {
+    "english": "brace",
+    "korean": "대비하다, 버팀대",
+    "example": "Brace yourself for bad news.",
+    "wrongOptions": ["이완하다", "방치하다", "무시하다"]
+  },
+  {
+    "english": "bracket",
+    "korean": "괄호, 등급",
+    "example": "Put the information in brackets.",
+    "wrongOptions": ["원", "선", "점"]
+  },
+  {
+    "english": "braid",
+    "korean": "땋다, 땋은 머리",
+    "example": "She braided her hair for the party.",
+    "wrongOptions": ["자르다", "염색하다", "말리다"]
+  },
+  {
+    "english": "branch",
+    "korean": "가지, 지점",
+    "example": "The bank opened a new branch downtown.",
+    "wrongOptions": ["본사", "중앙", "뿌리"]
+  },
+  {
+    "english": "breeze",
+    "korean": "미풍, 산들바람",
+    "example": "A gentle breeze cooled the air.",
+    "wrongOptions": ["폭풍", "태풍", "허리케인"]
+  },
+  {
+    "english": "brewing",
+    "korean": "양조, 끓이기",
+    "example": "A storm is brewing in the distance.",
+    "wrongOptions": ["진정", "소멸", "해소"]
+  },
+  {
+    "english": "bribery",
+    "korean": "뇌물 수수",
+    "example": "He was arrested for bribery.",
+    "wrongOptions": ["정직", "성실", "청렴"]
+  },
+  {
+    "english": "brick",
+    "korean": "벽돌",
+    "example": "The house is made of red brick.",
+    "wrongOptions": ["나무", "철", "플라스틱"]
+  },
+  {
+    "english": "brief",
+    "korean": "짧은, 간결한",
+    "example": "Please keep your comments brief.",
+    "wrongOptions": ["긴", "장황한", "상세한"]
+  },
+  {
+    "english": "bright",
+    "korean": "밝은, 영리한",
+    "example": "The room was filled with bright sunlight.",
+    "wrongOptions": ["어두운", "흐린", "우울한"]
+  },
+  {
+    "english": "brilliant",
+    "korean": "훌륭한, 빛나는",
+    "example": "She came up with a brilliant idea.",
+    "wrongOptions": ["어리석은", "평범한", "무딘"]
+  },
+  {
+    "english": "broad",
+    "korean": "넓은, 광범위한",
+    "example": "He has broad shoulders.",
+    "wrongOptions": ["좁은", "제한된", "한정된"]
+  },
+  {
+    "english": "brutal",
+    "korean": "잔인한, 가혹한",
+    "example": "The attack was brutal and senseless.",
+    "wrongOptions": ["자비로운", "온화한", "친절한"]
+  },
+  {
+    "english": "budget",
+    "korean": "예산",
+    "example": "We need to stay within our budget.",
+    "wrongOptions": ["빚", "손실", "적자"]
+  },
+  {
+    "english": "bun",
+    "korean": "빵, 상투",
+    "example": "She wore her hair in a bun.",
+    "wrongOptions": ["모자", "왕관", "머리띠"]
+  },
+  {
+    "english": "burning",
+    "korean": "불타는, 타는 듯한",
+    "example": "I have a burning desire to succeed.",
+    "wrongOptions": ["차가운", "냉담한", "무관심한"]
+  },
+  {
+    "english": "business",
+    "korean": "사업, 업무",
+    "example": "She runs a successful business.",
+    "wrongOptions": ["취미", "여가", "휴식"]
+  },
+  {
+    "english": "by ~ing",
+    "korean": "~함으로써",
+    "example": "You can improve by practicing daily.",
+    "wrongOptions": ["~없이", "~대신에", "~제외하고"]
+  },
+  {
+    "english": "cabinet",
+    "korean": "내각, 캐비닛",
+    "example": "The kitchen cabinet is full.",
+    "wrongOptions": ["의자", "테이블", "침대"]
+  },
+  {
+    "english": "calamity",
+    "korean": "재난, 재앙",
+    "example": "The earthquake was a terrible calamity.",
+    "wrongOptions": ["축복", "행운", "기쁨"]
+  },
+  {
+    "english": "calculate",
+    "korean": "계산하다, 산출하다",
+    "example": "Can you calculate the total cost?",
+    "wrongOptions": ["추측하다", "무시하다", "포기하다"]
+  },
+  {
+    "english": "camel",
+    "korean": "낙타",
+    "example": "Camels can survive in the desert.",
+    "wrongOptions": ["말", "소", "양"]
+  },
+  {
+    "english": "campaign",
+    "korean": "캠페인, 운동",
+    "example": "They launched an advertising campaign.",
+    "wrongOptions": ["휴식", "중단", "포기"]
+  },
+  {
+    "english": "capacity",
+    "korean": "수용력, 능력",
+    "example": "The stadium has a capacity of 50,000.",
+    "wrongOptions": ["부족", "결핍", "제한"]
+  },
+  {
+    "english": "capital",
+    "korean": "수도, 자본",
+    "example": "Paris is the capital of France.",
+    "wrongOptions": ["시골", "변두리", "외곽"]
+  },
+  {
+    "english": "capricious",
+    "korean": "변덕스러운, 예측 불가능한",
+    "example": "The weather here is very capricious.",
+    "wrongOptions": ["일관된", "안정적인", "예측 가능한"]
+  },
+  {
+    "english": "capture",
+    "korean": "포착하다, 붙잡다",
+    "example": "The camera captured the perfect moment.",
+    "wrongOptions": ["놓치다", "풀어주다", "해방하다"]
+  },
+  {
+    "english": "career",
+    "korean": "직업, 경력",
+    "example": "She has a successful career in medicine.",
+    "wrongOptions": ["취미", "여가", "휴가"]
+  },
+  {
+    "english": "cargo",
+    "korean": "화물, 적하",
+    "example": "The ship is carrying a cargo of grain.",
+    "wrongOptions": ["승객", "여행자", "관광객"]
+  },
+  {
+    "english": "carrot",
+    "korean": "당근",
+    "example": "Rabbits love to eat carrots.",
+    "wrongOptions": ["양파", "마늘", "생강"]
+  },
+  {
+    "english": "carry",
+    "korean": "나르다, 운반하다",
+    "example": "Can you help me carry these bags?",
+    "wrongOptions": ["버리다", "놓다", "떨어뜨리다"]
+  },
+  {
+    "english": "cautiously",
+    "korean": "조심스럽게, 신중하게",
+    "example": "He approached the dog cautiously.",
+    "wrongOptions": ["무모하게", "대담하게", "경솔하게"]
+  },
+  {
+    "english": "ceaseless",
+    "korean": "끊임없는, 그치지 않는",
+    "example": "The noise was ceaseless all night.",
+    "wrongOptions": ["일시적인", "간헐적인", "드문"]
+  },
+  {
+    "english": "celebrate",
+    "korean": "축하하다, 기념하다",
+    "example": "We celebrated her birthday with a party.",
+    "wrongOptions": ["애도하다", "후회하다", "무시하다"]
+  },
+  {
+    "english": "certain",
+    "korean": "확실한, 특정한",
+    "example": "I'm certain that he will come.",
+    "wrongOptions": ["불확실한", "의심스러운", "애매한"]
+  },
+  {
+    "english": "chairman",
+    "korean": "의장, 회장",
+    "example": "The chairman opened the meeting.",
+    "wrongOptions": ["평사원", "인턴", "신입"]
+  },
+  {
+    "english": "challenging",
+    "korean": "도전적인, 어려운",
+    "example": "This is a very challenging project.",
+    "wrongOptions": ["쉬운", "단순한", "평범한"]
+  },
+  {
+    "english": "chaos",
+    "korean": "혼돈, 무질서",
+    "example": "The room was in complete chaos.",
+    "wrongOptions": ["질서", "조화", "평온"]
+  },
+  {
+    "english": "chaotic",
+    "korean": "혼란스러운, 무질서한",
+    "example": "The traffic was chaotic this morning.",
+    "wrongOptions": ["정돈된", "체계적인", "평온한"]
+  },
+  {
+    "english": "charm",
+    "korean": "매력, 매혹하다",
+    "example": "She has a natural charm.",
+    "wrongOptions": ["혐오감", "거부감", "불쾌감"]
+  },
+  {
+    "english": "chat",
+    "korean": "잡담하다, 채팅하다",
+    "example": "Let's chat over coffee.",
+    "wrongOptions": ["무시하다", "회피하다", "침묵하다"]
+  },
+  {
+    "english": "cheery",
+    "korean": "명랑한, 쾌활한",
+    "example": "She gave us a cheery greeting.",
+    "wrongOptions": ["우울한", "침울한", "냉담한"]
+  },
+  {
+    "english": "chemical",
+    "korean": "화학의, 화학 물질",
+    "example": "They use chemical fertilizers on the farm.",
+    "wrongOptions": ["자연의", "유기농의", "생물학적"]
+  },
+  {
+    "english": "chew",
+    "korean": "씹다",
+    "example": "Chew your food slowly.",
+    "wrongOptions": ["삼키다", "뱉다", "토하다"]
+  },
+  {
+    "english": "childbirth",
+    "korean": "출산, 분만",
+    "example": "She went through a difficult childbirth.",
+    "wrongOptions": ["유산", "불임", "입양"]
+  },
+  {
+    "english": "chilly",
+    "korean": "쌀쌀한, 냉랭한",
+    "example": "It's quite chilly outside today.",
+    "wrongOptions": ["따뜻한", "뜨거운", "더운"]
+  },
+  {
+    "english": "chore",
+    "korean": "집안일, 잡일",
+    "example": "Washing dishes is my least favorite chore.",
+    "wrongOptions": ["취미", "오락", "여가"]
+  },
+  {
+    "english": "choreography",
+    "korean": "안무, 무용 구성",
+    "example": "The choreography for the dance was beautiful.",
+    "wrongOptions": ["즉흥", "무계획", "혼란"]
+  },
+  {
+    "english": "cigarette",
+    "korean": "담배",
+    "example": "Smoking cigarettes is harmful to health.",
+    "wrongOptions": ["사탕", "껌", "음료"]
+  },
+  {
+    "english": "circuit",
+    "korean": "회로, 순회",
+    "example": "The electrical circuit is broken.",
+    "wrongOptions": ["직선", "점", "면"]
+  },
+  {
+    "english": "citizenship",
+    "korean": "시민권, 시민의식",
+    "example": "He applied for citizenship.",
+    "wrongOptions": ["추방", "망명", "이민"]
+  },
+  {
+    "english": "claw",
+    "korean": "발톱, 갈고리발",
+    "example": "The cat scratched me with its claws.",
+    "wrongOptions": ["깃털", "비늘", "털"]
+  },
+  {
+    "english": "clear",
+    "korean": "명확한, 맑은",
+    "example": "The instructions are very clear.",
+    "wrongOptions": ["흐린", "모호한", "불명확한"]
+  },
+  {
+    "english": "cliched",
+    "korean": "진부한, 상투적인",
+    "example": "The movie had a cliched ending.",
+    "wrongOptions": ["독창적인", "신선한", "새로운"]
+  },
+  {
+    "english": "clown",
+    "korean": "광대, 어릿광대",
+    "example": "The clown made the children laugh.",
+    "wrongOptions": ["마술사", "곡예사", "배우"]
+  },
+  {
+    "english": "coast",
+    "korean": "해안, 연안",
+    "example": "We drove along the coast.",
+    "wrongOptions": ["내륙", "산지", "평야"]
+  },
+  {
+    "english": "cognitive",
+    "korean": "인지의, 인식의",
+    "example": "Reading improves cognitive skills.",
+    "wrongOptions": ["신체적", "감정적", "물리적"]
+  },
+  {
+    "english": "coherent",
+    "korean": "일관성 있는, 조리 있는",
+    "example": "She gave a coherent explanation.",
+    "wrongOptions": ["모순된", "혼란스러운", "불분명한"]
+  },
+  {
+    "english": "coincide",
+    "korean": "동시에 일어나다, 일치하다",
+    "example": "Our vacations coincide this year.",
+    "wrongOptions": ["어긋나다", "충돌하다", "분리되다"]
+  },
+  {
+    "english": "colleague",
+    "korean": "동료",
+    "example": "She discussed it with her colleagues.",
+    "wrongOptions": ["경쟁자", "적", "상대"]
+  },
+  {
+    "english": "college",
+    "korean": "대학, 전문대학",
+    "example": "He graduated from college last year.",
+    "wrongOptions": ["유치원", "초등학교", "중학교"]
+  },
+  {
+    "english": "combination",
+    "korean": "결합, 조합",
+    "example": "The password is a combination of letters and numbers.",
+    "wrongOptions": ["분리", "분할", "격리"]
+  },
+  {
+    "english": "comedian",
+    "korean": "코미디언, 희극 배우",
+    "example": "He works as a stand-up comedian.",
+    "wrongOptions": ["비극 배우", "가수", "무용수"]
+  },
+  {
+    "english": "commitment",
+    "korean": "헌신, 약속",
+    "example": "Marriage requires commitment.",
+    "wrongOptions": ["배신", "포기", "회피"]
+  },
+  {
+    "english": "communism",
+    "korean": "공산주의",
+    "example": "The country adopted communism.",
+    "wrongOptions": ["자본주의", "민주주의", "군주제"]
+  },
+  {
+    "english": "community",
+    "korean": "공동체, 지역사회",
+    "example": "The community came together to help.",
+    "wrongOptions": ["개인", "고립", "분리"]
+  },
+  {
+    "english": "commute",
+    "korean": "통근하다, 통학하다",
+    "example": "He commutes to work by train.",
+    "wrongOptions": ["재택근무하다", "이사하다", "여행하다"]
+  },
+  {
+    "english": "companion",
+    "korean": "동반자, 친구",
+    "example": "The dog was her constant companion.",
+    "wrongOptions": ["적", "경쟁자", "낯선 사람"]
+  },
+  {
+    "english": "company",
+    "korean": "회사, 동료",
+    "example": "She works for a software company.",
+    "wrongOptions": ["정부", "학교", "병원"]
+  },
+  {
+    "english": "comparable",
+    "korean": "비교할 수 있는, 필적하는",
+    "example": "The two products are comparable in quality.",
+    "wrongOptions": ["비교 불가능한", "완전히 다른", "대조적인"]
+  },
+  {
+    "english": "compassion",
+    "korean": "동정심, 연민",
+    "example": "She showed great compassion for the poor.",
+    "wrongOptions": ["냉담", "무관심", "잔인함"]
+  },
+  {
+    "english": "competent",
+    "korean": "유능한, 적임의",
+    "example": "He is a competent manager.",
+    "wrongOptions": ["무능한", "서투른", "부적격한"]
+  },
+  {
+    "english": "completely",
+    "korean": "완전히, 전적으로",
+    "example": "I completely agree with you.",
+    "wrongOptions": ["부분적으로", "약간", "거의"]
+  },
+  {
+    "english": "composed of",
+    "korean": "~로 구성된",
+    "example": "Water is composed of hydrogen and oxygen.",
+    "wrongOptions": ["분리된", "제외된", "독립된"]
+  },
+  {
+    "english": "comprehension",
+    "korean": "이해, 이해력",
+    "example": "Reading comprehension is important.",
+    "wrongOptions": ["오해", "혼란", "무지"]
+  },
+  {
+    "english": "compressed",
+    "korean": "압축된",
+    "example": "The file is compressed to save space.",
+    "wrongOptions": ["확장된", "팽창된", "늘어난"]
+  },
+  {
+    "english": "compulsory",
+    "korean": "의무적인, 강제적인",
+    "example": "Education is compulsory until age 16.",
+    "wrongOptions": ["선택적인", "자유로운", "임의의"]
+  },
+  {
+    "english": "concern",
+    "korean": "관심사, 걱정",
+    "example": "Health is a major concern.",
+    "wrongOptions": ["무관심", "냉담", "방치"]
+  },
+  {
+    "english": "concrete",
+    "korean": "구체적인, 콘크리트",
+    "example": "We need concrete evidence.",
+    "wrongOptions": ["추상적인", "모호한", "불명확한"]
+  },
+  {
+    "english": "confuse",
+    "korean": "혼란스럽게 하다, 혼동하다",
+    "example": "Don't confuse me with facts!",
+    "wrongOptions": ["명확히 하다", "설명하다", "이해시키다"]
+  },
+  {
+    "english": "confusion",
+    "korean": "혼란, 혼동",
+    "example": "There was confusion about the schedule.",
+    "wrongOptions": ["명확성", "확실성", "이해"]
+  },
+  {
+    "english": "connect",
+    "korean": "연결하다, 접속하다",
+    "example": "Please connect the cable to the computer.",
+    "wrongOptions": ["분리하다", "끊다", "차단하다"]
+  },
+  {
+    "english": "consecutive",
+    "korean": "연속적인, 계속되는",
+    "example": "It rained for three consecutive days.",
+    "wrongOptions": ["간헐적인", "불규칙한", "무작위의"]
+  },
+  {
+    "english": "consensus",
+    "korean": "합의, 의견 일치",
+    "example": "We reached a consensus on the issue.",
+    "wrongOptions": ["불일치", "갈등", "논쟁"]
+  },
+  {
+    "english": "considerate",
+    "korean": "사려 깊은, 배려하는",
+    "example": "He is very considerate of others.",
+    "wrongOptions": ["무신경한", "이기적인", "냉담한"]
+  },
+  {
+    "english": "consistently",
+    "korean": "일관되게, 지속적으로",
+    "example": "She consistently performs well.",
+    "wrongOptions": ["불규칙하게", "간헐적으로", "드물게"]
+  },
+  {
+    "english": "constant",
+    "korean": "지속적인, 일정한",
+    "example": "The machine makes a constant noise.",
+    "wrongOptions": ["변동하는", "간헐적인", "불규칙한"]
+  },
+  {
+    "english": "constituency",
+    "korean": "선거구, 지지층",
+    "example": "The politician visited his constituency.",
+    "wrongOptions": ["반대파", "경쟁자", "적대세력"]
+  },
+  {
+    "english": "constitutional",
+    "korean": "헌법의, 합헌적인",
+    "example": "This law is constitutional.",
+    "wrongOptions": ["위헌의", "불법의", "금지된"]
+  },
+  {
+    "english": "constraint",
+    "korean": "제약, 제한",
+    "example": "Budget constraints limited our options.",
+    "wrongOptions": ["자유", "무제한", "해방"]
+  },
+  {
+    "english": "consumption",
+    "korean": "소비, 소모",
+    "example": "Energy consumption has increased.",
+    "wrongOptions": ["생산", "제조", "창조"]
+  },
+  {
+    "english": "contender",
+    "korean": "경쟁자, 도전자",
+    "example": "He is a strong contender for the title.",
+    "wrongOptions": ["관중", "지지자", "동료"]
+  },
+  {
+    "english": "contentedly",
+    "korean": "만족스럽게, 흡족하게",
+    "example": "The cat purred contentedly.",
+    "wrongOptions": ["불만스럽게", "화나서", "슬프게"]
+  },
+  {
+    "english": "continually",
+    "korean": "계속해서, 끊임없이",
+    "example": "She continually checks her phone.",
+    "wrongOptions": ["가끔", "드물게", "한번만"]
+  },
+  {
+    "english": "contraceptive",
+    "korean": "피임의, 피임약",
+    "example": "They discussed contraceptive methods.",
+    "wrongOptions": ["임신촉진의", "출산의", "생식의"]
+  },
+  {
+    "english": "contradictive",
+    "korean": "모순되는, 반대의",
+    "example": "His statements are contradictive.",
+    "wrongOptions": ["일치하는", "조화로운", "합치하는"]
+  },
+  {
+    "english": "contradictory",
+    "korean": "모순적인, 상반되는",
+    "example": "The reports were contradictory.",
+    "wrongOptions": ["일관된", "부합하는", "동일한"]
+  },
+  {
+    "english": "contribute",
+    "korean": "기여하다, 공헌하다",
+    "example": "Everyone should contribute to the project.",
+    "wrongOptions": ["방해하다", "저해하다", "거부하다"]
+  },
+  {
+    "english": "controversial",
+    "korean": "논란의 여지가 있는",
+    "example": "It was a controversial decision.",
+    "wrongOptions": ["명백한", "당연한", "합의된"]
+  },
+  {
+    "english": "conversation",
+    "korean": "대화, 회화",
+    "example": "We had a long conversation.",
+    "wrongOptions": ["침묵", "독백", "무언"]
+  },
+  {
+    "english": "coordinate",
+    "korean": "조정하다, 협력하다",
+    "example": "We need to coordinate our efforts.",
+    "wrongOptions": ["방해하다", "분리하다", "충돌하다"]
+  },
+  {
+    "english": "core",
+    "korean": "핵심, 중심부",
+    "example": "This is the core of the problem.",
+    "wrongOptions": ["외곽", "표면", "가장자리"]
+  },
+  {
+    "english": "corporation",
+    "korean": "기업, 법인",
+    "example": "She works for a large corporation.",
+    "wrongOptions": ["개인사업", "영세업체", "가내수공업"]
+  },
+  {
+    "english": "corrosive",
+    "korean": "부식성의, 부식시키는",
+    "example": "The chemical is highly corrosive.",
+    "wrongOptions": ["보호하는", "강화하는", "중성의"]
+  },
+  {
+    "english": "cosmology",
+    "korean": "우주론, 우주관",
+    "example": "He studies cosmology at the university.",
+    "wrongOptions": ["미시세계", "원자론", "분자론"]
+  },
+  {
+    "english": "costly",
+    "korean": "비용이 많이 드는, 값비싼",
+    "example": "The repair will be costly.",
+    "wrongOptions": ["저렴한", "무료의", "싼"]
+  },
+  {
+    "english": "county",
+    "korean": "군, 카운티",
+    "example": "Orange County is in California.",
+    "wrongOptions": ["국가", "대륙", "세계"]
+  },
+  {
+    "english": "courageous",
+    "korean": "용감한, 대담한",
+    "example": "It was a courageous decision.",
+    "wrongOptions": ["비겁한", "소심한", "두려워하는"]
+  },
+  {
+    "english": "coursework",
+    "korean": "과제물, 교과 과정",
+    "example": "The coursework is due next week.",
+    "wrongOptions": ["휴가", "방학", "자유시간"]
+  },
+  {
+    "english": "cover",
+    "korean": "덮다, 다루다",
+    "example": "This book covers many topics.",
+    "wrongOptions": ["노출하다", "드러내다", "제외하다"]
+  },
+  {
+    "english": "crackdown",
+    "korean": "단속, 엄중 처벌",
+    "example": "There's a crackdown on illegal parking.",
+    "wrongOptions": ["관용", "묵인", "허용"]
+  },
+  {
+    "english": "crafty",
+    "korean": "교활한, 영리한",
+    "example": "He is a crafty businessman.",
+    "wrongOptions": ["솔직한", "순진한", "어리석은"]
+  },
+  {
+    "english": "crane",
+    "korean": "학, 기중기",
+    "example": "The crane lifted the heavy load.",
+    "wrongOptions": ["참새", "비둘기", "까마귀"]
+  },
+  {
+    "english": "create",
+    "korean": "창조하다, 만들다",
+    "example": "Artists create beautiful works.",
+    "wrongOptions": ["파괴하다", "제거하다", "없애다"]
+  },
+  {
+    "english": "creature",
+    "korean": "생물, 창조물",
+    "example": "The ocean has many strange creatures.",
+    "wrongOptions": ["무생물", "기계", "인공물"]
+  },
+  {
+    "english": "credibility",
+    "korean": "신뢰성, 신용도",
+    "example": "The witness lost all credibility.",
+    "wrongOptions": ["의심", "불신", "거짓"]
+  },
+  {
+    "english": "crisis",
+    "korean": "위기, 위급상황",
+    "example": "The country faced an economic crisis.",
+    "wrongOptions": ["안정", "번영", "평화"]
+  },
+  {
+    "english": "critical",
+    "korean": "비판적인, 중대한",
+    "example": "This is a critical moment.",
+    "wrongOptions": ["사소한", "중요하지 않은", "무관한"]
+  },
+  {
+    "english": "criticism",
+    "korean": "비판, 비평",
+    "example": "She received harsh criticism.",
+    "wrongOptions": ["칭찬", "찬사", "격려"]
+  },
+  {
+    "english": "cross over",
+    "korean": "건너가다, 넘어가다",
+    "example": "We crossed over the bridge.",
+    "wrongOptions": ["머무르다", "정지하다", "돌아가다"]
+  },
+  {
+    "english": "crowded",
+    "korean": "붐비는, 혼잡한",
+    "example": "The train was very crowded.",
+    "wrongOptions": ["한산한", "비어있는", "조용한"]
+  },
+  {
+    "english": "cruelty",
+    "korean": "잔인함, 학대",
+    "example": "Animal cruelty is illegal.",
+    "wrongOptions": ["친절", "자비", "연민"]
+  },
+  {
+    "english": "cryptography",
+    "korean": "암호학, 암호화",
+    "example": "Cryptography protects online data.",
+    "wrongOptions": ["해독", "공개", "노출"]
+  },
+  {
+    "english": "cuisine",
+    "korean": "요리법, 요리",
+    "example": "French cuisine is famous worldwide.",
+    "wrongOptions": ["의상", "건축", "음악"]
+  },
+  {
+    "english": "cultural",
+    "korean": "문화적인, 문화의",
+    "example": "Cultural exchange is important.",
+    "wrongOptions": ["자연적인", "생물학적", "물리적"]
+  },
+  {
+    "english": "curable",
+    "korean": "치료 가능한",
+    "example": "Most infections are curable.",
+    "wrongOptions": ["불치의", "치명적인", "영구적인"]
+  },
+  {
+    "english": "curb",
+    "korean": "억제하다, 제한하다",
+    "example": "We need to curb our spending.",
+    "wrongOptions": ["증가시키다", "장려하다", "확대하다"]
+  },
+  {
+    "english": "cure",
+    "korean": "치료하다, 치료법",
+    "example": "Scientists are searching for a cure.",
+    "wrongOptions": ["감염시키다", "악화시키다", "방치하다"]
+  },
+  {
+    "english": "curiosity",
+    "korean": "호기심, 궁금증",
+    "example": "Children have natural curiosity.",
+    "wrongOptions": ["무관심", "냉담", "무지"]
+  },
+  {
+    "english": "curly hair",
+    "korean": "곱슬머리",
+    "example": "She has beautiful curly hair.",
+    "wrongOptions": ["직모", "대머리", "짧은머리"]
+  },
+  {
+    "english": "current",
+    "korean": "현재의, 최근의",
+    "example": "What is the current situation?",
+    "wrongOptions": ["과거의", "미래의", "옛날의"]
+  },
+  {
+    "english": "curve",
+    "korean": "곡선, 커브",
+    "example": "The road has a sharp curve.",
+    "wrongOptions": ["직선", "각", "점"]
+  },
+  {
+    "english": "customer",
+    "korean": "고객, 손님",
+    "example": "The customer is always right.",
+    "wrongOptions": ["직원", "관리자", "사장"]
+  },
+  {
+    "english": "damage",
+    "korean": "손상, 피해",
+    "example": "The storm caused severe damage.",
+    "wrongOptions": ["수리", "복구", "개선"]
+  },
+  {
+    "english": "damned",
+    "korean": "저주받은, 지독한",
+    "example": "This damned computer won't work!",
+    "wrongOptions": ["축복받은", "행운의", "성스러운"]
+  },
+  {
+    "english": "dazed",
+    "korean": "멍한, 어리둥절한",
+    "example": "He looked dazed after the accident.",
+    "wrongOptions": ["명료한", "집중한", "또렷한"]
+  },
+  {
+    "english": "deal with",
+    "korean": "다루다, 처리하다",
+    "example": "I'll deal with this problem later.",
+    "wrongOptions": ["무시하다", "회피하다", "방치하다"]
+  },
+  {
+    "english": "dearth",
+    "korean": "부족, 결핍",
+    "example": "There is a dearth of qualified workers.",
+    "wrongOptions": ["풍부", "과잉", "넘침"]
+  },
+  {
+    "english": "decline",
+    "korean": "감소하다, 거절하다",
+    "example": "Sales have declined this year.",
+    "wrongOptions": ["증가하다", "상승하다", "수락하다"]
+  },
+  {
+    "english": "decorative",
+    "korean": "장식적인, 장식용의",
+    "example": "The vase is purely decorative.",
+    "wrongOptions": ["실용적인", "기능적인", "필수적인"]
+  },
+  {
+    "english": "dedicated",
+    "korean": "헌신적인, 전념하는",
+    "example": "She is a dedicated teacher.",
+    "wrongOptions": ["무관심한", "게으른", "냉담한"]
+  },
+  {
+    "english": "defensive",
+    "korean": "방어적인, 수비의",
+    "example": "He became defensive when criticized.",
+    "wrongOptions": ["공격적인", "개방적인", "수용적인"]
+  },
+  {
+    "english": "define",
+    "korean": "정의하다, 규정하다",
+    "example": "Can you define this word?",
+    "wrongOptions": ["모호하게 하다", "혼동하다", "숨기다"]
+  },
+  {
+    "english": "delighted",
+    "korean": "기뻐하는, 매우 즐거운",
+    "example": "She was delighted with the gift.",
+    "wrongOptions": ["실망한", "화난", "슬픈"]
+  },
+  {
+    "english": "deliver",
+    "korean": "배달하다, 전달하다",
+    "example": "The package will be delivered tomorrow.",
+    "wrongOptions": ["보관하다", "받다", "숨기다"]
+  },
+  {
+    "english": "demonstration",
+    "korean": "시위, 시연",
+    "example": "There was a large demonstration downtown.",
+    "wrongOptions": ["침묵", "무관심", "방관"]
+  },
+  {
+    "english": "depend on",
+    "korean": "~에 의존하다, ~에 달려있다",
+    "example": "Success depends on hard work.",
+    "wrongOptions": ["독립하다", "거부하다", "무시하다"]
+  },
+  {
+    "english": "depict",
+    "korean": "묘사하다, 그리다",
+    "example": "The painting depicts a battle scene.",
+    "wrongOptions": ["숨기다", "왜곡하다", "지우다"]
+  },
+  {
+    "english": "depressing",
+    "korean": "우울하게 하는, 침울한",
+    "example": "The news was quite depressing.",
+    "wrongOptions": ["고무적인", "즐거운", "희망적인"]
+  },
+  {
+    "english": "depth",
+    "korean": "깊이, 심도",
+    "example": "The lake has a depth of 50 meters.",
+    "wrongOptions": ["표면", "얕음", "높이"]
+  },
+  {
+    "english": "descend",
+    "korean": "내려가다, 하강하다",
+    "example": "The plane began to descend.",
+    "wrongOptions": ["올라가다", "상승하다", "오르다"]
+  },
+  {
+    "english": "descendant",
+    "korean": "자손, 후손",
+    "example": "He is a descendant of kings.",
+    "wrongOptions": ["조상", "선조", "선배"]
+  },
+  {
+    "english": "describe",
+    "korean": "설명하다, 묘사하다",
+    "example": "Can you describe what you saw?",
+    "wrongOptions": ["숨기다", "왜곡하다", "무시하다"]
+  },
+  {
+    "english": "deserted",
+    "korean": "버려진, 사람이 없는",
+    "example": "The streets were deserted at night.",
+    "wrongOptions": ["붐비는", "혼잡한", "활기찬"]
+  },
+  {
+    "english": "dessert",
+    "korean": "후식, 디저트",
+    "example": "What would you like for dessert?",
+    "wrongOptions": ["전채", "주요리", "음료"]
+  },
+  {
+    "english": "destination",
+    "korean": "목적지, 도착지",
+    "example": "Paris is our final destination.",
+    "wrongOptions": ["출발지", "경유지", "시작점"]
+  },
+  {
+    "english": "destroy",
+    "korean": "파괴하다, 없애다",
+    "example": "The fire destroyed the building.",
+    "wrongOptions": ["건설하다", "보존하다", "수리하다"]
+  },
+  {
+    "english": "detail",
+    "korean": "세부사항, 상세",
+    "example": "Please explain in detail.",
+    "wrongOptions": ["개요", "요약", "전체"]
+  },
+  {
+    "english": "deterioration",
+    "korean": "악화, 퇴보",
+    "example": "There's been a deterioration in air quality.",
+    "wrongOptions": ["개선", "향상", "발전"]
+  },
+  {
+    "english": "determined",
+    "korean": "결심한, 단호한",
+    "example": "She is determined to succeed.",
+    "wrongOptions": ["우유부단한", "망설이는", "포기한"]
+  },
+  {
+    "english": "develop",
+    "korean": "개발하다, 발전하다",
+    "example": "They plan to develop new software.",
+    "wrongOptions": ["퇴보하다", "파괴하다", "중단하다"]
+  },
+  {
+    "english": "device",
+    "korean": "장치, 기구",
+    "example": "This device measures temperature.",
+    "wrongOptions": ["생물", "자연물", "유기체"]
+  },
+  {
+    "english": "dialect",
+    "korean": "방언, 사투리",
+    "example": "He speaks a local dialect.",
+    "wrongOptions": ["표준어", "외국어", "공용어"]
+  },
+  {
+    "english": "dice",
+    "korean": "주사위",
+    "example": "Roll the dice to start the game.",
+    "wrongOptions": ["카드", "체스", "공"]
+  },
+  {
+    "english": "directly",
+    "korean": "직접적으로, 곧장",
+    "example": "Go directly to the station.",
+    "wrongOptions": ["간접적으로", "우회하여", "돌아서"]
+  },
+  {
+    "english": "disability",
+    "korean": "장애, 장애",
+    "example": "He has a physical disability.",
+    "wrongOptions": ["능력", "재능", "강점"]
+  },
+  {
+    "english": "disadvantage",
+    "korean": "불리, 단점",
+    "example": "Being tall has some disadvantages.",
+    "wrongOptions": ["이점", "장점", "강점"]
+  },
+  {
+    "english": "disarray",
+    "korean": "무질서, 혼란",
+    "example": "The room was in complete disarray.",
+    "wrongOptions": ["질서", "정돈", "체계"]
+  },
+  {
+    "english": "discharge",
+    "korean": "방출하다, 퇴원시키다",
+    "example": "The patient was discharged from hospital.",
+    "wrongOptions": ["입원시키다", "수용하다", "보관하다"]
+  },
+  {
+    "english": "discomfort",
+    "korean": "불편, 불쾌",
+    "example": "The injection caused some discomfort.",
+    "wrongOptions": ["편안함", "안락", "쾌적"]
+  },
+  {
+    "english": "discount",
+    "korean": "할인",
+    "example": "They offer a 20% discount.",
+    "wrongOptions": ["할증", "추가비용", "벌금"]
+  },
+  {
+    "english": "discovery",
+    "korean": "발견, 발견물",
+    "example": "This is an important scientific discovery.",
+    "wrongOptions": ["손실", "상실", "은폐"]
+  },
+  {
+    "english": "discrimination",
+    "korean": "차별, 구별",
+    "example": "Racial discrimination is illegal.",
+    "wrongOptions": ["평등", "공정", "형평"]
+  },
+  {
+    "english": "disease",
+    "korean": "질병, 병",
+    "example": "They're researching the disease.",
+    "wrongOptions": ["건강", "치료", "회복"]
+  },
+  {
+    "english": "disgustedly",
+    "korean": "역겹게, 혐오감을 가지고",
+    "example": "She looked at him disgustedly.",
+    "wrongOptions": ["호의적으로", "애정있게", "존경하며"]
+  },
+  {
+    "english": "disillusioned",
+    "korean": "환멸을 느낀, 실망한",
+    "example": "He became disillusioned with politics.",
+    "wrongOptions": ["희망찬", "낙관적인", "이상적인"]
+  },
+  {
+    "english": "disk",
+    "korean": "디스크, 원반",
+    "example": "Save the file to the disk.",
+    "wrongOptions": ["정사각형", "삼각형", "육각형"]
+  },
+  {
+    "english": "dismount",
+    "korean": "내리다, 하차하다",
+    "example": "He dismounted from his horse.",
+    "wrongOptions": ["타다", "올라가다", "오르다"]
+  },
+  {
+    "english": "disorder",
+    "korean": "무질서, 장애",
+    "example": "He suffers from a sleep disorder.",
+    "wrongOptions": ["질서", "건강", "정상"]
+  },
+  {
+    "english": "dispose",
+    "korean": "처분하다, 배치하다",
+    "example": "Please dispose of waste properly.",
+    "wrongOptions": ["보관하다", "수집하다", "저장하다"]
+  },
+  {
+    "english": "disputable",
+    "korean": "논쟁의 여지가 있는",
+    "example": "The claim is highly disputable.",
+    "wrongOptions": ["명백한", "확실한", "의심할 여지 없는"]
+  },
+  {
+    "english": "disruptive",
+    "korean": "파괴적인, 분열시키는",
+    "example": "His behavior was disruptive.",
+    "wrongOptions": ["건설적인", "조화로운", "협력적인"]
+  },
+  {
+    "english": "dissolve",
+    "korean": "녹이다, 해산하다",
+    "example": "Sugar dissolves in water.",
+    "wrongOptions": ["응고하다", "굳히다", "결정화하다"]
+  },
+  {
+    "english": "distinction",
+    "korean": "구별, 차이",
+    "example": "There's a clear distinction between the two.",
+    "wrongOptions": ["유사성", "동일성", "일치"]
+  },
+  {
+    "english": "distinguished",
+    "korean": "저명한, 뛰어난",
+    "example": "He is a distinguished professor.",
+    "wrongOptions": ["무명의", "평범한", "미숙한"]
+  },
+  {
+    "english": "district",
+    "korean": "구역, 지구",
+    "example": "She lives in the financial district.",
+    "wrongOptions": ["국가", "대륙", "세계"]
+  },
+  {
+    "english": "diversity",
+    "korean": "다양성",
+    "example": "Cultural diversity enriches society.",
+    "wrongOptions": ["획일성", "단일성", "동질성"]
+  },
+  {
+    "english": "divert",
+    "korean": "전환하다, 돌리다",
+    "example": "They diverted the river's course.",
+    "wrongOptions": ["유지하다", "고정하다", "집중하다"]
+  },
+  {
+    "english": "doorstep",
+    "korean": "현관 앞, 문간",
+    "example": "The package was left on the doorstep.",
+    "wrongOptions": ["지붕", "창문", "뒷마당"]
+  },
+  {
+    "english": "dot",
+    "korean": "점, 점을 찍다",
+    "example": "Don't forget to dot your i's.",
+    "wrongOptions": ["선", "면", "원"]
+  },
+  {
+    "english": "doubtful",
+    "korean": "의심스러운, 불확실한",
+    "example": "The outcome is doubtful.",
+    "wrongOptions": ["확실한", "명백한", "분명한"]
+  },
+  {
+    "english": "downstream",
+    "korean": "하류로, 하류의",
+    "example": "The boat drifted downstream.",
+    "wrongOptions": ["상류로", "정지한", "역류하여"]
+  },
+  {
+    "english": "drag oneself",
+    "korean": "힘들게 가다, 질질 끌다",
+    "example": "He dragged himself out of bed.",
+    "wrongOptions": ["뛰어가다", "경쾌하게 가다", "빠르게 움직이다"]
+  },
+  {
+    "english": "dramatic",
+    "korean": "극적인, 극심한",
+    "example": "There was a dramatic change.",
+    "wrongOptions": ["점진적인", "미미한", "사소한"]
+  },
+  {
+    "english": "drawing",
+    "korean": "그림, 도화",
+    "example": "She made a beautiful drawing.",
+    "wrongOptions": ["조각", "음악", "춤"]
+  },
+  {
+    "english": "drizzle",
+    "korean": "이슬비, 가랑비",
+    "example": "A light drizzle began to fall.",
+    "wrongOptions": ["폭우", "태풍", "눈보라"]
+  },
+  {
+    "english": "drop",
+    "korean": "떨어뜨리다, 방울",
+    "example": "Don't drop the glass!",
+    "wrongOptions": ["잡다", "올리다", "들어올리다"]
+  },
+  {
+    "english": "droplet",
+    "korean": "작은 물방울",
+    "example": "Water droplets covered the window.",
+    "wrongOptions": ["홍수", "호수", "바다"]
+  },
+  {
+    "english": "drought",
+    "korean": "가뭄",
+    "example": "The region suffered a severe drought.",
+    "wrongOptions": ["홍수", "장마", "폭우"]
+  },
+  {
+    "english": "drug",
+    "korean": "약물, 마약",
+    "example": "The doctor prescribed a new drug.",
+    "wrongOptions": ["음식", "음료", "비타민"]
+  },
+  {
+    "english": "easygoing",
+    "korean": "느긋한, 태평한",
+    "example": "He has an easygoing personality.",
+    "wrongOptions": ["긴장한", "엄격한", "까다로운"]
+  },
+  {
+    "english": "eclipse",
+    "korean": "일식, 월식",
+    "example": "We watched the solar eclipse.",
+    "wrongOptions": ["만월", "초승달", "별똥별"]
+  },
+  {
+    "english": "economic",
+    "korean": "경제의, 경제적인",
+    "example": "The economic situation is improving.",
+    "wrongOptions": ["정치적", "사회적", "문화적"]
+  },
+  {
+    "english": "economist",
+    "korean": "경제학자",
+    "example": "The economist predicted a recession.",
+    "wrongOptions": ["의사", "변호사", "교사"]
+  },
+  {
+    "english": "elect",
+    "korean": "선출하다, 선택하다",
+    "example": "They elected a new president.",
+    "wrongOptions": ["해임하다", "거부하다", "퇴출하다"]
+  },
+  {
+    "english": "electrician",
+    "korean": "전기 기술자",
+    "example": "Call an electrician to fix the wiring.",
+    "wrongOptions": ["배관공", "목수", "화가"]
+  },
+  {
+    "english": "electron",
+    "korean": "전자",
+    "example": "Electrons orbit the nucleus.",
+    "wrongOptions": ["양성자", "중성자", "원자핵"]
+  },
+  {
+    "english": "elementary",
+    "korean": "초보의, 기초적인",
+    "example": "This is elementary mathematics.",
+    "wrongOptions": ["고급의", "복잡한", "전문적인"]
+  },
+  {
+    "english": "eliminate",
+    "korean": "제거하다, 없애다",
+    "example": "We need to eliminate errors.",
+    "wrongOptions": ["추가하다", "포함하다", "유지하다"]
+  },
+  {
+    "english": "elliptical",
+    "korean": "타원형의",
+    "example": "The orbit is elliptical.",
+    "wrongOptions": ["원형의", "정사각형의", "직선의"]
+  },
+  {
+    "english": "eloquent",
+    "korean": "웅변의, 설득력 있는",
+    "example": "She gave an eloquent speech.",
+    "wrongOptions": ["서툰", "무능한", "말없는"]
+  },
+  {
+    "english": "embarrass",
+    "korean": "당황하게 하다, 난처하게 하다",
+    "example": "Don't embarrass me in public!",
+    "wrongOptions": ["격려하다", "칭찬하다", "위로하다"]
+  },
+  {
+    "english": "embrace",
+    "korean": "포옹하다, 받아들이다",
+    "example": "They embraced each other warmly.",
+    "wrongOptions": ["거부하다", "밀어내다", "피하다"]
+  },
+  {
+    "english": "emotion",
+    "korean": "감정, 정서",
+    "example": "She showed no emotion.",
+    "wrongOptions": ["논리", "이성", "계산"]
+  },
+  {
+    "english": "emphasize",
+    "korean": "강조하다",
+    "example": "The teacher emphasized the importance of study.",
+    "wrongOptions": ["무시하다", "축소하다", "숨기다"]
+  },
+  {
+    "english": "employee",
+    "korean": "직원, 고용인",
+    "example": "The company has 500 employees.",
+    "wrongOptions": ["고용주", "사장", "소유주"]
+  },
+  {
+    "english": "empower",
+    "korean": "권한을 주다, 능력을 주다",
+    "example": "Education empowers people.",
+    "wrongOptions": ["약화시키다", "무력화하다", "제한하다"]
+  },
+  {
+    "english": "empty",
+    "korean": "빈, 비어있는",
+    "example": "The room was empty.",
+    "wrongOptions": ["가득 찬", "붐비는", "포화된"]
+  },
+  {
+    "english": "enable",
+    "korean": "가능하게 하다, 할 수 있게 하다",
+    "example": "Technology enables remote work.",
+    "wrongOptions": ["막다", "방해하다", "불가능하게 하다"]
+  },
+  {
+    "english": "encounter",
+    "korean": "마주치다, 조우하다",
+    "example": "We encountered some problems.",
+    "wrongOptions": ["피하다", "회피하다", "도망가다"]
+  },
+  {
+    "english": "encouraging",
+    "korean": "고무적인, 격려하는",
+    "example": "The results are encouraging.",
+    "wrongOptions": ["낙담시키는", "실망스러운", "우울한"]
+  },
+  {
+    "english": "endorse",
+    "korean": "지지하다, 승인하다",
+    "example": "The senator endorsed the candidate.",
+    "wrongOptions": ["반대하다", "거부하다", "비난하다"]
+  },
+  {
+    "english": "engage in",
+    "korean": "~에 참여하다, 종사하다",
+    "example": "They engage in charitable activities.",
+    "wrongOptions": ["회피하다", "거부하다", "포기하다"]
+  },
+  {
+    "english": "enhance",
+    "korean": "향상시키다, 높이다",
+    "example": "This will enhance your skills.",
+    "wrongOptions": ["악화시키다", "감소시키다", "저하시키다"]
+  },
+  {
+    "english": "enlarge",
+    "korean": "확대하다, 크게 하다",
+    "example": "Can you enlarge this photo?",
+    "wrongOptions": ["축소하다", "줄이다", "작게 하다"]
+  },
+  {
+    "english": "enlighten",
+    "korean": "계몽하다, 깨우치다",
+    "example": "The book enlightened me.",
+    "wrongOptions": ["혼란시키다", "어둡게 하다", "무지하게 하다"]
+  },
+  {
+    "english": "enrich",
+    "korean": "풍부하게 하다, 부유하게 하다",
+    "example": "Travel enriches the mind.",
+    "wrongOptions": ["가난하게 하다", "고갈시키다", "빈약하게 하다"]
+  },
+  {
+    "english": "enrollment",
+    "korean": "등록, 입학",
+    "example": "Student enrollment has increased.",
+    "wrongOptions": ["퇴학", "제적", "탈퇴"]
+  },
+  {
+    "english": "ensure",
+    "korean": "보장하다, 확실하게 하다",
+    "example": "Please ensure the door is locked.",
+    "wrongOptions": ["위험하게 하다", "불확실하게 하다", "방치하다"]
+  },
+  {
+    "english": "entertainer",
+    "korean": "연예인, 공연자",
+    "example": "She's a famous entertainer.",
+    "wrongOptions": ["관객", "비평가", "제작자"]
+  },
+  {
+    "english": "enthusiastic",
+    "korean": "열정적인, 열렬한",
+    "example": "He was enthusiastic about the project.",
+    "wrongOptions": ["무관심한", "냉담한", "소극적인"]
+  },
+  {
+    "english": "entire",
+    "korean": "전체의, 완전한",
+    "example": "I read the entire book.",
+    "wrongOptions": ["부분적인", "일부의", "불완전한"]
+  },
+  {
+    "english": "entry",
+    "korean": "입장, 항목",
+    "example": "Entry is free for children.",
+    "wrongOptions": ["퇴장", "출구", "탈출"]
+  },
+  {
+    "english": "eradicate",
+    "korean": "근절하다, 박멸하다",
+    "example": "We must eradicate poverty.",
+    "wrongOptions": ["확산시키다", "조장하다", "유지하다"]
+  },
+  {
+    "english": "error",
+    "korean": "오류, 실수",
+    "example": "There's an error in the calculation.",
+    "wrongOptions": ["정확성", "완벽", "올바름"]
+  },
+  {
+    "english": "erstwhile",
+    "korean": "이전의, 옛날의",
+    "example": "He met his erstwhile friend.",
+    "wrongOptions": ["현재의", "미래의", "새로운"]
+  },
+  {
+    "english": "especially",
+    "korean": "특히, 특별히",
+    "example": "I love summer, especially July.",
+    "wrongOptions": ["전혀", "거의", "일반적으로"]
+  },
+  {
+    "english": "ethical",
+    "korean": "윤리적인, 도덕적인",
+    "example": "This raises ethical questions.",
+    "wrongOptions": ["비윤리적인", "부도덕한", "불법적인"]
+  },
+  {
+    "english": "evaluate",
+    "korean": "평가하다, 판단하다",
+    "example": "Teachers evaluate student performance.",
+    "wrongOptions": ["무시하다", "방치하다", "추측하다"]
+  },
+  {
+    "english": "even",
+    "korean": "~조차도, 평평한",
+    "example": "Even experts make mistakes.",
+    "wrongOptions": ["오직", "단지", "특별히"]
+  },
+  {
+    "english": "eventually",
+    "korean": "결국, 마침내",
+    "example": "She eventually agreed.",
+    "wrongOptions": ["즉시", "곧바로", "처음에"]
+  },
+  {
+    "english": "evolution",
+    "korean": "진화, 발전",
+    "example": "Darwin's theory of evolution.",
+    "wrongOptions": ["퇴화", "정체", "소멸"]
+  },
+  {
+    "english": "exalt",
+    "korean": "높이다, 찬양하다",
+    "example": "They exalted him as a hero.",
+    "wrongOptions": ["폄하하다", "비하하다", "무시하다"]
+  },
+  {
+    "english": "exceptional",
+    "korean": "예외적인, 탁월한",
+    "example": "She showed exceptional talent.",
+    "wrongOptions": ["평범한", "일반적인", "보통의"]
+  },
+  {
+    "english": "excessive",
+    "korean": "과도한, 지나친",
+    "example": "Excessive drinking is harmful.",
+    "wrongOptions": ["적당한", "부족한", "균형잡힌"]
+  },
+  {
+    "english": "exclusively",
+    "korean": "독점적으로, 오직",
+    "example": "This product is sold exclusively online.",
+    "wrongOptions": ["공통적으로", "공유하여", "널리"]
+  },
+  {
+    "english": "exempt",
+    "korean": "면제하다, 면제된",
+    "example": "Children are exempt from the fee.",
+    "wrongOptions": ["의무적인", "강제적인", "필수적인"]
+  },
+  {
+    "english": "exercise",
+    "korean": "운동, 연습하다",
+    "example": "Regular exercise is important.",
+    "wrongOptions": ["휴식", "수면", "정지"]
+  },
+  {
+    "english": "exhale",
+    "korean": "숨을 내쉬다",
+    "example": "Exhale slowly and relax.",
+    "wrongOptions": ["흡입하다", "숨을 참다", "질식하다"]
+  },
+  {
+    "english": "exhausted",
+    "korean": "지친, 기진맥진한",
+    "example": "I'm completely exhausted.",
+    "wrongOptions": ["활기찬", "원기왕성한", "상쾌한"]
+  },
+  {
+    "english": "exit",
+    "korean": "출구, 나가다",
+    "example": "Please use the emergency exit.",
+    "wrongOptions": ["입구", "들어가다", "진입하다"]
+  },
+  {
+    "english": "expand",
+    "korean": "확장하다, 팽창하다",
+    "example": "The company plans to expand.",
+    "wrongOptions": ["축소하다", "줄이다", "감소하다"]
+  },
+  {
+    "english": "experience",
+    "korean": "경험, 체험하다",
+    "example": "She has years of experience.",
+    "wrongOptions": ["무지", "미숙", "생소함"]
+  },
+  {
+    "english": "expire",
+    "korean": "만료되다, 숨을 거두다",
+    "example": "My passport will expire soon.",
+    "wrongOptions": ["시작되다", "갱신되다", "연장되다"]
+  },
+  {
+    "english": "explanation",
+    "korean": "설명, 해명",
+    "example": "Can you give me an explanation?",
+    "wrongOptions": ["혼란", "모호함", "침묵"]
+  },
+  {
+    "english": "explore",
+    "korean": "탐험하다, 탐구하다",
+    "example": "Let's explore the city.",
+    "wrongOptions": ["회피하다", "무시하다", "방치하다"]
+  },
+  {
+    "english": "exposure",
+    "korean": "노출, 폭로",
+    "example": "Avoid excessive sun exposure.",
+    "wrongOptions": ["보호", "은폐", "숨김"]
+  },
+  {
+    "english": "express",
+    "korean": "표현하다, 급행의",
+    "example": "He expressed his gratitude.",
+    "wrongOptions": ["숨기다", "억압하다", "감추다"]
+  },
+  {
+    "english": "extend",
+    "korean": "연장하다, 뻗다",
+    "example": "Can you extend the deadline?",
+    "wrongOptions": ["단축하다", "줄이다", "종료하다"]
+  },
+  {
+    "english": "extinction",
+    "korean": "멸종, 소멸",
+    "example": "Many species face extinction.",
+    "wrongOptions": ["번식", "증가", "번영"]
+  },
+  {
+    "english": "extract",
+    "korean": "추출하다, 발췌하다",
+    "example": "They extract oil from plants.",
+    "wrongOptions": ["주입하다", "넣다", "혼합하다"]
+  },
+  {
+    "english": "extrovert",
+    "korean": "외향적인 사람",
+    "example": "She's an extrovert who loves parties.",
+    "wrongOptions": ["내성적인 사람", "은둔자", "고립된 사람"]
+  },
+  {
+    "english": "face",
+    "korean": "얼굴, 직면하다",
+    "example": "We must face this challenge.",
+    "wrongOptions": ["회피하다", "도망가다", "무시하다"]
+  },
+  {
+    "english": "facilitate",
+    "korean": "용이하게 하다, 촉진하다",
+    "example": "Technology facilitates communication.",
+    "wrongOptions": ["방해하다", "저해하다", "막다"]
+  },
+  {
+    "english": "fairly",
+    "korean": "공정하게, 상당히",
+    "example": "Treat everyone fairly.",
+    "wrongOptions": ["불공정하게", "편파적으로", "부당하게"]
+  },
+  {
+    "english": "familiarize",
+    "korean": "익숙하게 하다",
+    "example": "Familiarize yourself with the rules.",
+    "wrongOptions": ["낯설게 하다", "혼란시키다", "멀어지게 하다"]
+  },
+  {
+    "english": "fascinating",
+    "korean": "매혹적인, 흥미진진한",
+    "example": "That's a fascinating story.",
+    "wrongOptions": ["지루한", "따분한", "무미건조한"]
+  },
+  {
+    "english": "fashionable",
+    "korean": "유행하는, 세련된",
+    "example": "She wears fashionable clothes.",
+    "wrongOptions": ["구식의", "낡은", "촌스러운"]
+  },
+  {
+    "english": "faultless",
+    "korean": "완벽한, 결점 없는",
+    "example": "Her performance was faultless.",
+    "wrongOptions": ["결함있는", "불완전한", "잘못된"]
+  },
+  {
+    "english": "faulty",
+    "korean": "결함이 있는, 잘못된",
+    "example": "The machine is faulty.",
+    "wrongOptions": ["완벽한", "정상적인", "올바른"]
+  },
+  {
+    "english": "feature",
+    "korean": "특징, 특색",
+    "example": "The main feature of this phone is its camera.",
+    "wrongOptions": ["결점", "단점", "약점"]
+  },
+  {
+    "english": "feckless",
+    "korean": "무능한, 무책임한",
+    "example": "He's a feckless individual.",
+    "wrongOptions": ["유능한", "책임감있는", "성실한"]
+  },
+  {
+    "english": "field",
+    "korean": "분야, 현장",
+    "example": "She works in the medical field.",
+    "wrongOptions": ["사무실", "실험실", "공장"]
+  },
+  {
+    "english": "figure out",
+    "korean": "알아내다, 이해하다",
+    "example": "I can't figure out this puzzle.",
+    "wrongOptions": ["포기하다", "혼란스러워하다", "무시하다"]
+  },
+  {
+    "english": "fingernail",
+    "korean": "손톱",
+    "example": "She painted her fingernails red.",
+    "wrongOptions": ["발톱", "머리카락", "피부"]
+  },
+  {
+    "english": "firm",
+    "korean": "확고한, 회사",
+    "example": "He has a firm belief in justice.",
+    "wrongOptions": ["흔들리는", "약한", "불확실한"]
+  },
+  {
+    "english": "fitness",
+    "korean": "건강, 적합성",
+    "example": "Physical fitness is important.",
+    "wrongOptions": ["병약함", "허약함", "질병"]
+  },
+  {
+    "english": "fix",
+    "korean": "고치다, 고정하다",
+    "example": "Can you fix my computer?",
+    "wrongOptions": ["부수다", "망가뜨리다", "훼손하다"]
+  },
+  {
+    "english": "flour",
+    "korean": "밀가루",
+    "example": "Add two cups of flour.",
+    "wrongOptions": ["설탕", "소금", "후추"]
+  },
+  {
+    "english": "flourish",
+    "korean": "번영하다, 번성하다",
+    "example": "The business began to flourish.",
+    "wrongOptions": ["쇠퇴하다", "실패하다", "몰락하다"]
+  },
+  {
+    "english": "flu",
+    "korean": "독감",
+    "example": "Many people have the flu this winter.",
+    "wrongOptions": ["건강", "활력", "면역"]
+  },
+  {
+    "english": "footbridge",
+    "korean": "보도교, 인도교",
+    "example": "Cross the river using the footbridge.",
+    "wrongOptions": ["차도", "고속도로", "터널"]
+  },
+  {
+    "english": "force",
+    "korean": "힘, 강요하다",
+    "example": "Don't force me to go.",
+    "wrongOptions": ["요청하다", "부탁하다", "권유하다"]
+  },
+  {
+    "english": "forgive",
+    "korean": "용서하다",
+    "example": "Please forgive me for being late.",
+    "wrongOptions": ["비난하다", "벌하다", "원망하다"]
+  },
+  {
+    "english": "form",
+    "korean": "형태, 형성하다",
+    "example": "Ice forms when water freezes.",
+    "wrongOptions": ["파괴하다", "해체하다", "분해하다"]
+  },
+  {
+    "english": "formidable",
+    "korean": "가공할 만한, 어마어마한",
+    "example": "He faced a formidable opponent.",
+    "wrongOptions": ["약한", "쉬운", "미약한"]
+  },
+  {
+    "english": "fort",
+    "korean": "요새, 성채",
+    "example": "The old fort still stands.",
+    "wrongOptions": ["궁전", "별장", "오두막"]
+  },
+  {
+    "english": "fortunate",
+    "korean": "운이 좋은, 다행한",
+    "example": "We were fortunate to survive.",
+    "wrongOptions": ["불운한", "재수없는", "불행한"]
+  },
+  {
+    "english": "found",
+    "korean": "설립하다, 창립하다",
+    "example": "He founded the company in 1990.",
+    "wrongOptions": ["폐쇄하다", "파산시키다", "해산하다"]
+  },
+  {
+    "english": "fragrant",
+    "korean": "향기로운",
+    "example": "The flowers are very fragrant.",
+    "wrongOptions": ["악취나는", "냄새없는", "불쾌한"]
+  },
+  {
+    "english": "fraudulent",
+    "korean": "사기의, 부정한",
+    "example": "The company engaged in fraudulent practices.",
+    "wrongOptions": ["정직한", "합법적인", "투명한"]
+  },
+  {
+    "english": "frightened",
+    "korean": "겁먹은, 두려워하는",
+    "example": "The child was frightened by the noise.",
+    "wrongOptions": ["용감한", "대담한", "침착한"]
+  },
+  {
+    "english": "frown",
+    "korean": "찡그리다, 눈살을 찌푸리다",
+    "example": "She frowned at the bad news.",
+    "wrongOptions": ["미소짓다", "웃다", "기뻐하다"]
+  },
+  {
+    "english": "fuel",
+    "korean": "연료",
+    "example": "The car needs fuel.",
+    "wrongOptions": ["물", "공기", "빛"]
+  },
+  {
+    "english": "full-time",
+    "korean": "전임의, 정규직의",
+    "example": "She works full-time at the hospital.",
+    "wrongOptions": ["파트타임", "임시직", "아르바이트"]
+  },
+  {
+    "english": "fundamental",
+    "korean": "근본적인, 기본적인",
+    "example": "This is a fundamental principle.",
+    "wrongOptions": ["부차적인", "사소한", "표면적인"]
+  },
+  {
+    "english": "gain",
+    "korean": "얻다, 획득하다",
+    "example": "I gained valuable experience.",
+    "wrongOptions": ["잃다", "포기하다", "버리다"]
+  },
+  {
+    "english": "gap year",
+    "korean": "휴학 기간",
+    "example": "She took a gap year to travel.",
+    "wrongOptions": ["졸업", "입학", "재학"]
+  },
+  {
+    "english": "garbage",
+    "korean": "쓰레기",
+    "example": "Please take out the garbage.",
+    "wrongOptions": ["보물", "선물", "자원"]
+  },
+  {
+    "english": "generally",
+    "korean": "일반적으로, 대체로",
+    "example": "People generally agree on this.",
+    "wrongOptions": ["특별히", "드물게", "예외적으로"]
+  },
+  {
+    "english": "generous",
+    "korean": "관대한, 너그러운",
+    "example": "He made a generous donation.",
+    "wrongOptions": ["인색한", "구두쇠", "야박한"]
+  },
+  {
+    "english": "genetics",
+    "korean": "유전학",
+    "example": "She studies genetics at university.",
+    "wrongOptions": ["천문학", "지질학", "고고학"]
+  },
+  {
+    "english": "genre",
+    "korean": "장르, 유형",
+    "example": "What genre of music do you like?",
+    "wrongOptions": ["색깔", "크기", "무게"]
+  },
+  {
+    "english": "giant",
+    "korean": "거인, 거대한",
+    "example": "That tree is a giant oak.",
+    "wrongOptions": ["난쟁이", "작은", "미세한"]
+  },
+  {
+    "english": "giggle",
+    "korean": "킥킥거리다",
+    "example": "The girls giggled at the joke.",
+    "wrongOptions": ["울다", "소리치다", "한숨쉬다"]
+  },
+  {
+    "english": "gleefully",
+    "korean": "기쁘게, 즐겁게",
+    "example": "The children played gleefully.",
+    "wrongOptions": ["슬프게", "우울하게", "화나서"]
+  },
+  {
+    "english": "goal",
+    "korean": "목표, 골",
+    "example": "My goal is to learn Spanish.",
+    "wrongOptions": ["실패", "포기", "좌절"]
+  },
+  {
+    "english": "government",
+    "korean": "정부",
+    "example": "The government announced new policies.",
+    "wrongOptions": ["기업", "가족", "개인"]
+  },
+  {
+    "english": "grace",
+    "korean": "우아함, 은혜",
+    "example": "She danced with grace.",
+    "wrongOptions": ["서투름", "어색함", "무례함"]
+  },
+  {
+    "english": "graffiti",
+    "korean": "낙서, 그라피티",
+    "example": "The wall was covered with graffiti.",
+    "wrongOptions": ["벽화", "초상화", "조각"]
+  },
+  {
+    "english": "grasp",
+    "korean": "움켜잡다, 이해하다",
+    "example": "She grasped the concept quickly.",
+    "wrongOptions": ["놓치다", "오해하다", "혼란스러워하다"]
+  },
+  {
+    "english": "grass",
+    "korean": "풀, 잔디",
+    "example": "The grass is green in spring.",
+    "wrongOptions": ["나무", "꽃", "덤불"]
+  },
+  {
+    "english": "gratitude",
+    "korean": "감사, 고마움",
+    "example": "She expressed her gratitude.",
+    "wrongOptions": ["원망", "불평", "불만"]
+  },
+  {
+    "english": "Great Depression",
+    "korean": "대공황",
+    "example": "The Great Depression lasted for years.",
+    "wrongOptions": ["호황", "번영", "성장"]
+  },
+  {
+    "english": "grin",
+    "korean": "활짝 웃다",
+    "example": "He grinned from ear to ear.",
+    "wrongOptions": ["찡그리다", "울다", "화내다"]
+  },
+  {
+    "english": "grind",
+    "korean": "갈다, 빻다",
+    "example": "Grind the coffee beans.",
+    "wrongOptions": ["끓이다", "녹이다", "얼리다"]
+  },
+  {
+    "english": "grocery",
+    "korean": "식료품",
+    "example": "I need to buy groceries.",
+    "wrongOptions": ["가구", "의류", "전자제품"]
+  },
+  {
+    "english": "grumpy",
+    "korean": "심술궂은, 퉁명스러운",
+    "example": "He's grumpy in the morning.",
+    "wrongOptions": ["명랑한", "쾌활한", "유쾌한"]
+  },
+  {
+    "english": "guideline",
+    "korean": "지침, 가이드라인",
+    "example": "Follow the safety guidelines.",
+    "wrongOptions": ["금지", "처벌", "제재"]
+  },
+  {
+    "english": "hands-on",
+    "korean": "실습의, 직접 해보는",
+    "example": "This is a hands-on workshop.",
+    "wrongOptions": ["이론적인", "추상적인", "간접적인"]
+  },
+  {
+    "english": "handy",
+    "korean": "편리한, 손재주 있는",
+    "example": "This tool is very handy.",
+    "wrongOptions": ["불편한", "쓸모없는", "서투른"]
+  },
+  {
+    "english": "happen",
+    "korean": "일어나다, 발생하다",
+    "example": "What happened yesterday?",
+    "wrongOptions": ["예방하다", "막다", "방지하다"]
+  },
+  {
+    "english": "harbinger",
+    "korean": "전조, 선구자",
+    "example": "Dark clouds are a harbinger of rain.",
+    "wrongOptions": ["결과", "종말", "완결"]
+  },
+  {
+    "english": "hardship",
+    "korean": "고난, 곤경",
+    "example": "They endured great hardship.",
+    "wrongOptions": ["행복", "행운", "번영"]
+  },
+  {
+    "english": "harm",
+    "korean": "해치다, 피해",
+    "example": "Smoking can harm your health.",
+    "wrongOptions": ["치유하다", "돕다", "개선하다"]
+  },
+  {
+    "english": "harshly",
+    "korean": "가혹하게, 심하게",
+    "example": "He spoke harshly to the child.",
+    "wrongOptions": ["부드럽게", "친절하게", "온화하게"]
+  },
+  {
+    "english": "hay",
+    "korean": "건초",
+    "example": "Farmers store hay for winter.",
+    "wrongOptions": ["곡물", "과일", "채소"]
+  },
+  {
+    "english": "helpless",
+    "korean": "무력한, 어쩔 수 없는",
+    "example": "She felt helpless in the situation.",
+    "wrongOptions": ["강력한", "유능한", "영향력있는"]
+  },
+  {
+    "english": "heritage",
+    "korean": "유산, 문화유산",
+    "example": "This building is part of our heritage.",
+    "wrongOptions": ["미래", "현재", "계획"]
+  },
+  {
+    "english": "hide",
+    "korean": "숨다, 숨기다",
+    "example": "Don't hide the truth from me.",
+    "wrongOptions": ["드러내다", "노출하다", "공개하다"]
+  },
+  {
+    "english": "hierarchy",
+    "korean": "계층, 서열",
+    "example": "The company has a strict hierarchy.",
+    "wrongOptions": ["평등", "동등", "균등"]
+  },
+  {
+    "english": "historian",
+    "korean": "역사가",
+    "example": "The historian wrote about ancient Rome.",
+    "wrongOptions": ["과학자", "수학자", "예술가"]
+  },
+  {
+    "english": "hold",
+    "korean": "잡다, 개최하다",
+    "example": "Please hold this for me.",
+    "wrongOptions": ["놓다", "던지다", "버리다"]
+  },
+  {
+    "english": "honorary",
+    "korean": "명예의, 명예직의",
+    "example": "She received an honorary degree.",
+    "wrongOptions": ["실질적인", "급여받는", "정식의"]
+  },
+  {
+    "english": "hostile",
+    "korean": "적대적인, 적의있는",
+    "example": "The atmosphere was hostile.",
+    "wrongOptions": ["우호적인", "친근한", "환대하는"]
+  },
+  {
+    "english": "however",
+    "korean": "그러나, 하지만",
+    "example": "I like it. However, it's too expensive.",
+    "wrongOptions": ["그리고", "또한", "마찬가지로"]
+  },
+  {
+    "english": "humble",
+    "korean": "겸손한, 소박한",
+    "example": "He has a humble personality.",
+    "wrongOptions": ["거만한", "오만한", "자랑스러운"]
+  },
+  {
+    "english": "humid",
+    "korean": "습한, 습기가 많은",
+    "example": "The weather is hot and humid.",
+    "wrongOptions": ["건조한", "바싹 마른", "쾌청한"]
+  },
+  {
+    "english": "humiliating",
+    "korean": "굴욕적인, 창피한",
+    "example": "It was a humiliating defeat.",
+    "wrongOptions": ["영광스러운", "자랑스러운", "명예로운"]
+  },
+  {
+    "english": "husband",
+    "korean": "남편",
+    "example": "She introduced her husband.",
+    "wrongOptions": ["아내", "형제", "아버지"]
+  },
+  {
+    "english": "hydrogen",
+    "korean": "수소",
+    "example": "Water contains hydrogen and oxygen.",
+    "wrongOptions": ["질소", "탄소", "철"]
+  },
+  {
+    "english": "hypocritical",
+    "korean": "위선적인",
+    "example": "His behavior was hypocritical.",
+    "wrongOptions": ["진실한", "정직한", "솔직한"]
+  },
+  {
+    "english": "hypothesis",
+    "korean": "가설",
+    "example": "The scientist tested her hypothesis.",
+    "wrongOptions": ["사실", "증명", "진리"]
+  },
+  {
+    "english": "ideology",
+    "korean": "이념, 이데올로기",
+    "example": "Political ideology influences decisions.",
+    "wrongOptions": ["사실", "현실", "실용"]
+  },
+  {
+    "english": "ignition",
+    "korean": "점화, 발화",
+    "example": "Turn the key in the ignition.",
+    "wrongOptions": ["소화", "진화", "냉각"]
+  },
+  {
+    "english": "ignorance",
+    "korean": "무지, 무식",
+    "example": "Ignorance is not an excuse.",
+    "wrongOptions": ["지식", "학식", "교양"]
+  },
+  {
+    "english": "illegal",
+    "korean": "불법의",
+    "example": "Smoking here is illegal.",
+    "wrongOptions": ["합법적인", "허용된", "정당한"]
+  },
+  {
+    "english": "illogical",
+    "korean": "비논리적인",
+    "example": "Your argument is illogical.",
+    "wrongOptions": ["논리적인", "합리적인", "타당한"]
+  },
+  {
+    "english": "illusion",
+    "korean": "환상, 착각",
+    "example": "It was just an optical illusion.",
+    "wrongOptions": ["현실", "사실", "진실"]
+  },
+  {
+    "english": "illustrate",
+    "korean": "설명하다, 예시하다",
+    "example": "Let me illustrate my point.",
+    "wrongOptions": ["숨기다", "혼란시키다", "모호하게 하다"]
+  },
+  {
+    "english": "imitation",
+    "korean": "모방, 모조품",
+    "example": "This is just an imitation.",
+    "wrongOptions": ["원본", "진품", "오리지널"]
+  },
+  {
+    "english": "impairment",
+    "korean": "손상, 장애",
+    "example": "He has a hearing impairment.",
+    "wrongOptions": ["개선", "향상", "강화"]
+  },
+  {
+    "english": "impatience",
+    "korean": "조급함, 성급함",
+    "example": "She showed signs of impatience.",
+    "wrongOptions": ["인내심", "끈기", "참을성"]
+  },
+  {
+    "english": "imperfect",
+    "korean": "불완전한, 결함있는",
+    "example": "The system is imperfect.",
+    "wrongOptions": ["완벽한", "완전한", "결점없는"]
+  },
+  {
+    "english": "implication",
+    "korean": "함축, 암시",
+    "example": "What are the implications of this decision?",
+    "wrongOptions": ["명시", "선언", "공표"]
+  },
+  {
+    "english": "impress",
+    "korean": "감동시키다, 인상을 주다",
+    "example": "She wanted to impress her boss.",
+    "wrongOptions": ["실망시키다", "무시하다", "냉대하다"]
+  },
+  {
+    "english": "impressed",
+    "korean": "감명받은, 인상깊은",
+    "example": "I was impressed by his speech.",
+    "wrongOptions": ["실망한", "지루한", "무관심한"]
+  },
+  {
+    "english": "impressive",
+    "korean": "인상적인, 감동적인",
+    "example": "That was an impressive performance.",
+    "wrongOptions": ["평범한", "보잘것없는", "실망스러운"]
+  },
+  {
+    "english": "improper",
+    "korean": "부적절한, 불법의",
+    "example": "His conduct was improper.",
+    "wrongOptions": ["적절한", "올바른", "정당한"]
+  },
+  {
+    "english": "improve",
+    "korean": "개선하다, 향상시키다",
+    "example": "We need to improve our service.",
+    "wrongOptions": ["악화시키다", "저하시키다", "손상시키다"]
+  },
+  {
+    "english": "impulse",
+    "korean": "충동, 자극",
+    "example": "He acted on impulse.",
+    "wrongOptions": ["계획", "숙고", "신중함"]
+  },
+  {
+    "english": "in charge of",
+    "korean": "~을 담당하는, 책임지는",
+    "example": "She is in charge of marketing.",
+    "wrongOptions": ["무관한", "면제된", "배제된"]
+  },
+  {
+    "english": "in light of",
+    "korean": "~을 고려하여",
+    "example": "In light of recent events, we must act.",
+    "wrongOptions": ["무시하고", "제외하고", "반대하여"]
+  },
+  {
+    "english": "in particular",
+    "korean": "특히",
+    "example": "I like fruits, bananas in particular.",
+    "wrongOptions": ["일반적으로", "전혀", "제외하고"]
+  },
+  {
+    "english": "in person",
+    "korean": "직접, 본인이",
+    "example": "You must apply in person.",
+    "wrongOptions": ["온라인으로", "우편으로", "전화로"]
+  },
+  {
+    "english": "include",
+    "korean": "포함하다",
+    "example": "The price includes breakfast.",
+    "wrongOptions": ["제외하다", "빼다", "배제하다"]
+  },
+  {
+    "english": "inconceivable",
+    "korean": "상상할 수 없는",
+    "example": "Such cruelty is inconceivable.",
+    "wrongOptions": ["예상가능한", "명백한", "당연한"]
+  },
+  {
+    "english": "incredibly",
+    "korean": "믿을 수 없을 정도로",
+    "example": "The view was incredibly beautiful.",
+    "wrongOptions": ["약간", "조금", "미미하게"]
+  },
+  {
+    "english": "incur",
+    "korean": "초래하다, 발생시키다",
+    "example": "This will incur additional costs.",
+    "wrongOptions": ["방지하다", "피하다", "막다"]
+  },
+  {
+    "english": "independence",
+    "korean": "독립, 자립",
+    "example": "The country gained independence.",
+    "wrongOptions": ["의존", "종속", "예속"]
+  },
+  {
+    "english": "indicator",
+    "korean": "지표, 표시",
+    "example": "This is an indicator of success.",
+    "wrongOptions": ["원인", "결과", "무관한것"]
+  },
+  {
+    "english": "indifferent",
+    "korean": "무관심한, 냉담한",
+    "example": "He seemed indifferent to her feelings.",
+    "wrongOptions": ["열정적인", "관심있는", "적극적인"]
+  },
+  {
+    "english": "individual",
+    "korean": "개인, 개별의",
+    "example": "Each individual is unique.",
+    "wrongOptions": ["집단", "전체", "공동체"]
+  },
+  {
+    "english": "induce",
+    "korean": "유도하다, 유발하다",
+    "example": "Stress can induce illness.",
+    "wrongOptions": ["방지하다", "막다", "억제하다"]
+  },
+  {
+    "english": "industrialize",
+    "korean": "산업화하다",
+    "example": "The country began to industrialize.",
+    "wrongOptions": ["농업화하다", "원시화하다", "퇴보하다"]
+  },
+  {
+    "english": "ineffective",
+    "korean": "효과없는, 무능한",
+    "example": "The treatment was ineffective.",
+    "wrongOptions": ["효과적인", "유능한", "성공적인"]
+  },
+  {
+    "english": "infamous",
+    "korean": "악명높은",
+    "example": "He is an infamous criminal.",
+    "wrongOptions": ["유명한", "존경받는", "명예로운"]
+  },
+  {
+    "english": "infant",
+    "korean": "유아, 갓난아이",
+    "example": "The infant slept peacefully.",
+    "wrongOptions": ["성인", "노인", "청소년"]
+  },
+  {
+    "english": "infer",
+    "korean": "추론하다, 추측하다",
+    "example": "We can infer from the evidence.",
+    "wrongOptions": ["증명하다", "확인하다", "명시하다"]
+  },
+  {
+    "english": "inferiority",
+    "korean": "열등감, 열등",
+    "example": "He struggled with feelings of inferiority.",
+    "wrongOptions": ["우월감", "자신감", "긍지"]
+  },
+  {
+    "english": "influence",
+    "korean": "영향, 영향을 주다",
+    "example": "Parents influence their children.",
+    "wrongOptions": ["무시하다", "격리하다", "배제하다"]
+  },
+  {
+    "english": "inhabit",
+    "korean": "거주하다, 살다",
+    "example": "Many species inhabit the forest.",
+    "wrongOptions": ["떠나다", "버리다", "피하다"]
+  },
+  {
+    "english": "inherent",
+    "korean": "고유한, 내재하는",
+    "example": "Risk is inherent in business.",
+    "wrongOptions": ["외부의", "추가된", "선택적인"]
+  },
+  {
+    "english": "injustice",
+    "korean": "불공정, 부당함",
+    "example": "We must fight against injustice.",
+    "wrongOptions": ["정의", "공정", "형평"]
+  },
+  {
+    "english": "inkling",
+    "korean": "희미한 생각, 암시",
+    "example": "I had no inkling of his plans.",
+    "wrongOptions": ["확신", "명확한 앎", "완전한 이해"]
+  },
+  {
+    "english": "inland",
+    "korean": "내륙의, 내지의",
+    "example": "They moved inland from the coast.",
+    "wrongOptions": ["해안의", "바다의", "항구의"]
+  },
+  {
+    "english": "insinuate",
+    "korean": "넌지시 비추다, 암시하다",
+    "example": "Are you insinuating that I lied?",
+    "wrongOptions": ["명시하다", "선언하다", "공표하다"]
+  },
+  {
+    "english": "inspiring",
+    "korean": "고무적인, 영감을 주는",
+    "example": "It was an inspiring speech.",
+    "wrongOptions": ["낙담시키는", "실망스러운", "우울한"]
+  },
+  {
+    "english": "installation",
+    "korean": "설치, 설비",
+    "example": "The installation was completed yesterday.",
+    "wrongOptions": ["제거", "철거", "해체"]
+  },
+  {
+    "english": "instance",
+    "korean": "사례, 경우",
+    "example": "For instance, consider this example.",
+    "wrongOptions": ["일반론", "원칙", "법칙"]
+  },
+  {
+    "english": "instead",
+    "korean": "대신에",
+    "example": "I'll have tea instead of coffee.",
+    "wrongOptions": ["추가로", "또한", "함께"]
+  },
+  {
+    "english": "instrument",
+    "korean": "도구, 악기",
+    "example": "She plays several musical instruments.",
+    "wrongOptions": ["장애물", "방해물", "제약"]
+  },
+  {
+    "english": "integrate",
+    "korean": "통합하다, 통합되다",
+    "example": "We need to integrate the systems.",
+    "wrongOptions": ["분리하다", "격리하다", "나누다"]
+  },
+  {
+    "english": "intellect",
+    "korean": "지성, 지력",
+    "example": "He has a brilliant intellect.",
+    "wrongOptions": ["무지", "어리석음", "둔함"]
+  },
+  {
+    "english": "intend",
+    "korean": "의도하다, 계획하다",
+    "example": "I intend to finish this today.",
+    "wrongOptions": ["포기하다", "회피하다", "거부하다"]
+  },
+  {
+    "english": "interact",
+    "korean": "상호작용하다",
+    "example": "Students interact with teachers.",
+    "wrongOptions": ["무시하다", "격리하다", "회피하다"]
+  },
+  {
+    "english": "interchange",
+    "korean": "교환하다, 인터체인지",
+    "example": "They interchange ideas freely.",
+    "wrongOptions": ["독점하다", "숨기다", "보류하다"]
+  },
+  {
+    "english": "interestingly",
+    "korean": "흥미롭게도",
+    "example": "Interestingly, he never mentioned it.",
+    "wrongOptions": ["지루하게도", "당연히", "예상대로"]
+  },
+  {
+    "english": "interference",
+    "korean": "간섭, 방해",
+    "example": "There was interference on the radio.",
+    "wrongOptions": ["협력", "지원", "도움"]
+  },
+  {
+    "english": "interlude",
+    "korean": "막간, 중간 휴식",
+    "example": "There was a brief interlude.",
+    "wrongOptions": ["시작", "종료", "클라이맥스"]
+  },
+  {
+    "english": "intermediate",
+    "korean": "중간의, 중급의",
+    "example": "This is an intermediate course.",
+    "wrongOptions": ["초급의", "고급의", "전문가급"]
+  },
+  {
+    "english": "international",
+    "korean": "국제적인",
+    "example": "She works for an international company.",
+    "wrongOptions": ["국내의", "지역의", "개인적인"]
+  },
+  {
+    "english": "interrogation",
+    "korean": "심문, 취조",
+    "example": "The suspect faced interrogation.",
+    "wrongOptions": ["면제", "해방", "석방"]
+  },
+  {
+    "english": "intolerance",
+    "korean": "불관용, 편협",
+    "example": "Religious intolerance causes conflict.",
+    "wrongOptions": ["관용", "포용", "수용"]
+  },
+  {
+    "english": "intoxicating",
+    "korean": "취하게 하는, 도취시키는",
+    "example": "The music was intoxicating.",
+    "wrongOptions": ["냉정하게 하는", "깨어있게 하는", "지루한"]
+  },
+  {
+    "english": "intrinsic",
+    "korean": "본질적인, 고유의",
+    "example": "Honesty has intrinsic value.",
+    "wrongOptions": ["외부의", "부가적인", "표면적인"]
+  },
+  {
+    "english": "introduction",
+    "korean": "소개, 서론",
+    "example": "The book has a long introduction.",
+    "wrongOptions": ["결론", "끝맺음", "종료"]
+  },
+  {
+    "english": "introvert",
+    "korean": "내향적인 사람",
+    "example": "He's an introvert who prefers solitude.",
+    "wrongOptions": ["외향적인 사람", "사교적인 사람", "활발한 사람"]
+  },
+  {
+    "english": "intrusion",
+    "korean": "침입, 침해",
+    "example": "I apologize for the intrusion.",
+    "wrongOptions": ["초대", "환영", "허락"]
+  },
+  {
+    "english": "intuition",
+    "korean": "직관, 직감",
+    "example": "Trust your intuition.",
+    "wrongOptions": ["논리", "증거", "계산"]
+  },
+  {
+    "english": "invasion",
+    "korean": "침략, 침입",
+    "example": "The country suffered an invasion.",
+    "wrongOptions": ["철수", "평화", "동맹"]
+  },
+  {
+    "english": "invert",
+    "korean": "뒤집다, 역전시키다",
+    "example": "Invert the glass to drain it.",
+    "wrongOptions": ["유지하다", "고정하다", "똑바로 하다"]
+  },
+  {
+    "english": "invisible",
+    "korean": "보이지 않는, 눈에 띄지 않는",
+    "example": "Germs are invisible to the eye.",
+    "wrongOptions": ["보이는", "명백한", "뚜렷한"]
+  },
+  {
+    "english": "invoice",
+    "korean": "송장, 청구서",
+    "example": "Please send me an invoice.",
+    "wrongOptions": ["영수증", "할인권", "쿠폰"]
+  },
+  {
+    "english": "involve",
+    "korean": "포함하다, 관련시키다",
+    "example": "The project involves many people.",
+    "wrongOptions": ["제외하다", "배제하다", "격리하다"]
+  },
+  {
+    "english": "irrational",
+    "korean": "비이성적인, 불합리한",
+    "example": "That's an irrational fear.",
+    "wrongOptions": ["이성적인", "합리적인", "논리적인"]
+  },
+  {
+    "english": "irregular",
+    "korean": "불규칙한, 이례적인",
+    "example": "He works irregular hours.",
+    "wrongOptions": ["규칙적인", "정기적인", "일정한"]
+  },
+  {
+    "english": "irrelevant",
+    "korean": "관련없는, 부적절한",
+    "example": "That comment is irrelevant.",
+    "wrongOptions": ["관련있는", "적절한", "중요한"]
+  },
+  {
+    "english": "irresponsible",
+    "korean": "무책임한",
+    "example": "It was irresponsible behavior.",
+    "wrongOptions": ["책임감있는", "신중한", "성실한"]
+  },
+  {
+    "english": "irreversible",
+    "korean": "되돌릴 수 없는",
+    "example": "The damage is irreversible.",
+    "wrongOptions": ["되돌릴 수 있는", "일시적인", "복구가능한"]
+  },
+  {
+    "english": "irritate",
+    "korean": "짜증나게 하다, 자극하다",
+    "example": "The noise irritates me.",
+    "wrongOptions": ["진정시키다", "위로하다", "기쁘게 하다"]
+  },
+  {
+    "english": "isolation",
+    "korean": "고립, 격리",
+    "example": "She lived in isolation.",
+    "wrongOptions": ["교류", "소통", "연결"]
+  },
+  {
+    "english": "item",
+    "korean": "항목, 품목",
+    "example": "Check each item on the list.",
+    "wrongOptions": ["전체", "총합", "종합"]
+  },
+  {
+    "english": "justifiable",
+    "korean": "정당화할 수 있는",
+    "example": "The decision was justifiable.",
+    "wrongOptions": ["부당한", "불법적인", "잘못된"]
+  },
+  {
+    "english": "juvenile",
+    "korean": "청소년의, 미성숙한",
+    "example": "Juvenile crime is increasing.",
+    "wrongOptions": ["성인의", "성숙한", "노년의"]
+  },
+  {
+    "english": "latitude",
+    "korean": "위도, 자유",
+    "example": "The city is at 40 degrees latitude.",
+    "wrongOptions": ["경도", "고도", "심도"]
+  },
+  {
+    "english": "launch",
+    "korean": "발사하다, 시작하다",
+    "example": "They will launch a new product.",
+    "wrongOptions": ["종료하다", "중단하다", "철회하다"]
+  },
+  {
+    "english": "law",
+    "korean": "법, 법률",
+    "example": "Everyone must obey the law.",
+    "wrongOptions": ["무질서", "혼돈", "무법"]
+  },
+  {
+    "english": "lead",
+    "korean": "이끌다, 납",
+    "example": "She will lead the team.",
+    "wrongOptions": ["따르다", "복종하다", "추종하다"]
+  },
+  {
+    "english": "league",
+    "korean": "연맹, 리그",
+    "example": "They play in the same league.",
+    "wrongOptions": ["개인", "단독", "고립"]
+  },
+  {
+    "english": "lean",
+    "korean": "기대다, 마른",
+    "example": "Don't lean on the wall.",
+    "wrongOptions": ["똑바로 서다", "멀어지다", "떨어지다"]
+  },
+  {
+    "english": "let",
+    "korean": "~하게 하다, 허락하다",
+    "example": "Let me help you.",
+    "wrongOptions": ["막다", "금지하다", "방해하다"]
+  },
+  {
+    "english": "librarian",
+    "korean": "사서, 도서관 사서",
+    "example": "Ask the librarian for help.",
+    "wrongOptions": ["저자", "출판사", "서점주인"]
+  },
+  {
+    "english": "lift",
+    "korean": "들어올리다, 엘리베이터",
+    "example": "Can you help me lift this box?",
+    "wrongOptions": ["내려놓다", "던지다", "밀다"]
+  },
+  {
+    "english": "limit",
+    "korean": "한계, 제한하다",
+    "example": "There's a limit to my patience.",
+    "wrongOptions": ["무한", "자유", "확장"]
+  },
+  {
+    "english": "linger",
+    "korean": "오래 머물다, 꾸물거리다",
+    "example": "Don't linger after class.",
+    "wrongOptions": ["서두르다", "떠나다", "달려가다"]
+  },
+  {
+    "english": "link A with B",
+    "korean": "A를 B와 연결하다",
+    "example": "Scientists link smoking with cancer.",
+    "wrongOptions": ["분리하다", "격리하다", "단절하다"]
+  },
+  {
+    "english": "literacy",
+    "korean": "읽고 쓰는 능력, 문해력",
+    "example": "Adult literacy is improving.",
+    "wrongOptions": ["문맹", "무지", "무학"]
+  },
+  {
+    "english": "literature",
+    "korean": "문학, 문헌",
+    "example": "She studies English literature.",
+    "wrongOptions": ["수학", "과학", "체육"]
+  },
+  {
+    "english": "livestock",
+    "korean": "가축",
+    "example": "Farmers raise livestock.",
+    "wrongOptions": ["야생동물", "애완동물", "물고기"]
+  },
+  {
+    "english": "local",
+    "korean": "지역의, 현지의",
+    "example": "I buy from local shops.",
+    "wrongOptions": ["국제적인", "세계적인", "먼"]
+  },
+  {
+    "english": "located in",
+    "korean": "~에 위치한",
+    "example": "The office is located in Seoul.",
+    "wrongOptions": ["떨어진", "격리된", "이동하는"]
+  },
+  {
+    "english": "logically",
+    "korean": "논리적으로",
+    "example": "Think about it logically.",
+    "wrongOptions": ["감정적으로", "비합리적으로", "무작위로"]
+  },
+  {
+    "english": "loyalist",
+    "korean": "충성파, 왕당파",
+    "example": "The loyalists supported the king.",
+    "wrongOptions": ["반역자", "배신자", "반대파"]
+  },
+  {
+    "english": "madam",
+    "korean": "부인, 마담",
+    "example": "Good morning, madam.",
+    "wrongOptions": ["선생님", "씨", "양"]
+  },
+  {
+    "english": "made up of",
+    "korean": "~로 구성된",
+    "example": "The team is made up of experts.",
+    "wrongOptions": ["배제된", "분리된", "독립된"]
+  },
+  {
+    "english": "maintain",
+    "korean": "유지하다, 주장하다",
+    "example": "We must maintain our standards.",
+    "wrongOptions": ["버리다", "포기하다", "파괴하다"]
+  },
+  {
+    "english": "majesty",
+    "korean": "위엄, 폐하",
+    "example": "His Majesty the King.",
+    "wrongOptions": ["비천함", "평범함", "초라함"]
+  },
+  {
+    "english": "make out of",
+    "korean": "~로 만들다",
+    "example": "The table is made out of wood.",
+    "wrongOptions": ["파괴하다", "분해하다", "녹이다"]
+  },
+  {
+    "english": "make the effort to",
+    "korean": "~하려고 노력하다",
+    "example": "Make the effort to be on time.",
+    "wrongOptions": ["포기하다", "회피하다", "무시하다"]
+  },
+  {
+    "english": "malign",
+    "korean": "중상하다, 악성의",
+    "example": "Don't malign his character.",
+    "wrongOptions": ["칭찬하다", "존경하다", "옹호하다"]
+  },
+  {
+    "english": "mammal",
+    "korean": "포유동물",
+    "example": "Whales are mammals.",
+    "wrongOptions": ["파충류", "양서류", "어류"]
+  },
+  {
+    "english": "manage to",
+    "korean": "간신히 ~하다",
+    "example": "I managed to finish on time.",
+    "wrongOptions": ["실패하다", "포기하다", "불가능하다"]
+  },
+  {
+    "english": "mandatory",
+    "korean": "의무적인, 강제적인",
+    "example": "Attendance is mandatory.",
+    "wrongOptions": ["선택적인", "자유로운", "임의의"]
+  },
+  {
+    "english": "manufacturer",
+    "korean": "제조업자, 제조사",
+    "example": "The manufacturer recalled the product.",
+    "wrongOptions": ["소비자", "판매자", "중개인"]
+  },
+  {
+    "english": "many",
+    "korean": "많은",
+    "example": "Many people attended the event.",
+    "wrongOptions": ["적은", "몇 안되는", "거의 없는"]
+  },
+  {
+    "english": "march",
+    "korean": "행진하다, 3월",
+    "example": "The soldiers marched in formation.",
+    "wrongOptions": ["멈추다", "앉다", "쉬다"]
+  },
+  {
+    "english": "mass communication",
+    "korean": "대중 통신",
+    "example": "TV is a form of mass communication.",
+    "wrongOptions": ["개인 통신", "비밀 통신", "제한된 통신"]
+  },
+  {
+    "english": "massive",
+    "korean": "거대한, 엄청난",
+    "example": "There was a massive explosion.",
+    "wrongOptions": ["작은", "미세한", "사소한"]
+  },
+  {
+    "english": "match",
+    "korean": "어울리다, 성냥",
+    "example": "These colors don't match.",
+    "wrongOptions": ["충돌하다", "대조되다", "어긋나다"]
+  },
+  {
+    "english": "materialism",
+    "korean": "물질주의",
+    "example": "Society is dominated by materialism.",
+    "wrongOptions": ["영성", "정신주의", "이상주의"]
+  },
+  {
+    "english": "maximize",
+    "korean": "최대화하다",
+    "example": "We need to maximize profits.",
+    "wrongOptions": ["최소화하다", "줄이다", "감소시키다"]
+  },
+  {
+    "english": "means",
+    "korean": "수단, 방법",
+    "example": "The end justifies the means.",
+    "wrongOptions": ["목적", "결과", "종말"]
+  },
+  {
+    "english": "mechanism",
+    "korean": "기제, 메커니즘",
+    "example": "The mechanism is broken.",
+    "wrongOptions": ["외관", "표면", "장식"]
+  },
+  {
+    "english": "medical",
+    "korean": "의학의, 의료의",
+    "example": "He needs medical attention.",
+    "wrongOptions": ["법적인", "교육적인", "종교적인"]
+  },
+  {
+    "english": "medication",
+    "korean": "약물, 투약",
+    "example": "Take your medication regularly.",
+    "wrongOptions": ["질병", "증상", "감염"]
+  },
+  {
+    "english": "medicinal",
+    "korean": "약용의, 치료의",
+    "example": "This plant has medicinal properties.",
+    "wrongOptions": ["독성의", "해로운", "위험한"]
+  },
+  {
+    "english": "medieval",
+    "korean": "중세의",
+    "example": "We visited a medieval castle.",
+    "wrongOptions": ["현대의", "미래의", "선사시대의"]
+  },
+  {
+    "english": "mediocrity",
+    "korean": "평범함, 보통",
+    "example": "He refused to accept mediocrity.",
+    "wrongOptions": ["탁월함", "우수성", "뛰어남"]
+  },
+  {
+    "english": "melt",
+    "korean": "녹다, 녹이다",
+    "example": "The ice began to melt.",
+    "wrongOptions": ["얼다", "굳다", "응고하다"]
+  },
+  {
+    "english": "memorable",
+    "korean": "기억할 만한, 잊지 못할",
+    "example": "It was a memorable experience.",
+    "wrongOptions": ["평범한", "잊을 만한", "사소한"]
+  },
+  {
+    "english": "mention",
+    "korean": "언급하다, 말하다",
+    "example": "Don't mention it to anyone.",
+    "wrongOptions": ["숨기다", "은폐하다", "비밀로 하다"]
+  },
+  {
+    "english": "merciful",
+    "korean": "자비로운, 인정있는",
+    "example": "The judge was merciful.",
+    "wrongOptions": ["잔인한", "무자비한", "가혹한"]
+  },
+  {
+    "english": "merciless",
+    "korean": "무자비한, 냉혹한",
+    "example": "The attack was merciless.",
+    "wrongOptions": ["자비로운", "친절한", "온정적인"]
+  },
+  {
+    "english": "merge",
+    "korean": "합병하다, 합치다",
+    "example": "The two companies will merge.",
+    "wrongOptions": ["분리하다", "나누다", "독립하다"]
+  },
+  {
+    "english": "military",
+    "korean": "군대의, 군사의",
+    "example": "He joined the military.",
+    "wrongOptions": ["민간의", "평화적인", "비무장의"]
+  },
+  {
+    "english": "mimic",
+    "korean": "흉내내다, 모방하다",
+    "example": "Children mimic their parents.",
+    "wrongOptions": ["창조하다", "독창적이다", "발명하다"]
+  },
+  {
+    "english": "mingle",
+    "korean": "섞이다, 어울리다",
+    "example": "He mingled with the guests.",
+    "wrongOptions": ["분리되다", "격리되다", "고립되다"]
+  },
+  {
+    "english": "miniature",
+    "korean": "축소형의, 소형의",
+    "example": "She collects miniature dolls.",
+    "wrongOptions": ["거대한", "초대형의", "실물크기의"]
+  },
+  {
+    "english": "mishap",
+    "korean": "재난, 불운한 사고",
+    "example": "There was a minor mishap.",
+    "wrongOptions": ["행운", "성공", "기쁨"]
+  },
+  {
+    "english": "misunderstand",
+    "korean": "오해하다",
+    "example": "I think you misunderstood me.",
+    "wrongOptions": ["이해하다", "명확히 하다", "파악하다"]
+  },
+  {
+    "english": "modeling",
+    "korean": "모델링, 모형 제작",
+    "example": "He works in fashion modeling.",
+    "wrongOptions": ["파괴", "분해", "철거"]
+  },
+  {
+    "english": "moderately",
+    "korean": "적당히, 중간 정도로",
+    "example": "Exercise moderately every day.",
+    "wrongOptions": ["과도하게", "극단적으로", "지나치게"]
+  },
+  {
+    "english": "modulation",
+    "korean": "조절, 변조",
+    "example": "Voice modulation is important in public speaking.",
+    "wrongOptions": ["고정", "불변", "정체"]
+  },
+  {
+    "english": "molecule",
+    "korean": "분자",
+    "example": "Water molecules consist of hydrogen and oxygen.",
+    "wrongOptions": ["원자", "세포", "조직"]
+  },
+  {
+    "english": "monetary",
+    "korean": "화폐의, 금전적인",
+    "example": "The government changed its monetary policy.",
+    "wrongOptions": ["물리적", "정신적", "감정적"]
+  },
+  {
+    "english": "monopoly",
+    "korean": "독점",
+    "example": "The company has a monopoly on the market.",
+    "wrongOptions": ["경쟁", "공유", "분산"]
+  },
+  {
+    "english": "morale",
+    "korean": "사기, 의욕",
+    "example": "The victory boosted team morale.",
+    "wrongOptions": ["낙담", "절망", "우울"]
+  },
+  {
+    "english": "mortality",
+    "korean": "사망률, 필멸성",
+    "example": "Infant mortality has decreased.",
+    "wrongOptions": ["불멸", "영생", "장수"]
+  },
+  {
+    "english": "mosquito",
+    "korean": "모기",
+    "example": "Mosquitoes spread malaria.",
+    "wrongOptions": ["나비", "벌", "잠자리"]
+  },
+  {
+    "english": "motion",
+    "korean": "움직임, 동작",
+    "example": "The car was in motion.",
+    "wrongOptions": ["정지", "고정", "부동"]
+  },
+  {
+    "english": "motivate",
+    "korean": "동기를 부여하다",
+    "example": "Teachers should motivate students.",
+    "wrongOptions": ["낙담시키다", "억제하다", "방해하다"]
+  },
+  {
+    "english": "movement",
+    "korean": "운동, 움직임",
+    "example": "The civil rights movement changed society.",
+    "wrongOptions": ["정체", "부동", "고정"]
+  },
+  {
+    "english": "mud",
+    "korean": "진흙, 진창",
+    "example": "The road was covered in mud.",
+    "wrongOptions": ["모래", "자갈", "시멘트"]
+  },
+  {
+    "english": "municipal",
+    "korean": "시의, 지방 자치의",
+    "example": "Municipal elections are next month.",
+    "wrongOptions": ["국가의", "국제적", "세계적"]
+  },
+  {
+    "english": "municipality",
+    "korean": "지방자치단체, 시",
+    "example": "The municipality provides public services.",
+    "wrongOptions": ["국가", "개인", "기업"]
+  },
+  {
+    "english": "mustache",
+    "korean": "콧수염",
+    "example": "He grew a thick mustache.",
+    "wrongOptions": ["턱수염", "구레나룻", "머리카락"]
+  },
+  {
+    "english": "mutation",
+    "korean": "돌연변이, 변이",
+    "example": "Genetic mutations can be beneficial.",
+    "wrongOptions": ["유전", "복제", "재생"]
+  },
+  {
+    "english": "mutual",
+    "korean": "상호의, 공동의",
+    "example": "They have mutual respect.",
+    "wrongOptions": ["일방적인", "독립적인", "개별적인"]
+  },
+  {
+    "english": "mystery",
+    "korean": "신비, 미스터리",
+    "example": "The disappearance remains a mystery.",
+    "wrongOptions": ["명백함", "확실성", "분명함"]
+  },
+  {
+    "english": "mythical",
+    "korean": "신화의, 전설적인",
+    "example": "Dragons are mythical creatures.",
+    "wrongOptions": ["실제의", "현실의", "존재하는"]
+  },
+  {
+    "english": "nausea",
+    "korean": "메스꺼움, 구역질",
+    "example": "The medication can cause nausea.",
+    "wrongOptions": ["식욕", "배고픔", "갈증"]
+  },
+  {
+    "english": "nearsighted",
+    "korean": "근시의",
+    "example": "I'm nearsighted and need glasses.",
+    "wrongOptions": ["원시의", "정상시력의", "맹인의"]
+  },
+  {
+    "english": "negligible",
+    "korean": "무시할 만한, 사소한",
+    "example": "The difference is negligible.",
+    "wrongOptions": ["중요한", "심각한", "결정적인"]
+  },
+  {
+    "english": "negotiate",
+    "korean": "협상하다, 교섭하다",
+    "example": "They negotiated a peace treaty.",
+    "wrongOptions": ["거부하다", "싸우다", "대립하다"]
+  },
+  {
+    "english": "neighbor",
+    "korean": "이웃",
+    "example": "My neighbor is very friendly.",
+    "wrongOptions": ["적", "낯선 사람", "가족"]
+  },
+  {
+    "english": "neighborhood",
+    "korean": "이웃, 근처",
+    "example": "This is a safe neighborhood.",
+    "wrongOptions": ["먼 곳", "외국", "시골"]
+  },
+  {
+    "english": "neurological",
+    "korean": "신경학적인",
+    "example": "He has a neurological disorder.",
+    "wrongOptions": ["심장의", "폐의", "위장의"]
+  },
+  {
+    "english": "nonetheless",
+    "korean": "그럼에도 불구하고",
+    "example": "It was difficult; nonetheless, we succeeded.",
+    "wrongOptions": ["그러므로", "결과적으로", "따라서"]
+  },
+  {
+    "english": "normal",
+    "korean": "정상적인, 보통의",
+    "example": "This is perfectly normal.",
+    "wrongOptions": ["비정상적인", "이상한", "특이한"]
+  },
+  {
+    "english": "notorious",
+    "korean": "악명높은",
+    "example": "He is a notorious criminal.",
+    "wrongOptions": ["유명한", "존경받는", "칭송받는"]
+  },
+  {
+    "english": "nuisance",
+    "korean": "성가신 것, 골칫거리",
+    "example": "Mosquitoes are a nuisance.",
+    "wrongOptions": ["도움", "이익", "축복"]
+  },
+  {
+    "english": "numerous",
+    "korean": "수많은, 많은",
+    "example": "There are numerous reasons.",
+    "wrongOptions": ["적은", "소수의", "희귀한"]
+  },
+  {
+    "english": "obesity",
+    "korean": "비만",
+    "example": "Obesity is a health concern.",
+    "wrongOptions": ["날씬함", "건강", "저체중"]
+  },
+  {
+    "english": "obligation",
+    "korean": "의무, 책임",
+    "example": "Parents have obligations to their children.",
+    "wrongOptions": ["권리", "자유", "선택"]
+  },
+  {
+    "english": "observant",
+    "korean": "관찰력이 있는, 주의깊은",
+    "example": "She is very observant.",
+    "wrongOptions": ["부주의한", "무심한", "무관심한"]
+  },
+  {
+    "english": "observer",
+    "korean": "관찰자, 참관인",
+    "example": "UN observers monitored the election.",
+    "wrongOptions": ["참가자", "선수", "경쟁자"]
+  },
+  {
+    "english": "obsession",
+    "korean": "집착, 강박관념",
+    "example": "He has an obsession with cleanliness.",
+    "wrongOptions": ["무관심", "냉담", "방치"]
+  },
+  {
+    "english": "obvious",
+    "korean": "명백한, 분명한",
+    "example": "The answer is obvious.",
+    "wrongOptions": ["애매한", "불분명한", "숨겨진"]
+  },
+  {
+    "english": "occasionally",
+    "korean": "가끔, 때때로",
+    "example": "I occasionally eat out.",
+    "wrongOptions": ["항상", "결코", "자주"]
+  },
+  {
+    "english": "occupy",
+    "korean": "점유하다, 차지하다",
+    "example": "Foreign troops occupy the city.",
+    "wrongOptions": ["떠나다", "비우다", "철수하다"]
+  },
+  {
+    "english": "occur",
+    "korean": "발생하다, 일어나다",
+    "example": "Accidents can occur anywhere.",
+    "wrongOptions": ["예방하다", "막다", "회피하다"]
+  },
+  {
+    "english": "offspring",
+    "korean": "자손, 후손",
+    "example": "Lions protect their offspring.",
+    "wrongOptions": ["조상", "선조", "부모"]
+  },
+  {
+    "english": "on and off",
+    "korean": "간헐적으로, 때때로",
+    "example": "It rained on and off all day.",
+    "wrongOptions": ["계속해서", "한번도", "항상"]
+  },
+  {
+    "english": "once",
+    "korean": "한 번, 일단 ~하면",
+    "example": "I've been there once.",
+    "wrongOptions": ["항상", "결코", "여러번"]
+  },
+  {
+    "english": "online",
+    "korean": "온라인의, 온라인으로",
+    "example": "You can shop online.",
+    "wrongOptions": ["오프라인", "직접", "대면으로"]
+  },
+  {
+    "english": "onset",
+    "korean": "시작, 발병",
+    "example": "The onset of winter came early.",
+    "wrongOptions": ["종료", "끝", "마무리"]
+  },
+  {
+    "english": "optimism",
+    "korean": "낙관주의",
+    "example": "She maintains her optimism.",
+    "wrongOptions": ["비관주의", "절망", "우울"]
+  },
+  {
+    "english": "option",
+    "korean": "선택, 선택권",
+    "example": "You have several options.",
+    "wrongOptions": ["의무", "강제", "필수"]
+  },
+  {
+    "english": "orbital",
+    "korean": "궤도의",
+    "example": "The satellite is in orbital position.",
+    "wrongOptions": ["지상의", "수중의", "지하의"]
+  },
+  {
+    "english": "ordered",
+    "korean": "정돈된, 질서있는",
+    "example": "Keep the files in ordered fashion.",
+    "wrongOptions": ["무질서한", "혼란스러운", "엉망인"]
+  },
+  {
+    "english": "orientation",
+    "korean": "방향, 오리엔테이션",
+    "example": "New students attend orientation.",
+    "wrongOptions": ["졸업", "퇴학", "휴학"]
+  },
+  {
+    "english": "out of",
+    "korean": "~에서 나와, ~가 없어",
+    "example": "We're out of milk.",
+    "wrongOptions": ["가득한", "넘치는", "충분한"]
+  },
+  {
+    "english": "outbreak",
+    "korean": "발발, 발생",
+    "example": "There was an outbreak of flu.",
+    "wrongOptions": ["종식", "진압", "예방"]
+  },
+  {
+    "english": "outcome",
+    "korean": "결과, 성과",
+    "example": "We're waiting for the outcome.",
+    "wrongOptions": ["시작", "원인", "과정"]
+  },
+  {
+    "english": "outset",
+    "korean": "시작, 처음",
+    "example": "From the outset, it was difficult.",
+    "wrongOptions": ["끝", "중간", "마무리"]
+  },
+  {
+    "english": "outspoken",
+    "korean": "솔직한, 거리낌없는",
+    "example": "She's very outspoken about politics.",
+    "wrongOptions": ["소심한", "조심스러운", "침묵하는"]
+  },
+  {
+    "english": "outweigh",
+    "korean": "~보다 중요하다, 능가하다",
+    "example": "Benefits outweigh the risks.",
+    "wrongOptions": ["열등하다", "뒤지다", "부족하다"]
+  },
+  {
+    "english": "overcast",
+    "korean": "흐린, 구름낀",
+    "example": "The sky is overcast today.",
+    "wrongOptions": ["맑은", "화창한", "청명한"]
+  },
+  {
+    "english": "overflow",
+    "korean": "넘치다, 범람하다",
+    "example": "The river might overflow.",
+    "wrongOptions": ["마르다", "줄어들다", "고갈되다"]
+  },
+  {
+    "english": "ownership",
+    "korean": "소유권, 소유",
+    "example": "He has ownership of the company.",
+    "wrongOptions": ["임대", "대여", "임차"]
+  },
+  {
+    "english": "parade",
+    "korean": "퍼레이드, 행진",
+    "example": "There's a parade downtown.",
+    "wrongOptions": ["시위", "폭동", "도망"]
+  },
+  {
+    "english": "parallel",
+    "korean": "평행의, 유사한",
+    "example": "The two lines are parallel.",
+    "wrongOptions": ["교차하는", "수직의", "반대의"]
+  },
+  {
+    "english": "paralyze",
+    "korean": "마비시키다",
+    "example": "Fear can paralyze you.",
+    "wrongOptions": ["활성화하다", "자극하다", "움직이게 하다"]
+  },
+  {
+    "english": "paramount",
+    "korean": "최고의, 가장 중요한",
+    "example": "Safety is paramount.",
+    "wrongOptions": ["사소한", "중요하지 않은", "부차적인"]
+  },
+  {
+    "english": "participate",
+    "korean": "참여하다, 참가하다",
+    "example": "Everyone can participate.",
+    "wrongOptions": ["관망하다", "회피하다", "거부하다"]
+  },
+  {
+    "english": "partly",
+    "korean": "부분적으로",
+    "example": "It's partly my fault.",
+    "wrongOptions": ["완전히", "전적으로", "전부"]
+  },
+  {
+    "english": "part-time",
+    "korean": "파트타임의, 시간제의",
+    "example": "She works part-time.",
+    "wrongOptions": ["전임", "정규직", "상근"]
+  },
+  {
+    "english": "pass",
+    "korean": "지나가다, 통과하다",
+    "example": "Time passes quickly.",
+    "wrongOptions": ["멈추다", "정지하다", "머무르다"]
+  },
+  {
+    "english": "passage",
+    "korean": "통로, 구절",
+    "example": "Read the passage carefully.",
+    "wrongOptions": ["장벽", "차단", "봉쇄"]
+  },
+  {
+    "english": "passionate",
+    "korean": "열정적인",
+    "example": "He's passionate about music.",
+    "wrongOptions": ["무관심한", "냉담한", "무감각한"]
+  },
+  {
+    "english": "patch",
+    "korean": "조각, 패치",
+    "example": "There's a patch on his jacket.",
+    "wrongOptions": ["전체", "완전한 것", "새것"]
+  },
+  {
+    "english": "patiently",
+    "korean": "참을성있게, 인내심있게",
+    "example": "Wait patiently for your turn.",
+    "wrongOptions": ["조급하게", "성급하게", "초조하게"]
+  },
+  {
+    "english": "pause",
+    "korean": "멈추다, 일시정지",
+    "example": "Let's pause for a moment.",
+    "wrongOptions": ["계속하다", "진행하다", "가속하다"]
+  },
+  {
+    "english": "paw",
+    "korean": "발, 앞발",
+    "example": "The dog hurt its paw.",
+    "wrongOptions": ["날개", "꼬리", "부리"]
+  },
+  {
+    "english": "pedestrian",
+    "korean": "보행자",
+    "example": "Pedestrians must use the crosswalk.",
+    "wrongOptions": ["운전자", "승객", "조종사"]
+  },
+  {
+    "english": "peek",
+    "korean": "훔쳐보다, 엿보다",
+    "example": "Don't peek at the answers!",
+    "wrongOptions": ["무시하다", "응시하다", "외면하다"]
+  },
+  {
+    "english": "peninsula",
+    "korean": "반도",
+    "example": "Korea is a peninsula.",
+    "wrongOptions": ["섬", "대륙", "사막"]
+  },
+  {
+    "english": "perceptive",
+    "korean": "지각력있는, 통찰력있는",
+    "example": "She's very perceptive.",
+    "wrongOptions": ["둔감한", "무감각한", "우둔한"]
+  },
+  {
+    "english": "perform",
+    "korean": "수행하다, 공연하다",
+    "example": "The band will perform tonight.",
+    "wrongOptions": ["취소하다", "연기하다", "거부하다"]
+  },
+  {
+    "english": "perpetually",
+    "korean": "영구히, 끊임없이",
+    "example": "He's perpetually late.",
+    "wrongOptions": ["가끔", "드물게", "한번만"]
+  },
+  {
+    "english": "perseverance",
+    "korean": "인내, 끈기",
+    "example": "Success requires perseverance.",
+    "wrongOptions": ["포기", "나태", "게으름"]
+  },
+  {
+    "english": "persistence",
+    "korean": "고집, 지속",
+    "example": "His persistence paid off.",
+    "wrongOptions": ["포기", "중단", "단념"]
+  },
+  {
+    "english": "personally",
+    "korean": "개인적으로, 직접",
+    "example": "I'll handle it personally.",
+    "wrongOptions": ["간접적으로", "타인을 통해", "대리로"]
+  },
+  {
+    "english": "personnel",
+    "korean": "직원, 인사",
+    "example": "Contact the personnel department.",
+    "wrongOptions": ["기계", "설비", "물자"]
+  },
+  {
+    "english": "perspective",
+    "korean": "관점, 시각",
+    "example": "Consider a different perspective.",
+    "wrongOptions": ["사실", "진실", "증거"]
+  },
+  {
+    "english": "persuasion",
+    "korean": "설득",
+    "example": "It took much persuasion.",
+    "wrongOptions": ["강요", "위협", "명령"]
+  },
+  {
+    "english": "pharmacy",
+    "korean": "약국",
+    "example": "Buy medicine at the pharmacy.",
+    "wrongOptions": ["병원", "식당", "서점"]
+  },
+  {
+    "english": "phase",
+    "korean": "단계, 국면",
+    "example": "We're in the final phase.",
+    "wrongOptions": ["시작", "전체", "영구"]
+  },
+  {
+    "english": "physical",
+    "korean": "신체적인, 물리적인",
+    "example": "Regular physical exercise is important.",
+    "wrongOptions": ["정신적인", "감정적인", "심리적인"]
+  },
+  {
+    "english": "physiological",
+    "korean": "생리학적인",
+    "example": "Sleep is a physiological need.",
+    "wrongOptions": ["심리적인", "사회적인", "문화적인"]
+  },
+  {
+    "english": "pinpoint",
+    "korean": "정확히 찾아내다",
+    "example": "Can you pinpoint the problem?",
+    "wrongOptions": ["추측하다", "무시하다", "회피하다"]
+  },
+  {
+    "english": "pitch",
+    "korean": "던지다, 음높이",
+    "example": "He pitched the ball perfectly.",
+    "wrongOptions": ["잡다", "받다", "막다"]
+  },
+  {
+    "english": "place an order",
+    "korean": "주문하다",
+    "example": "I'd like to place an order.",
+    "wrongOptions": ["취소하다", "거부하다", "반품하다"]
+  },
+  {
+    "english": "planet",
+    "korean": "행성",
+    "example": "Earth is a planet.",
+    "wrongOptions": ["별", "위성", "혜성"]
+  },
+  {
+    "english": "platform",
+    "korean": "플랫폼, 승강장",
+    "example": "Wait on platform 3.",
+    "wrongOptions": ["계단", "출구", "입구"]
+  },
+  {
+    "english": "plausible",
+    "korean": "그럴듯한, 타당한",
+    "example": "That's a plausible explanation.",
+    "wrongOptions": ["터무니없는", "불가능한", "말도 안되는"]
+  },
+  {
+    "english": "play a key role",
+    "korean": "중요한 역할을 하다",
+    "example": "Parents play a key role in education.",
+    "wrongOptions": ["무관하다", "방해하다", "배제되다"]
+  },
+  {
+    "english": "plot",
+    "korean": "줄거리, 음모",
+    "example": "The plot was very interesting.",
+    "wrongOptions": ["사실", "진실", "현실"]
+  },
+  {
+    "english": "podium",
+    "korean": "연단, 시상대",
+    "example": "She stood on the podium.",
+    "wrongOptions": ["바닥", "관중석", "무대 뒤"]
+  },
+  {
+    "english": "pool",
+    "korean": "수영장, 웅덩이",
+    "example": "Let's go to the pool.",
+    "wrongOptions": ["산", "사막", "들판"]
+  },
+  {
+    "english": "position",
+    "korean": "위치, 직위",
+    "example": "What's your position on this?",
+    "wrongOptions": ["움직임", "이동", "방황"]
+  },
+  {
+    "english": "possible",
+    "korean": "가능한",
+    "example": "Anything is possible.",
+    "wrongOptions": ["불가능한", "절대 안되는", "금지된"]
+  },
+  {
+    "english": "practitioner",
+    "korean": "개업의, 전문가",
+    "example": "She's a medical practitioner.",
+    "wrongOptions": ["환자", "학생", "초보자"]
+  },
+  {
+    "english": "precaution",
+    "korean": "예방조치, 주의",
+    "example": "Take precautions against fire.",
+    "wrongOptions": ["무관심", "방치", "무모함"]
+  },
+  {
+    "english": "precedent",
+    "korean": "선례, 전례",
+    "example": "This sets a dangerous precedent.",
+    "wrongOptions": ["결과", "미래", "혁신"]
+  },
+  {
+    "english": "precious",
+    "korean": "귀중한, 소중한",
+    "example": "Time is precious.",
+    "wrongOptions": ["하찮은", "무가치한", "쓸모없는"]
+  },
+  {
+    "english": "precisely",
+    "korean": "정확히, 정밀하게",
+    "example": "That's precisely what I meant.",
+    "wrongOptions": ["대략", "어림잡아", "약간"]
+  },
+  {
+    "english": "predictive",
+    "korean": "예측하는, 예언적인",
+    "example": "Predictive models are useful.",
+    "wrongOptions": ["무작위의", "우연한", "예측불가능한"]
+  },
+  {
+    "english": "preferably",
+    "korean": "가급적, 되도록이면",
+    "example": "Call me tomorrow, preferably in the morning.",
+    "wrongOptions": ["절대", "결코", "필수적으로"]
+  },
+  {
+    "english": "prejudice",
+    "korean": "편견, 선입견",
+    "example": "We must overcome prejudice.",
+    "wrongOptions": ["공정", "객관성", "중립"]
+  },
+  {
+    "english": "prelude",
+    "korean": "서곡, 전주곡",
+    "example": "This is just a prelude to bigger things.",
+    "wrongOptions": ["결말", "마무리", "종결"]
+  },
+  {
+    "english": "present",
+    "korean": "현재의, 제시하다",
+    "example": "Let me present my findings.",
+    "wrongOptions": ["과거의", "미래의", "숨기다"]
+  },
+  {
+    "english": "presentation",
+    "korean": "발표, 제시",
+    "example": "I have a presentation tomorrow.",
+    "wrongOptions": ["침묵", "은폐", "비밀"]
+  },
+  {
+    "english": "preservation",
+    "korean": "보존, 보호",
+    "example": "Wildlife preservation is important.",
+    "wrongOptions": ["파괴", "훼손", "낭비"]
+  },
+  {
+    "english": "prevalent",
+    "korean": "널리 퍼진, 유행하는",
+    "example": "This disease is prevalent in tropical areas.",
+    "wrongOptions": ["희귀한", "드문", "소멸된"]
+  },
+  {
+    "english": "preventable",
+    "korean": "예방 가능한",
+    "example": "Many diseases are preventable.",
+    "wrongOptions": ["불가피한", "필연적인", "피할 수 없는"]
+  },
+  {
+    "english": "previously",
+    "korean": "이전에, 미리",
+    "example": "As previously mentioned.",
+    "wrongOptions": ["이후에", "나중에", "미래에"]
+  },
+  {
+    "english": "primarily",
+    "korean": "주로, 근본적으로",
+    "example": "This is primarily a teaching hospital.",
+    "wrongOptions": ["부차적으로", "드물게", "가끔"]
+  },
+  {
+    "english": "priority",
+    "korean": "우선순위",
+    "example": "Safety is our top priority.",
+    "wrongOptions": ["마지막", "부차적인 것", "무관한 것"]
+  },
+  {
+    "english": "prisoner",
+    "korean": "죄수, 포로",
+    "example": "The prisoners escaped.",
+    "wrongOptions": ["간수", "판사", "경찰"]
+  },
+  {
+    "english": "privilege",
+    "korean": "특권, 특전",
+    "example": "Education is a privilege.",
+    "wrongOptions": ["의무", "처벌", "제한"]
+  },
+  {
+    "english": "procedure",
+    "korean": "절차, 수순",
+    "example": "Follow the proper procedure.",
+    "wrongOptions": ["혼란", "무질서", "즉흥"]
+  },
+  {
+    "english": "process",
+    "korean": "과정, 처리하다",
+    "example": "The healing process takes time.",
+    "wrongOptions": ["결과", "종료", "완성"]
+  },
+  {
+    "english": "product",
+    "korean": "제품, 생산물",
+    "example": "This is our newest product.",
+    "wrongOptions": ["원료", "재료", "부품"]
+  },
+  {
+    "english": "progressive",
+    "korean": "진보적인, 점진적인",
+    "example": "He has progressive views.",
+    "wrongOptions": ["보수적인", "퇴보적인", "정체된"]
+  },
+  {
+    "english": "prominent",
+    "korean": "저명한, 두드러진",
+    "example": "She's a prominent scientist.",
+    "wrongOptions": ["무명의", "숨겨진", "보잘것없는"]
+  },
+  {
+    "english": "promising",
+    "korean": "유망한, 촉망되는",
+    "example": "He's a promising young artist.",
+    "wrongOptions": ["절망적인", "희망없는", "실패한"]
+  },
+  {
+    "english": "pronoun",
+    "korean": "대명사",
+    "example": "I, you, he are pronouns.",
+    "wrongOptions": ["명사", "동사", "형용사"]
+  },
+  {
+    "english": "pronunciation",
+    "korean": "발음",
+    "example": "Your pronunciation is good.",
+    "wrongOptions": ["철자", "문법", "어휘"]
+  },
+  {
+    "english": "prop",
+    "korean": "받치다, 소품",
+    "example": "The actors used props on stage.",
+    "wrongOptions": ["무대", "배경", "조명"]
+  },
+  {
+    "english": "propagate",
+    "korean": "전파하다, 번식시키다",
+    "example": "Plants propagate through seeds.",
+    "wrongOptions": ["멸종시키다", "억제하다", "제거하다"]
+  },
+  {
+    "english": "protein",
+    "korean": "단백질",
+    "example": "Meat contains protein.",
+    "wrongOptions": ["탄수화물", "지방", "비타민"]
+  },
+  {
+    "english": "provide",
+    "korean": "제공하다",
+    "example": "Schools provide education.",
+    "wrongOptions": ["빼앗다", "거부하다", "숨기다"]
+  },
+  {
+    "english": "proximity",
+    "korean": "근접, 가까움",
+    "example": "The proximity to the station is convenient.",
+    "wrongOptions": ["거리", "먼 곳", "격리"]
+  },
+  {
+    "english": "pyramid",
+    "korean": "피라미드",
+    "example": "The Egyptian pyramids are ancient.",
+    "wrongOptions": ["정육면체", "원기둥", "구"]
+  },
+  {
+    "english": "qualification",
+    "korean": "자격, 자격증",
+    "example": "Do you have the necessary qualifications?",
+    "wrongOptions": ["결격", "부적격", "무자격"]
+  },
+  {
+    "english": "radically",
+    "korean": "근본적으로, 급진적으로",
+    "example": "Things have changed radically.",
+    "wrongOptions": ["점진적으로", "약간", "미미하게"]
+  },
+  {
+    "english": "radius",
+    "korean": "반지름",
+    "example": "The radius of the circle is 5cm.",
+    "wrongOptions": ["지름", "둘레", "넓이"]
+  },
+  {
+    "english": "raised",
+    "korean": "올린, 높인",
+    "example": "She raised her hand.",
+    "wrongOptions": ["낮춘", "내린", "숙인"]
+  },
+  {
+    "english": "rally",
+    "korean": "집회, 결집하다",
+    "example": "They held a political rally.",
+    "wrongOptions": ["분산", "해산", "도주"]
+  },
+  {
+    "english": "rank",
+    "korean": "계급, 순위",
+    "example": "He holds the rank of captain.",
+    "wrongOptions": ["평등", "무질서", "혼란"]
+  },
+  {
+    "english": "rather",
+    "korean": "오히려, 차라리",
+    "example": "I'd rather stay home.",
+    "wrongOptions": ["절대", "결코", "필수적으로"]
+  },
+  {
+    "english": "readily",
+    "korean": "기꺼이, 쉽게",
+    "example": "He readily agreed to help.",
+    "wrongOptions": ["거부하며", "주저하며", "억지로"]
+  },
+  {
+    "english": "realism",
+    "korean": "사실주의, 현실주의",
+    "example": "The painting shows great realism.",
+    "wrongOptions": ["이상주의", "환상", "상상"]
+  },
+  {
+    "english": "reasonable",
+    "korean": "합리적인, 타당한",
+    "example": "That's a reasonable price.",
+    "wrongOptions": ["비합리적인", "터무니없는", "불합리한"]
+  },
+  {
+    "english": "reasoning",
+    "korean": "추론, 논리적 사고",
+    "example": "Your reasoning is flawed.",
+    "wrongOptions": ["감정", "본능", "직관"]
+  },
+  {
+    "english": "recall",
+    "korean": "회상하다, 소환하다",
+    "example": "I can't recall his name.",
+    "wrongOptions": ["잊다", "무시하다", "지우다"]
+  },
+  {
+    "english": "receive",
+    "korean": "받다, 수신하다",
+    "example": "Did you receive my email?",
+    "wrongOptions": ["주다", "보내다", "거부하다"]
+  },
+  {
+    "english": "recommendation",
+    "korean": "추천, 권고",
+    "example": "Can you write me a recommendation?",
+    "wrongOptions": ["비난", "비판", "거부"]
+  },
+  {
+    "english": "recreational",
+    "korean": "레크리에이션의, 오락의",
+    "example": "The park has recreational facilities.",
+    "wrongOptions": ["업무의", "노동의", "강제적인"]
+  },
+  {
+    "english": "reduce",
+    "korean": "줄이다, 감소시키다",
+    "example": "We need to reduce costs.",
+    "wrongOptions": ["증가시키다", "확대하다", "늘리다"]
+  },
+  {
+    "english": "refuse",
+    "korean": "거절하다, 거부하다",
+    "example": "He refused to answer.",
+    "wrongOptions": ["수락하다", "동의하다", "허락하다"]
+  },
+  {
+    "english": "standing",
+    "korean": "지위, 서있는",
+    "example": "His standing in the community is high.",
+    "wrongOptions": ["앉은", "누운", "무릎꿇은"]
+  },
+  {
+    "english": "stare",
+    "korean": "응시하다",
+    "example": "Don't stare at people.",
+    "wrongOptions": ["무시하다", "외면하다", "피하다"]
+  },
+  {
+    "english": "state",
+    "korean": "상태, 국가",
+    "example": "The house is in good state.",
+    "wrongOptions": ["도시", "마을", "집"]
+  },
+  {
+    "english": "status",
+    "korean": "지위, 상태",
+    "example": "What's your marital status?",
+    "wrongOptions": ["이름", "나이", "취미"]
+  },
+  {
+    "english": "steel",
+    "korean": "강철",
+    "example": "The bridge is made of steel.",
+    "wrongOptions": ["나무", "플라스틱", "유리"]
+  },
+  {
+    "english": "stereotype",
+    "korean": "고정관념",
+    "example": "Don't believe stereotypes.",
+    "wrongOptions": ["사실", "진실", "증거"]
+  },
+  {
+    "english": "stern",
+    "korean": "엄격한, 엄한",
+    "example": "He gave me a stern warning.",
+    "wrongOptions": ["온화한", "친절한", "부드러운"]
+  },
+  {
+    "english": "stipend",
+    "korean": "장학금, 급료",
+    "example": "He receives a monthly stipend.",
+    "wrongOptions": ["벌금", "빚", "세금"]
+  },
+  {
+    "english": "stretch",
+    "korean": "늘이다, 뻗다",
+    "example": "Stretch before exercising.",
+    "wrongOptions": ["수축하다", "줄이다", "굽히다"]
+  },
+  {
+    "english": "strive",
+    "korean": "노력하다, 애쓰다",
+    "example": "We strive for excellence.",
+    "wrongOptions": ["포기하다", "게으름피우다", "회피하다"]
+  },
+  {
+    "english": "stroll",
+    "korean": "산책하다",
+    "example": "Let's take a stroll in the park.",
+    "wrongOptions": ["달리다", "뛰다", "서두르다"]
+  },
+  {
+    "english": "stroller",
+    "korean": "유모차",
+    "example": "The baby is in the stroller.",
+    "wrongOptions": ["자전거", "자동차", "오토바이"]
+  },
+  {
+    "english": "struggle",
+    "korean": "투쟁하다, 고군분투하다",
+    "example": "He struggled to survive.",
+    "wrongOptions": ["쉽게 하다", "포기하다", "성공하다"]
+  },
+  {
+    "english": "stubbornness",
+    "korean": "고집, 완고함",
+    "example": "His stubbornness is frustrating.",
+    "wrongOptions": ["유연성", "순응", "협조"]
+  },
+  {
+    "english": "stuff",
+    "korean": "물건, 채워넣다",
+    "example": "Put your stuff over there.",
+    "wrongOptions": ["비우다", "제거하다", "꺼내다"]
+  },
+  {
+    "english": "stunning",
+    "korean": "놀라운, 멋진",
+    "example": "She looks stunning tonight.",
+    "wrongOptions": ["평범한", "초라한", "못생긴"]
+  },
+  {
+    "english": "subordinate",
+    "korean": "부하, 하급의",
+    "example": "He's my subordinate.",
+    "wrongOptions": ["상사", "동료", "고객"]
+  },
+  {
+    "english": "subsequently",
+    "korean": "그 후에, 나중에",
+    "example": "He subsequently apologized.",
+    "wrongOptions": ["이전에", "동시에", "미리"]
+  },
+  {
+    "english": "suburban",
+    "korean": "교외의",
+    "example": "They live in a suburban area.",
+    "wrongOptions": ["도심의", "시골의", "도시의"]
+  },
+  {
+    "english": "sudden",
+    "korean": "갑작스러운",
+    "example": "There was a sudden noise.",
+    "wrongOptions": ["점진적인", "예상된", "천천히"]
+  },
+  {
+    "english": "suffering",
+    "korean": "고통",
+    "example": "War causes great suffering.",
+    "wrongOptions": ["즐거움", "행복", "기쁨"]
+  },
+  {
+    "english": "sufficiently",
+    "korean": "충분히",
+    "example": "Is this sufficiently clear?",
+    "wrongOptions": ["불충분하게", "부족하게", "약간"]
+  },
+  {
+    "english": "suggestion",
+    "korean": "제안, 제의",
+    "example": "Do you have any suggestions?",
+    "wrongOptions": ["명령", "강요", "금지"]
+  },
+  {
+    "english": "suitable",
+    "korean": "적합한, 알맞은",
+    "example": "Is this suitable for children?",
+    "wrongOptions": ["부적합한", "잘못된", "위험한"]
+  },
+  {
+    "english": "superior",
+    "korean": "우수한, 상사",
+    "example": "This product is superior.",
+    "wrongOptions": ["열등한", "하급의", "부하"]
+  },
+  {
+    "english": "supernova",
+    "korean": "초신성",
+    "example": "A supernova is an exploding star.",
+    "wrongOptions": ["행성", "위성", "혜성"]
+  },
+  {
+    "english": "supervision",
+    "korean": "감독, 관리",
+    "example": "Children need adult supervision.",
+    "wrongOptions": ["방치", "무관심", "자유"]
+  },
+  {
+    "english": "supply",
+    "korean": "공급하다, 공급",
+    "example": "We supply fresh vegetables.",
+    "wrongOptions": ["소비하다", "사용하다", "낭비하다"]
+  },
+  {
+    "english": "support",
+    "korean": "지원하다, 지지하다",
+    "example": "Thank you for your support.",
+    "wrongOptions": ["반대하다", "방해하다", "거부하다"]
+  },
+  {
+    "english": "supportive",
+    "korean": "지지하는, 도움이 되는",
+    "example": "My family is very supportive.",
+    "wrongOptions": ["반대하는", "방해하는", "적대적인"]
+  },
+  {
+    "english": "surely",
+    "korean": "확실히, 틀림없이",
+    "example": "Surely you remember me?",
+    "wrongOptions": ["아마도", "혹시", "불확실하게"]
+  },
+  {
+    "english": "surgery",
+    "korean": "수술",
+    "example": "He needs heart surgery.",
+    "wrongOptions": ["약물", "주사", "붕대"]
+  },
+  {
+    "english": "surplus",
+    "korean": "잉여, 과잉",
+    "example": "There's a budget surplus.",
+    "wrongOptions": ["부족", "적자", "결핍"]
+  },
+  {
+    "english": "survival",
+    "korean": "생존",
+    "example": "Survival is the priority.",
+    "wrongOptions": ["사망", "죽음", "소멸"]
+  },
+  {
+    "english": "suspension",
+    "korean": "정학, 정지",
+    "example": "He received a three-day suspension.",
+    "wrongOptions": ["승진", "표창", "칭찬"]
+  },
+  {
+    "english": "sustenance",
+    "korean": "영양분, 생계",
+    "example": "Food provides sustenance.",
+    "wrongOptions": ["독", "해로움", "질병"]
+  },
+  {
+    "english": "swiftly",
+    "korean": "신속하게, 빠르게",
+    "example": "He moved swiftly.",
+    "wrongOptions": ["느리게", "천천히", "더디게"]
+  },
+  {
+    "english": "swine",
+    "korean": "돼지",
+    "example": "Swine flu is contagious.",
+    "wrongOptions": ["소", "양", "닭"]
+  },
+  {
+    "english": "symbol",
+    "korean": "상징, 기호",
+    "example": "The dove is a symbol of peace.",
+    "wrongOptions": ["실체", "현실", "사실"]
+  },
+  {
+    "english": "symptom",
+    "korean": "증상",
+    "example": "What are the symptoms?",
+    "wrongOptions": ["치료", "원인", "예방"]
+  },
+  {
+    "english": "synonymous",
+    "korean": "동의어의, 유의어의",
+    "example": "Big and large are synonymous.",
+    "wrongOptions": ["반대의", "다른", "무관한"]
+  },
+  {
+    "english": "take a risk",
+    "korean": "위험을 감수하다",
+    "example": "Sometimes you need to take a risk.",
+    "wrongOptions": ["안전하게 가다", "피하다", "회피하다"]
+  },
+  {
+    "english": "talent",
+    "korean": "재능",
+    "example": "She has a talent for music.",
+    "wrongOptions": ["무능", "서툼", "결함"]
+  },
+  {
+    "english": "task",
+    "korean": "과제, 업무",
+    "example": "Complete the task on time.",
+    "wrongOptions": ["휴가", "휴식", "자유시간"]
+  },
+  {
+    "english": "temperate",
+    "korean": "온화한, 절제하는",
+    "example": "Korea has a temperate climate.",
+    "wrongOptions": ["극한의", "극단적인", "과격한"]
+  },
+  {
+    "english": "temperature",
+    "korean": "온도, 기온",
+    "example": "The temperature is rising.",
+    "wrongOptions": ["습도", "기압", "강수량"]
+  },
+  {
+    "english": "tenable",
+    "korean": "방어할 수 있는, 유지할 수 있는",
+    "example": "That theory is no longer tenable.",
+    "wrongOptions": ["불가능한", "터무니없는", "모순된"]
+  },
+  {
+    "english": "territory",
+    "korean": "영토, 영역",
+    "example": "Animals defend their territory.",
+    "wrongOptions": ["적지", "타국", "외국"]
+  },
+  {
+    "english": "terror",
+    "korean": "공포, 테러",
+    "example": "They lived in terror.",
+    "wrongOptions": ["평화", "안전", "안심"]
+  },
+  {
+    "english": "tertiary",
+    "korean": "제3의, 3차의",
+    "example": "Tertiary education means university.",
+    "wrongOptions": ["초등의", "중등의", "유치원의"]
+  },
+  {
+    "english": "theory",
+    "korean": "이론",
+    "example": "Einstein's theory of relativity.",
+    "wrongOptions": ["사실", "증명", "실험"]
+  },
+  {
+    "english": "therapy",
+    "korean": "치료, 요법",
+    "example": "She's undergoing physical therapy.",
+    "wrongOptions": ["질병", "감염", "증상"]
+  },
+  {
+    "english": "thereafter",
+    "korean": "그 후, 그 뒤",
+    "example": "He arrived on Monday and left shortly thereafter.",
+    "wrongOptions": ["이전에", "동시에", "미리"]
+  },
+  {
+    "english": "thermometer",
+    "korean": "온도계",
+    "example": "Use a thermometer to check your temperature.",
+    "wrongOptions": ["시계", "나침반", "자"]
+  },
+  {
+    "english": "though",
+    "korean": "비록 ~이지만",
+    "example": "Though it was late, we continued.",
+    "wrongOptions": ["그러므로", "따라서", "결과적으로"]
+  },
+  {
+    "english": "thoughtless",
+    "korean": "생각없는, 경솔한",
+    "example": "That was a thoughtless remark.",
+    "wrongOptions": ["사려깊은", "신중한", "배려있는"]
+  },
+  {
+    "english": "threshold",
+    "korean": "문턱, 한계점",
+    "example": "We're on the threshold of a new era.",
+    "wrongOptions": ["중심", "끝", "정점"]
+  },
+  {
+    "english": "throat",
+    "korean": "목, 목구멍",
+    "example": "I have a sore throat.",
+    "wrongOptions": ["머리", "배", "다리"]
+  },
+  {
+    "english": "through",
+    "korean": "~을 통해",
+    "example": "Walk through the door.",
+    "wrongOptions": ["위로", "아래로", "옆으로"]
+  },
+  {
+    "english": "throughout",
+    "korean": "~동안 내내, 도처에",
+    "example": "It rained throughout the night.",
+    "wrongOptions": ["잠깐", "짧게", "순간적으로"]
+  },
+  {
+    "english": "tiresome",
+    "korean": "지루한, 귀찮은",
+    "example": "It's a tiresome task.",
+    "wrongOptions": ["흥미로운", "재미있는", "즐거운"]
+  },
+  {
+    "english": "toddler",
+    "korean": "걸음마 아기",
+    "example": "The toddler is learning to walk.",
+    "wrongOptions": ["청소년", "성인", "노인"]
+  },
+  {
+    "english": "token",
+    "korean": "표시, 토큰",
+    "example": "This is a token of my appreciation.",
+    "wrongOptions": ["전체", "주요부분", "본질"]
+  },
+  {
+    "english": "totality",
+    "korean": "전체, 총체",
+    "example": "Consider the totality of the evidence.",
+    "wrongOptions": ["일부", "부분", "조각"]
+  },
+  {
+    "english": "touched",
+    "korean": "감동받은",
+    "example": "I was deeply touched by your kindness.",
+    "wrongOptions": ["무감동한", "냉담한", "무관심한"]
+  },
+  {
+    "english": "toughness",
+    "korean": "강인함, 질긴",
+    "example": "Mental toughness is important.",
+    "wrongOptions": ["약함", "연약함", "부드러움"]
+  },
+  {
+    "english": "tournament",
+    "korean": "토너먼트, 경기대회",
+    "example": "She won the tennis tournament.",
+    "wrongOptions": ["연습", "훈련", "휴식"]
+  },
+  {
+    "english": "tractor",
+    "korean": "트랙터",
+    "example": "The farmer drives a tractor.",
+    "wrongOptions": ["자전거", "오토바이", "승용차"]
+  },
+  {
+    "english": "trade",
+    "korean": "무역, 거래하다",
+    "example": "International trade is growing.",
+    "wrongOptions": ["전쟁", "봉쇄", "고립"]
+  },
+  {
+    "english": "trail",
+    "korean": "오솔길, 흔적",
+    "example": "Follow the trail through the forest.",
+    "wrongOptions": ["고속도로", "철도", "다리"]
+  },
+  {
+    "english": "trait",
+    "korean": "특성, 특징",
+    "example": "Honesty is an admirable trait.",
+    "wrongOptions": ["결함", "약점", "단점"]
+  },
+  {
+    "english": "tram",
+    "korean": "전차, 트램",
+    "example": "Take the tram to the city center.",
+    "wrongOptions": ["비행기", "배", "헬리콥터"]
+  },
+  {
+    "english": "transition",
+    "korean": "전환, 과도기",
+    "example": "The transition to democracy was smooth.",
+    "wrongOptions": ["정체", "고정", "불변"]
+  },
+  {
+    "english": "transitive",
+    "korean": "타동사의",
+    "example": "Eat is a transitive verb.",
+    "wrongOptions": ["자동사의", "형용사의", "부사의"]
+  },
+  {
+    "english": "trap",
+    "korean": "덫, 함정",
+    "example": "The mouse was caught in a trap.",
+    "wrongOptions": ["자유", "탈출구", "해방"]
+  },
+  {
+    "english": "travel",
+    "korean": "여행하다",
+    "example": "I love to travel.",
+    "wrongOptions": ["머무르다", "정착하다", "고정되다"]
+  },
+  {
+    "english": "treatment",
+    "korean": "치료, 대우",
+    "example": "He's receiving medical treatment.",
+    "wrongOptions": ["질병", "감염", "악화"]
+  },
+  {
+    "english": "tremendously",
+    "korean": "엄청나게, 대단히",
+    "example": "I enjoyed it tremendously.",
+    "wrongOptions": ["약간", "조금", "미미하게"]
+  },
+  {
+    "english": "trend",
+    "korean": "경향, 추세",
+    "example": "There's a trend toward healthier eating.",
+    "wrongOptions": ["정체", "고정", "불변"]
+  },
+  {
+    "english": "tribe",
+    "korean": "부족",
+    "example": "The tribe lives in the rainforest.",
+    "wrongOptions": ["도시", "국가", "대륙"]
+  },
+  {
+    "english": "trousers",
+    "korean": "바지",
+    "example": "He's wearing blue trousers.",
+    "wrongOptions": ["셔츠", "신발", "모자"]
+  },
+  {
+    "english": "trustworthy",
+    "korean": "신뢰할 수 있는",
+    "example": "She's a trustworthy friend.",
+    "wrongOptions": ["믿을 수 없는", "의심스러운", "배신하는"]
+  },
+  {
+    "english": "tuition fees",
+    "korean": "등록금, 수업료",
+    "example": "University tuition fees are expensive.",
+    "wrongOptions": ["장학금", "급여", "보조금"]
+  },
+  {
+    "english": "tunnel",
+    "korean": "터널",
+    "example": "The train went through the tunnel.",
+    "wrongOptions": ["다리", "탑", "건물"]
+  },
+  {
+    "english": "tutor",
+    "korean": "가정교사",
+    "example": "She hired a math tutor.",
+    "wrongOptions": ["학생", "교장", "동급생"]
+  },
+  {
+    "english": "twist",
+    "korean": "비틀다, 왜곡하다",
+    "example": "Don't twist my words.",
+    "wrongOptions": ["곧게 펴다", "정확히 하다", "명확히 하다"]
+  },
+  {
+    "english": "typically",
+    "korean": "일반적으로, 보통",
+    "example": "He typically arrives early.",
+    "wrongOptions": ["드물게", "예외적으로", "특별히"]
+  },
+  {
+    "english": "unanswerable",
+    "korean": "대답할 수 없는",
+    "example": "That's an unanswerable question.",
+    "wrongOptions": ["쉬운", "명확한", "단순한"]
+  },
+  {
+    "english": "undeniable",
+    "korean": "부인할 수 없는",
+    "example": "The evidence is undeniable.",
+    "wrongOptions": ["의심스러운", "불확실한", "애매한"]
+  },
+  {
+    "english": "undermine",
+    "korean": "약화시키다, 손상시키다",
+    "example": "Don't undermine his confidence.",
+    "wrongOptions": ["강화하다", "지지하다", "격려하다"]
+  },
+  {
+    "english": "undertake",
+    "korean": "착수하다, 떠맡다",
+    "example": "He undertook the project.",
+    "wrongOptions": ["거부하다", "포기하다", "회피하다"]
+  },
+  {
+    "english": "undue",
+    "korean": "과도한, 부당한",
+    "example": "Don't put undue pressure on yourself.",
+    "wrongOptions": ["적절한", "합당한", "정당한"]
+  },
+  {
+    "english": "unfortunately",
+    "korean": "불행히도, 유감스럽게도",
+    "example": "Unfortunately, I can't come.",
+    "wrongOptions": ["다행히", "운좋게도", "기쁘게도"]
+  },
+  {
+    "english": "union",
+    "korean": "연합, 노조",
+    "example": "He joined the labor union.",
+    "wrongOptions": ["분리", "분열", "독립"]
+  },
+  {
+    "english": "unlikely",
+    "korean": "있을 것 같지 않은",
+    "example": "It's unlikely to rain today.",
+    "wrongOptions": ["확실한", "분명한", "필연적인"]
+  },
+  {
+    "english": "unnecessarily",
+    "korean": "불필요하게",
+    "example": "Don't worry unnecessarily.",
+    "wrongOptions": ["필수적으로", "반드시", "꼭"]
+  },
+  {
+    "english": "unproductive",
+    "korean": "비생산적인",
+    "example": "That was an unproductive meeting.",
+    "wrongOptions": ["효율적인", "유익한", "생산적인"]
+  },
+  {
+    "english": "unreasonably",
+    "korean": "불합리하게",
+    "example": "He was unreasonably angry.",
+    "wrongOptions": ["합리적으로", "정당하게", "적절하게"]
+  },
+  {
+    "english": "unscrupulous",
+    "korean": "파렴치한, 무도덕한",
+    "example": "He's an unscrupulous businessman.",
+    "wrongOptions": ["정직한", "성실한", "도덕적인"]
+  },
+  {
+    "english": "unsustainable",
+    "korean": "지속 불가능한",
+    "example": "This growth rate is unsustainable.",
+    "wrongOptions": ["지속가능한", "영구적인", "안정적인"]
+  },
+  {
+    "english": "unwise",
+    "korean": "현명하지 못한",
+    "example": "That was an unwise decision.",
+    "wrongOptions": ["현명한", "지혜로운", "신중한"]
+  },
+  {
+    "english": "uphill",
+    "korean": "오르막의, 힘든",
+    "example": "It's an uphill climb.",
+    "wrongOptions": ["내리막의", "평평한", "쉬운"]
+  },
+  {
+    "english": "uphold",
+    "korean": "지지하다, 유지하다",
+    "example": "We must uphold justice.",
+    "wrongOptions": ["버리다", "포기하다", "위반하다"]
+  },
+  {
+    "english": "upstream",
+    "korean": "상류로",
+    "example": "Salmon swim upstream.",
+    "wrongOptions": ["하류로", "정지한", "역류하는"]
+  },
+  {
+    "english": "upward",
+    "korean": "위쪽으로",
+    "example": "The balloon floated upward.",
+    "wrongOptions": ["아래로", "옆으로", "뒤로"]
+  },
+  {
+    "english": "usually",
+    "korean": "보통, 대개",
+    "example": "I usually wake up at 7.",
+    "wrongOptions": ["드물게", "결코", "전혀"]
+  },
+  {
+    "english": "vacant",
+    "korean": "비어있는, 공석의",
+    "example": "Is this seat vacant?",
+    "wrongOptions": ["점유된", "사용중인", "예약된"]
+  },
+  {
+    "english": "vaccinate",
+    "korean": "예방접종하다",
+    "example": "Children should be vaccinated.",
+    "wrongOptions": ["감염시키다", "방치하다", "무시하다"]
+  },
+  {
+    "english": "valid",
+    "korean": "유효한, 타당한",
+    "example": "Your passport is still valid.",
+    "wrongOptions": ["무효한", "만료된", "부당한"]
+  },
+  {
+    "english": "validity",
+    "korean": "유효성, 타당성",
+    "example": "I question the validity of this claim.",
+    "wrongOptions": ["무효", "거짓", "오류"]
+  },
+  {
+    "english": "valuable",
+    "korean": "귀중한, 가치있는",
+    "example": "Time is valuable.",
+    "wrongOptions": ["무가치한", "쓸모없는", "하찮은"]
+  },
+  {
+    "english": "vanity",
+    "korean": "허영심, 자만",
+    "example": "His vanity is annoying.",
+    "wrongOptions": ["겸손", "겸허", "검소"]
+  },
+  {
+    "english": "various",
+    "korean": "다양한, 여러가지의",
+    "example": "There are various options.",
+    "wrongOptions": ["단일한", "동일한", "획일적인"]
+  },
+  {
+    "english": "vary",
+    "korean": "다양하다, 변화하다",
+    "example": "Prices vary by location.",
+    "wrongOptions": ["고정되다", "동일하다", "불변하다"]
+  },
+  {
+    "english": "vehicle",
+    "korean": "차량, 운송수단",
+    "example": "Park your vehicle here.",
+    "wrongOptions": ["건물", "사람", "동물"]
+  },
+  {
+    "english": "velocity",
+    "korean": "속도",
+    "example": "The bullet travels at high velocity.",
+    "wrongOptions": ["정지", "느림", "지연"]
+  },
+  {
+    "english": "vend",
+    "korean": "팔다, 판매하다",
+    "example": "They vend snacks at the station.",
+    "wrongOptions": ["사다", "구매하다", "받다"]
+  },
+  {
+    "english": "vent",
+    "korean": "통풍구, 분출구",
+    "example": "Open the vent for fresh air.",
+    "wrongOptions": ["벽", "문", "창문"]
+  },
+  {
+    "english": "versatile",
+    "korean": "다재다능한, 다용도의",
+    "example": "She's a versatile actress.",
+    "wrongOptions": ["한정된", "무능한", "단순한"]
+  },
+  {
+    "english": "vicinity",
+    "korean": "부근, 인근",
+    "example": "Is there a bank in the vicinity?",
+    "wrongOptions": ["먼 곳", "외국", "다른 대륙"]
+  },
+  {
+    "english": "view",
+    "korean": "전망, 견해",
+    "example": "The view from here is beautiful.",
+    "wrongOptions": ["벽", "차단", "폐쇄"]
+  },
+  {
+    "english": "vintage",
+    "korean": "빈티지의, 고급의",
+    "example": "She collects vintage clothes.",
+    "wrongOptions": ["최신의", "현대적인", "신식의"]
+  },
+  {
+    "english": "violate",
+    "korean": "위반하다, 침해하다",
+    "example": "Don't violate the rules.",
+    "wrongOptions": ["준수하다", "지키다", "따르다"]
+  },
+  {
+    "english": "virtual",
+    "korean": "가상의, 사실상의",
+    "example": "We had a virtual meeting.",
+    "wrongOptions": ["실제의", "물리적인", "현실의"]
+  },
+  {
+    "english": "vitally",
+    "korean": "극히, 매우 중요하게",
+    "example": "This is vitally important.",
+    "wrongOptions": ["사소하게", "약간", "미미하게"]
+  },
+  {
+    "english": "volume",
+    "korean": "부피, 음량",
+    "example": "Turn down the volume.",
+    "wrongOptions": ["무게", "길이", "온도"]
+  },
+  {
+    "english": "voluntary",
+    "korean": "자발적인, 자원의",
+    "example": "It's a voluntary program.",
+    "wrongOptions": ["강제적인", "의무적인", "필수적인"]
+  },
+  {
+    "english": "voter",
+    "korean": "투표자, 유권자",
+    "example": "All voters must register.",
+    "wrongOptions": ["후보자", "정치인", "공무원"]
+  },
+  {
+    "english": "vulnerable",
+    "korean": "취약한, 연약한",
+    "example": "Children are vulnerable.",
+    "wrongOptions": ["강한", "안전한", "보호된"]
+  },
+  {
+    "english": "wall",
+    "korean": "벽",
+    "example": "Hang the picture on the wall.",
+    "wrongOptions": ["바닥", "천장", "문"]
+  },
+  {
+    "english": "wallet",
+    "korean": "지갑",
+    "example": "I lost my wallet.",
+    "wrongOptions": ["가방", "신발", "모자"]
+  },
+  {
+    "english": "warmth",
+    "korean": "따뜻함, 온기",
+    "example": "I felt the warmth of the sun.",
+    "wrongOptions": ["추위", "냉기", "얼음"]
+  },
+  {
+    "english": "warranty",
+    "korean": "보증, 보증서",
+    "example": "The product comes with a warranty.",
+    "wrongOptions": ["위험", "손실", "파손"]
+  },
+  {
+    "english": "wastebasket",
+    "korean": "휴지통",
+    "example": "Throw it in the wastebasket.",
+    "wrongOptions": ["냉장고", "오븐", "서랍"]
+  },
+  {
+    "english": "waterfall",
+    "korean": "폭포",
+    "example": "The waterfall is magnificent.",
+    "wrongOptions": ["호수", "바다", "강"]
+  },
+  {
+    "english": "wealth",
+    "korean": "부, 재산",
+    "example": "He accumulated great wealth.",
+    "wrongOptions": ["가난", "빈곤", "결핍"]
+  },
+  {
+    "english": "webcam",
+    "korean": "웹캠",
+    "example": "Turn on your webcam.",
+    "wrongOptions": ["키보드", "마우스", "스피커"]
+  },
+  {
+    "english": "well-dressed",
+    "korean": "옷을 잘 차려입은",
+    "example": "He's always well-dressed.",
+    "wrongOptions": ["헐렁한", "지저분한", "단정치 못한"]
+  },
+  {
+    "english": "when it comes to",
+    "korean": "~에 관해서는",
+    "example": "When it comes to cooking, she's the best.",
+    "wrongOptions": ["제외하고", "무시하고", "반대로"]
+  },
+  {
+    "english": "whereas",
+    "korean": "~인 반면에",
+    "example": "He likes tea, whereas I prefer coffee.",
+    "wrongOptions": ["그리고", "또한", "마찬가지로"]
+  },
+  {
+    "english": "wholly",
+    "korean": "완전히, 전적으로",
+    "example": "I wholly agree with you.",
+    "wrongOptions": ["부분적으로", "약간", "조금"]
+  },
+  {
+    "english": "widespread",
+    "korean": "널리 퍼진, 광범위한",
+    "example": "There's widespread support.",
+    "wrongOptions": ["제한적인", "국지적인", "소수의"]
+  },
+  {
+    "english": "wilderness",
+    "korean": "황야, 야생",
+    "example": "They explored the wilderness.",
+    "wrongOptions": ["도시", "마을", "건물"]
+  },
+  {
+    "english": "willingness",
+    "korean": "기꺼이 하려는 마음",
+    "example": "She showed willingness to help.",
+    "wrongOptions": ["거부", "반대", "꺼림"]
+  },
+  {
+    "english": "witness",
+    "korean": "목격자, 목격하다",
+    "example": "There were no witnesses.",
+    "wrongOptions": ["범인", "피해자", "용의자"]
+  },
+  {
+    "english": "work out",
+    "korean": "운동하다, 해결되다",
+    "example": "I work out every morning.",
+    "wrongOptions": ["쉬다", "잠자다", "게으름피우다"]
+  },
+  {
+    "english": "workshop",
+    "korean": "워크숍, 작업장",
+    "example": "I attended a writing workshop.",
+    "wrongOptions": ["강의", "시험", "휴가"]
+  },
+  {
+    "english": "zebra",
+    "korean": "얼룩말",
+    "example": "Zebras have black and white stripes.",
+    "wrongOptions": ["사자", "기린", "코끼리"]
+  },
+  {
+    "english": "regarding",
+    "korean": "~에 관하여",
+    "example": "I have a question regarding the assignment.",
+    "wrongOptions": ["제외하고", "무시하고", "반대하여"]
+  },
+  {
+    "english": "related to",
+    "korean": "~와 관련된",
+    "example": "This is related to our previous discussion.",
+    "wrongOptions": ["무관한", "독립적인", "분리된"]
+  },
+  {
+    "english": "relative",
+    "korean": "친척, 상대적인",
+    "example": "She's a relative of mine.",
+    "wrongOptions": ["낯선 사람", "적", "경쟁자"]
+  },
+  {
+    "english": "religion",
+    "korean": "종교",
+    "example": "People practice different religions.",
+    "wrongOptions": ["과학", "정치", "경제"]
+  },
+  {
+    "english": "reluctant",
+    "korean": "꺼리는, 마지못해 하는",
+    "example": "He was reluctant to leave.",
+    "wrongOptions": ["열정적인", "적극적인", "자발적인"]
+  },
+  {
+    "english": "reminiscent",
+    "korean": "연상시키는, 회상하는",
+    "example": "The smell is reminiscent of my childhood.",
+    "wrongOptions": ["잊게 하는", "무관한", "새로운"]
+  },
+  {
+    "english": "remorse",
+    "korean": "후회, 양심의 가책",
+    "example": "He felt deep remorse.",
+    "wrongOptions": ["자랑", "만족", "기쁨"]
+  },
+  {
+    "english": "renewable",
+    "korean": "재생 가능한",
+    "example": "Solar energy is renewable.",
+    "wrongOptions": ["고갈되는", "일회용의", "소모성의"]
+  },
+  {
+    "english": "renowned",
+    "korean": "유명한, 명성있는",
+    "example": "She's a renowned artist.",
+    "wrongOptions": ["무명의", "알려지지 않은", "평범한"]
+  },
+  {
+    "english": "repeat",
+    "korean": "반복하다",
+    "example": "Could you repeat that, please?",
+    "wrongOptions": ["생략하다", "건너뛰다", "무시하다"]
+  },
+  {
+    "english": "replaceable",
+    "korean": "대체 가능한",
+    "example": "These parts are easily replaceable.",
+    "wrongOptions": ["유일한", "대체불가능한", "특별한"]
+  },
+  {
+    "english": "replicate",
+    "korean": "복제하다, 재현하다",
+    "example": "Scientists replicated the experiment.",
+    "wrongOptions": ["파괴하다", "창조하다", "변형하다"]
+  },
+  {
+    "english": "reputation",
+    "korean": "평판, 명성",
+    "example": "The school has a good reputation.",
+    "wrongOptions": ["악명", "무명", "비난"]
+  },
+  {
+    "english": "requirement",
+    "korean": "필요조건, 요구사항",
+    "example": "What are the requirements for admission?",
+    "wrongOptions": ["선택사항", "금지사항", "무관한 것"]
+  },
+  {
+    "english": "residency",
+    "korean": "거주, 레지던트 과정",
+    "example": "He's doing his medical residency.",
+    "wrongOptions": ["여행", "방문", "출장"]
+  },
+  {
+    "english": "resident",
+    "korean": "거주자, 주민",
+    "example": "Local residents protested.",
+    "wrongOptions": ["방문객", "관광객", "이방인"]
+  },
+  {
+    "english": "resilience",
+    "korean": "회복력, 탄력성",
+    "example": "Children show great resilience.",
+    "wrongOptions": ["취약성", "약함", "무력함"]
+  },
+  {
+    "english": "resourceful",
+    "korean": "기지가 있는, 자원이 풍부한",
+    "example": "She's very resourceful.",
+    "wrongOptions": ["무능한", "무기력한", "의존적인"]
+  },
+  {
+    "english": "resources",
+    "korean": "자원",
+    "example": "Natural resources are limited.",
+    "wrongOptions": ["폐기물", "쓰레기", "불용품"]
+  },
+  {
+    "english": "respect",
+    "korean": "존경, 존중하다",
+    "example": "Show respect to your elders.",
+    "wrongOptions": ["경멸", "무시", "모욕"]
+  },
+  {
+    "english": "response",
+    "korean": "응답, 반응",
+    "example": "I'm waiting for his response.",
+    "wrongOptions": ["침묵", "무관심", "거부"]
+  },
+  {
+    "english": "restless",
+    "korean": "불안한, 침착하지 못한",
+    "example": "The children were restless.",
+    "wrongOptions": ["평온한", "침착한", "고요한"]
+  },
+  {
+    "english": "restriction",
+    "korean": "제한, 규제",
+    "example": "There are age restrictions.",
+    "wrongOptions": ["자유", "허가", "장려"]
+  },
+  {
+    "english": "restructure",
+    "korean": "재구성하다, 재편하다",
+    "example": "The company will restructure.",
+    "wrongOptions": ["유지하다", "고수하다", "보존하다"]
+  },
+  {
+    "english": "result in",
+    "korean": "~을 초래하다",
+    "example": "Smoking can result in cancer.",
+    "wrongOptions": ["예방하다", "막다", "피하다"]
+  },
+  {
+    "english": "retain",
+    "korean": "보유하다, 유지하다",
+    "example": "We need to retain good employees.",
+    "wrongOptions": ["잃다", "버리다", "포기하다"]
+  },
+  {
+    "english": "retake an exam",
+    "korean": "시험을 재응시하다",
+    "example": "She had to retake the exam.",
+    "wrongOptions": ["포기하다", "통과하다", "면제받다"]
+  },
+  {
+    "english": "retrace",
+    "korean": "되돌아가다, 회상하다",
+    "example": "Let me retrace my steps.",
+    "wrongOptions": ["계속 가다", "앞으로 가다", "잊다"]
+  },
+  {
+    "english": "retrieve",
+    "korean": "되찾다, 회수하다",
+    "example": "I need to retrieve my files.",
+    "wrongOptions": ["잃다", "버리다", "삭제하다"]
+  },
+  {
+    "english": "revise",
+    "korean": "수정하다, 복습하다",
+    "example": "I need to revise my essay.",
+    "wrongOptions": ["버리다", "완성하다", "제출하다"]
+  },
+  {
+    "english": "revival",
+    "korean": "부흥, 재생",
+    "example": "There's been a revival of interest.",
+    "wrongOptions": ["쇠퇴", "소멸", "죽음"]
+  },
+  {
+    "english": "rewarding",
+    "korean": "보람있는, 유익한",
+    "example": "Teaching is a rewarding career.",
+    "wrongOptions": ["헛된", "무익한", "실망스러운"]
+  },
+  {
+    "english": "rhyme",
+    "korean": "운, 운율을 맞추다",
+    "example": "Cat and hat rhyme.",
+    "wrongOptions": ["불일치하다", "어긋나다", "대조하다"]
+  },
+  {
+    "english": "rightly",
+    "korean": "올바르게, 정당하게",
+    "example": "She rightly refused.",
+    "wrongOptions": ["잘못", "부당하게", "오류로"]
+  },
+  {
+    "english": "ripe",
+    "korean": "익은, 무르익은",
+    "example": "The fruit is ripe.",
+    "wrongOptions": ["덜 익은", "썩은", "시든"]
+  },
+  {
+    "english": "rosy",
+    "korean": "장밋빛의, 낙관적인",
+    "example": "The future looks rosy.",
+    "wrongOptions": ["암울한", "절망적인", "어두운"]
+  },
+  {
+    "english": "rotary",
+    "korean": "회전하는",
+    "example": "A rotary engine.",
+    "wrongOptions": ["고정된", "직선의", "부동의"]
+  },
+  {
+    "english": "rotten",
+    "korean": "썩은, 부패한",
+    "example": "The food has gone rotten.",
+    "wrongOptions": ["신선한", "새로운", "맛있는"]
+  },
+  {
+    "english": "roughly",
+    "korean": "대략, 거칠게",
+    "example": "There are roughly 100 people.",
+    "wrongOptions": ["정확히", "세밀하게", "부드럽게"]
+  },
+  {
+    "english": "royal",
+    "korean": "왕의, 왕실의",
+    "example": "The royal family lives in the palace.",
+    "wrongOptions": ["평민의", "서민의", "일반인의"]
+  },
+  {
+    "english": "rumor",
+    "korean": "소문",
+    "example": "It's just a rumor.",
+    "wrongOptions": ["사실", "진실", "증거"]
+  },
+  {
+    "english": "runway",
+    "korean": "활주로",
+    "example": "The plane landed on the runway.",
+    "wrongOptions": ["도로", "철도", "수로"]
+  },
+  {
+    "english": "sacred",
+    "korean": "신성한, 성스러운",
+    "example": "This is a sacred place.",
+    "wrongOptions": ["세속적인", "평범한", "불경한"]
+  },
+  {
+    "english": "saga",
+    "korean": "무용담, 대하소설",
+    "example": "The Viking sagas are legendary.",
+    "wrongOptions": ["단편", "짧은 글", "시"]
+  },
+  {
+    "english": "scan",
+    "korean": "훑어보다, 스캔하다",
+    "example": "Scan the document and email it.",
+    "wrongOptions": ["무시하다", "삭제하다", "버리다"]
+  },
+  {
+    "english": "scarcity",
+    "korean": "부족, 희소성",
+    "example": "Water scarcity is a problem.",
+    "wrongOptions": ["풍부", "과잉", "넘침"]
+  },
+  {
+    "english": "scenery",
+    "korean": "풍경, 경치",
+    "example": "The mountain scenery is beautiful.",
+    "wrongOptions": ["실내", "건물", "도시"]
+  },
+  {
+    "english": "scent",
+    "korean": "향기, 냄새",
+    "example": "The scent of roses filled the air.",
+    "wrongOptions": ["악취", "무취", "독"]
+  },
+  {
+    "english": "scholar",
+    "korean": "학자",
+    "example": "He's a renowned scholar.",
+    "wrongOptions": ["무식한 사람", "학생", "초보자"]
+  },
+  {
+    "english": "scholarship",
+    "korean": "장학금, 학문",
+    "example": "She won a scholarship.",
+    "wrongOptions": ["벌금", "빚", "세금"]
+  },
+  {
+    "english": "screen",
+    "korean": "화면, 선별하다",
+    "example": "The movie will be shown on a big screen.",
+    "wrongOptions": ["무대", "객석", "출입구"]
+  },
+  {
+    "english": "screening",
+    "korean": "상영, 선별검사",
+    "example": "Cancer screening is important.",
+    "wrongOptions": ["치료", "수술", "입원"]
+  },
+  {
+    "english": "scruffy",
+    "korean": "지저분한, 단정치 못한",
+    "example": "He looked scruffy.",
+    "wrongOptions": ["단정한", "깔끔한", "우아한"]
+  },
+  {
+    "english": "seafood",
+    "korean": "해산물",
+    "example": "I love eating seafood.",
+    "wrongOptions": ["육류", "채소", "과일"]
+  },
+  {
+    "english": "secretary",
+    "korean": "비서, 장관",
+    "example": "The secretary answered the phone.",
+    "wrongOptions": ["사장", "고객", "경비원"]
+  },
+  {
+    "english": "sector",
+    "korean": "부문, 분야",
+    "example": "The private sector is growing.",
+    "wrongOptions": ["전체", "통합", "총괄"]
+  },
+  {
+    "english": "sedentary",
+    "korean": "앉아서 하는, 주로 앉아있는",
+    "example": "A sedentary lifestyle is unhealthy.",
+    "wrongOptions": ["활동적인", "역동적인", "움직이는"]
+  },
+  {
+    "english": "seed",
+    "korean": "씨앗",
+    "example": "Plant the seeds in spring.",
+    "wrongOptions": ["꽃", "나무", "열매"]
+  },
+  {
+    "english": "sensation",
+    "korean": "감각, 센세이션",
+    "example": "I felt a tingling sensation.",
+    "wrongOptions": ["무감각", "마비", "둔감"]
+  },
+  {
+    "english": "sentence",
+    "korean": "문장, 선고",
+    "example": "Write a complete sentence.",
+    "wrongOptions": ["단어", "글자", "문단"]
+  },
+  {
+    "english": "serene",
+    "korean": "고요한, 평온한",
+    "example": "The lake was serene.",
+    "wrongOptions": ["소란스러운", "혼란스러운", "격렬한"]
+  },
+  {
+    "english": "serenity",
+    "korean": "평온, 고요",
+    "example": "She enjoyed the serenity of nature.",
+    "wrongOptions": ["혼란", "소란", "격동"]
+  },
+  {
+    "english": "service",
+    "korean": "서비스, 봉사",
+    "example": "Customer service is excellent.",
+    "wrongOptions": ["방치", "무시", "거부"]
+  },
+  {
+    "english": "set up",
+    "korean": "설치하다, 설립하다",
+    "example": "They set up a new company.",
+    "wrongOptions": ["철거하다", "파괴하다", "해체하다"]
+  },
+  {
+    "english": "settler",
+    "korean": "정착민, 이주민",
+    "example": "The first settlers arrived in 1620.",
+    "wrongOptions": ["원주민", "토착민", "현지인"]
+  },
+  {
+    "english": "shell",
+    "korean": "껍질, 조개껍데기",
+    "example": "The turtle has a hard shell.",
+    "wrongOptions": ["속살", "내부", "핵심"]
+  },
+  {
+    "english": "shift",
+    "korean": "변화, 교대근무",
+    "example": "There's been a shift in policy.",
+    "wrongOptions": ["고정", "불변", "정체"]
+  },
+  {
+    "english": "shine",
+    "korean": "빛나다",
+    "example": "The sun is shining.",
+    "wrongOptions": ["어둡다", "흐리다", "가리다"]
+  },
+  {
+    "english": "shovel",
+    "korean": "삽",
+    "example": "Use a shovel to dig.",
+    "wrongOptions": ["빗자루", "걸레", "망치"]
+  },
+  {
+    "english": "shower",
+    "korean": "샤워, 소나기",
+    "example": "I need to take a shower.",
+    "wrongOptions": ["목욕", "수영", "세탁"]
+  },
+  {
+    "english": "sign a contract",
+    "korean": "계약서에 서명하다",
+    "example": "They signed the contract yesterday.",
+    "wrongOptions": ["파기하다", "거부하다", "취소하다"]
+  },
+  {
+    "english": "significantly",
+    "korean": "상당히, 현저히",
+    "example": "Prices increased significantly.",
+    "wrongOptions": ["미미하게", "약간", "조금"]
+  },
+  {
+    "english": "silverware",
+    "korean": "은식기",
+    "example": "The silverware needs polishing.",
+    "wrongOptions": ["도자기", "유리잔", "나무그릇"]
+  },
+  {
+    "english": "simulate",
+    "korean": "모의실험하다, 흉내내다",
+    "example": "The program simulates flight.",
+    "wrongOptions": ["실행하다", "진짜로 하다", "현실화하다"]
+  },
+  {
+    "english": "simultaneously",
+    "korean": "동시에",
+    "example": "Events occurred simultaneously.",
+    "wrongOptions": ["순차적으로", "따로", "개별적으로"]
+  },
+  {
+    "english": "situation",
+    "korean": "상황, 처지",
+    "example": "The situation is serious.",
+    "wrongOptions": ["해결책", "결과", "원인"]
+  },
+  {
+    "english": "skeptical",
+    "korean": "회의적인, 의심하는",
+    "example": "I'm skeptical about his claims.",
+    "wrongOptions": ["확신하는", "믿는", "신뢰하는"]
+  },
+  {
+    "english": "skill",
+    "korean": "기술, 재능",
+    "example": "She has excellent communication skills.",
+    "wrongOptions": ["무능", "서툼", "미숙함"]
+  },
+  {
+    "english": "skip",
+    "korean": "건너뛰다",
+    "example": "Don't skip breakfast.",
+    "wrongOptions": ["포함하다", "실행하다", "완수하다"]
+  },
+  {
+    "english": "slam",
+    "korean": "쾅 닫다, 세게 치다",
+    "example": "Don't slam the door!",
+    "wrongOptions": ["조용히 닫다", "열다", "두드리다"]
+  },
+  {
+    "english": "snap at",
+    "korean": "~에게 화를 내다",
+    "example": "She snapped at me.",
+    "wrongOptions": ["칭찬하다", "위로하다", "격려하다"]
+  },
+  {
+    "english": "sober",
+    "korean": "술 취하지 않은, 냉정한",
+    "example": "He's completely sober now.",
+    "wrongOptions": ["취한", "흥분한", "들뜬"]
+  },
+  {
+    "english": "solid",
+    "korean": "고체의, 단단한",
+    "example": "Ice is solid water.",
+    "wrongOptions": ["액체의", "기체의", "유동적인"]
+  },
+  {
+    "english": "solution",
+    "korean": "해결책, 용액",
+    "example": "We need to find a solution.",
+    "wrongOptions": ["문제", "난관", "장애물"]
+  },
+  {
+    "english": "sophisticated",
+    "korean": "정교한, 세련된",
+    "example": "It's a sophisticated system.",
+    "wrongOptions": ["단순한", "조잡한", "원시적인"]
+  },
+  {
+    "english": "specialized",
+    "korean": "전문화된",
+    "example": "He has specialized knowledge.",
+    "wrongOptions": ["일반적인", "기초적인", "초보적인"]
+  },
+  {
+    "english": "specific",
+    "korean": "구체적인, 특정한",
+    "example": "Be more specific.",
+    "wrongOptions": ["일반적인", "모호한", "애매한"]
+  },
+  {
+    "english": "specify",
+    "korean": "명시하다, 구체적으로 말하다",
+    "example": "Please specify your requirements.",
+    "wrongOptions": ["숨기다", "모호하게 하다", "생략하다"]
+  },
+  {
+    "english": "spectacular",
+    "korean": "장관의, 화려한",
+    "example": "The view was spectacular.",
+    "wrongOptions": ["평범한", "지루한", "초라한"]
+  },
+  {
+    "english": "spectator",
+    "korean": "관중, 구경꾼",
+    "example": "Thousands of spectators attended.",
+    "wrongOptions": ["선수", "참가자", "출연자"]
+  },
+  {
+    "english": "spending",
+    "korean": "지출, 소비",
+    "example": "Government spending increased.",
+    "wrongOptions": ["저축", "절약", "수입"]
+  },
+  {
+    "english": "spike",
+    "korean": "급증, 못",
+    "example": "There was a spike in prices.",
+    "wrongOptions": ["감소", "하락", "안정"]
+  },
+  {
+    "english": "splendid",
+    "korean": "훌륭한, 화려한",
+    "example": "What a splendid idea!",
+    "wrongOptions": ["형편없는", "끔찍한", "비참한"]
+  },
+  {
+    "english": "sporting",
+    "korean": "스포츠의, 공정한",
+    "example": "Sporting events are popular.",
+    "wrongOptions": ["부정한", "불공정한", "비스포츠의"]
+  },
+  {
+    "english": "spouse",
+    "korean": "배우자",
+    "example": "Bring your spouse to the party.",
+    "wrongOptions": ["친구", "동료", "낯선 사람"]
+  },
+  {
+    "english": "spray",
+    "korean": "뿌리다, 분무기",
+    "example": "Spray water on the plants.",
+    "wrongOptions": ["모으다", "흡수하다", "말리다"]
+  },
+  {
+    "english": "squander",
+    "korean": "낭비하다",
+    "example": "Don't squander your money.",
+    "wrongOptions": ["저축하다", "절약하다", "투자하다"]
+  },
+  {
+    "english": "squeaky",
+    "korean": "삐걱거리는",
+    "example": "The door is squeaky.",
+    "wrongOptions": ["조용한", "부드러운", "무음의"]
+  },
+  {
+    "english": "stability",
+    "korean": "안정성",
+    "example": "Political stability is important.",
+    "wrongOptions": ["불안정", "혼란", "격동"]
+  },
+  {
+    "english": "standard",
+    "korean": "기준, 표준",
+    "example": "This meets our standards.",
+    "wrongOptions": ["예외", "일탈", "변칙"]
+  }
+]
