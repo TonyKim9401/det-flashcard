@@ -4,5 +4,1181 @@
     "words": ["accomplish", "essential"],
     "translations": ["성취하다", "필수적인"],
     "hints": ["acco", "esse"]
+  },
+  {
+    "text": "The ___ of the new museum is ___; it provides ___ insights into ancient civilizations.",
+    "words": ["opening", "remarkable", "valuable"],
+    "translations": ["개관", "놀라운", "귀중한"],
+    "hints": ["ope", "rema", "valu"]
+  },
+  {
+    "text": "To ___ in your career, you must ___ your skills and ___ every opportunity that comes your way.",
+    "words": ["succeed", "develop", "seize"],
+    "translations": ["성공하다", "개발하다", "포착하다"],
+    "hints": ["succ", "deve", "sei"]
+  },
+  {
+    "text": "The teacher asked the students to ___ the text carefully and ___ any important points they could ___ in their notes.",
+    "words": ["analyze", "highlight", "include"],
+    "translations": ["분석하다", "강조하다", "포함하다"],
+    "hints": ["ana", "high", "inc"]
+  },
+  {
+    "text": "During the project, it is ___ to ___ deadlines and ___ any issues with the team promptly.",
+    "words": ["crucial", "meet", "report"],
+    "translations": ["중요한", "지키다", "보고하다"],
+    "hints": ["cru", "mee", "rep"]
+  },
+  {
+    "text": "He felt ___ after the long journey, but seeing his family ___ him ___ immediately.",
+    "words": ["exhausted", "comfort", "cheer"],
+    "translations": ["지친", "위로하다", "기운나게 하다"],
+    "hints": ["exha", "comf", "che"]
+  },
+  {
+    "text": "The scientist ___ the results and found that the ___ of the experiment was ___ expected.",
+    "words": ["examined", "outcome", "exactly"],
+    "translations": ["검토하다", "결과", "정확히"],
+    "hints": ["exam", "outc", "exa"]
+  },
+  {
+    "text": "During the debate, it is important to be ___ and ___ your opinions clearly, while also ___ opposing views.",
+    "words": ["assertive", "express", "considering"],
+    "translations": ["단호한", "표현하다", "고려하다"],
+    "hints": ["asse", "exp", "cons"]
+  },
+  {
+    "text": "The chef used ___ ingredients to ___ a ___ dish that delighted everyone.",
+    "words": ["fresh", "create", "delicious"],
+    "translations": ["신선한", "만들다", "맛있는"],
+    "hints": ["fre", "crea", "deli"]
+  },
+  {
+    "text": "She wanted to ___ abroad to ___ her language skills and ___ new cultures.",
+    "words": ["study", "improve", "explore"],
+    "translations": ["유학하다", "향상시키다", "탐험하다"],
+    "hints": ["stu", "impr", "expl"]
+  },
+  {
+    "text": "The company decided to ___ new policies to ___ employee satisfaction and ___ productivity.",
+    "words": ["implement", "increase", "boost"],
+    "translations": ["실행하다", "증가시키다", "높이다"],
+    "hints": ["impl", "incr", "boo"]
+  },
+  {
+    "text": "It is ___ to ___ your finances regularly and ___ for unexpected expenses.",
+    "words": ["wise", "monitor", "plan"],
+    "translations": ["현명한", "감시하다", "계획하다"],
+    "hints": ["wis", "moni", "pla"]
+  },
+  {
+    "text": "The film was ___ and ___, leaving the audience ___ the ending.",
+    "words": ["exciting", "dramatic", "anticipating"],
+    "translations": ["흥미진진한", "극적인", "기대하는"],
+    "hints": ["exci", "dram", "anti"]
+  },
+  {
+    "text": "The manager had to ___ the team and ___ tasks to ensure ___ completion of the project.",
+    "words": ["organize", "assign", "timely"],
+    "translations": ["조직하다", "배정하다", "시기적절한"],
+    "hints": ["orga", "assi", "time"]
+  },
+  {
+    "text": "To stay healthy, you should ___ a balanced diet, ___ regularly, and ___ enough sleep.",
+    "words": ["maintain", "exercise", "get"],
+    "translations": ["유지하다", "운동하다", "취하다"],
+    "hints": ["main", "exer", "get"]
+  },
+  {
+    "text": "The author wanted to ___ the readers with a story that would ___ and ___ deep emotions.",
+    "words": ["engage", "inspire", "evoke"],
+    "translations": ["몰입시키다", "영감을 주다", "불러일으키다"],
+    "hints": ["eng", "insp", "evo"]
+  },
+  {
+    "text": "It is ___ to ___ the instructions carefully and ___ all safety measures before using the equipment.",
+    "words": ["important", "read", "follow"],
+    "translations": ["중요한", "읽다", "따르다"],
+    "hints": ["impo", "rea", "fol"]
+  },
+  {
+    "text": "The athlete worked ___ to ___ his skills and ___ his performance at the competition.",
+    "words": ["diligently", "improve", "maximize"],
+    "translations": ["부지런히", "향상시키다", "최대화하다"],
+    "hints": ["dili", "impr", "maxi"]
+  },
+  {
+    "text": "During the trip, they had to ___ local customs, ___ new experiences, and ___ their journey safely.",
+    "words": ["respect", "embrace", "complete"],
+    "translations": ["존중하다", "포용하다", "완료하다"],
+    "hints": ["resp", "embr", "comp"]
+  },
+  {
+    "text": "The students were asked to ___ a research topic, ___ sources, and ___ their findings in a report.",
+    "words": ["select", "gather", "present"],
+    "translations": ["선택하다", "수집하다", "제시하다"],
+    "hints": ["sele", "gath", "pres"]
+  },
+  {
+    "text": "To ___ a good impression, you should ___ politely and ___ attentively during conversations.",
+    "words": ["make", "greet", "listen"],
+    "translations": ["만들다", "인사하다", "경청하다"],
+    "hints": ["ma", "greet", "lis"]
+  },
+  {
+    "text": "The company plans to ___ new technology to ___ efficiency and ___ costs.",
+    "words": ["adopt", "increase", "reduce"],
+    "translations": ["도입하다", "높이다", "줄이다"],
+    "hints": ["ado", "inc", "red"]
+  },
+  {
+    "text": "The artist wanted to ___ her work with vibrant colors and ___ it for the exhibition to ___ the audience.",
+    "words": ["enhance", "display", "captivate"],
+    "translations": ["강화하다", "전시하다", "사로잡다"],
+    "hints": ["enha", "disp", "cap"]
+  },
+  {
+    "text": "It is ___ to ___ your time wisely, ___ tasks according to priority, and ___ deadlines carefully.",
+    "words": ["essential", "manage", "organize", "meet"],
+    "translations": ["필수적인", "관리하다", "정리하다", "지키다"],
+    "hints": ["esse", "man", "orga", "mee"]
+  },
+  {
+    "text": "During emergencies, you should ___ calmly, ___ help quickly, and ___ the situation carefully.",
+    "words": ["act", "seek", "assess"],
+    "translations": ["행동하다", "구하다", "평가하다"],
+    "hints": ["act", "see", "ass"]
+  },
+  {
+    "text": "To ___ a healthy lifestyle, it is necessary to ___ nutritious food, ___ physical activities, and ___ stress.",
+    "words": ["maintain", "consume", "perform", "manage"],
+    "translations": ["유지하다", "섭취하다", "수행하다", "관리하다"],
+    "hints": ["main", "cons", "perf", "mana"]
+  },
+  {
+    "text": "The student wanted to ___ his project on time, ___ every requirement, and ___ feedback from the teacher.",
+    "words": ["submit", "meet", "receive"],
+    "translations": ["제출하다", "충족하다", "받다"],
+    "hints": ["sub", "mee", "rece"]
+  },
+  {
+    "text": "The explorer aimed to ___ unknown territories, ___ maps carefully, and ___ data for future reference.",
+    "words": ["discover", "record", "collect"],
+    "translations": ["발견하다", "기록하다", "수집하다"],
+    "hints": ["disc", "rec", "coll"]
+  },
+  {
+    "text": "The politician tried to ___ public opinion, ___ clear messages, and ___ support for his policy.",
+    "words": ["influence", "deliver", "garner"],
+    "translations": ["영향을 주다", "전달하다", "얻다"],
+    "hints": ["infl", "del", "gar"]
+  },
+  {
+    "text": "To ___ productivity, employees should ___ effectively, ___ collaboration, and ___ deadlines consistently.",
+    "words": ["increase", "communicate", "encourage", "meet"],
+    "translations": ["증가시키다", "소통하다", "장려하다", "지키다"],
+    "hints": ["inc", "comm", "enc", "mee"]
+  },
+  {
+    "text": "The teacher asked students to ___ the essay thoroughly, ___ the mistakes, and ___ corrections.",
+    "words": ["review", "identify", "make"],
+    "translations": ["검토하다", "확인하다", "수정하다"],
+    "hints": ["rev", "iden", "ma"]
+  },
+  {
+    "text": "The chef aimed to ___ the dish with spices, ___ it artistically, and ___ the flavors perfectly.",
+    "words": ["season", "present", "balance"],
+    "translations": ["양념하다", "제시하다", "조화시키다"],
+    "hints": ["seas", "pres", "bal"]
+  },
+  {
+    "text": "During the conference, the speaker tried to ___ the audience, ___ knowledge, and ___ questions effectively.",
+    "words": ["engage", "share", "answer"],
+    "translations": ["몰입시키다", "공유하다", "답하다"],
+    "hints": ["eng", "sha", "ans"]
+  },
+  {
+    "text": "It is ___ to ___ ethical practices, ___ fairness, and ___ responsibility in every task.",
+    "words": ["important", "follow", "ensure", "take"],
+    "translations": ["중요한", "따르다", "보장하다", "지다"],
+    "hints": ["impo", "fol", "ens", "tak"]
+  },
+  {
+    "text": "The company decided to ___ the product line, ___ marketing strategies, and ___ customer satisfaction.",
+    "words": ["expand", "revise", "enhance"],
+    "translations": ["확장하다", "수정하다", "향상시키다"],
+    "hints": ["exp", "rev", "enha"]
+  },
+  {
+    "text": "The artist wanted to ___ inspiration from nature, ___ ideas creatively, and ___ the masterpiece.",
+    "words": ["draw", "express", "complete"],
+    "translations": ["끌어내다", "표현하다", "완성하다"],
+    "hints": ["dra", "exp", "comp"]
+  },
+  {
+    "text": "To ___ teamwork, the manager encouraged members to ___ openly, ___ solutions, and ___ trust.",
+    "words": ["promote", "communicate", "develop", "build"],
+    "translations": ["촉진하다", "소통하다", "개발하다", "쌓다"],
+    "hints": ["prom", "comm", "dev", "bui"]
+  },
+  {
+    "text": "The athlete had to ___ his endurance, ___ training consistently, and ___ a strong mindset.",
+    "words": ["improve", "continue", "maintain"],
+    "translations": ["향상시키다", "계속하다", "유지하다"],
+    "hints": ["impr", "cont", "main"]
+  },
+  {
+    "text": "The engineer needed to ___ the design, ___ safety measures, and ___ the project efficiently.",
+    "words": ["modify", "implement", "complete"],
+    "translations": ["수정하다", "실행하다", "완료하다"],
+    "hints": ["modi", "impl", "comp"]
+  },
+  {
+    "text": "To ___ a good impression, you should ___ politely and ___ attentively during conversations.",
+    "words": ["make", "greet", "listen"],
+    "translations": ["만들다", "인사하다", "경청하다"],
+    "hints": ["ma", "greet", "lis"]
+  },
+  {
+    "text": "The company plans to ___ new technology to ___ efficiency and ___ costs.",
+    "words": ["adopt", "increase", "reduce"],
+    "translations": ["도입하다", "높이다", "줄이다"],
+    "hints": ["ado", "inc", "red"]
+  },
+  {
+    "text": "The artist wanted to ___ her work with vibrant colors and ___ it for the exhibition to ___ the audience.",
+    "words": ["enhance", "display", "captivate"],
+    "translations": ["강화하다", "전시하다", "사로잡다"],
+    "hints": ["enha", "disp", "cap"]
+  },
+  {
+    "text": "It is ___ to ___ your time wisely, ___ tasks according to priority, and ___ deadlines carefully.",
+    "words": ["essential", "manage", "organize", "meet"],
+    "translations": ["필수적인", "관리하다", "정리하다", "지키다"],
+    "hints": ["esse", "man", "orga", "mee"]
+  },
+  {
+    "text": "During emergencies, you should ___ calmly, ___ help quickly, and ___ the situation carefully.",
+    "words": ["act", "seek", "assess"],
+    "translations": ["행동하다", "구하다", "평가하다"],
+    "hints": ["act", "see", "ass"]
+  },
+  {
+    "text": "To ___ a healthy lifestyle, it is necessary to ___ nutritious food, ___ physical activities, and ___ stress.",
+    "words": ["maintain", "consume", "perform", "manage"],
+    "translations": ["유지하다", "섭취하다", "수행하다", "관리하다"],
+    "hints": ["main", "cons", "perf", "mana"]
+  },
+  {
+    "text": "The student wanted to ___ his project on time, ___ every requirement, and ___ feedback from the teacher.",
+    "words": ["submit", "meet", "receive"],
+    "translations": ["제출하다", "충족하다", "받다"],
+    "hints": ["sub", "mee", "rece"]
+  },
+  {
+    "text": "The explorer aimed to ___ unknown territories, ___ maps carefully, and ___ data for future reference.",
+    "words": ["discover", "record", "collect"],
+    "translations": ["발견하다", "기록하다", "수집하다"],
+    "hints": ["disc", "rec", "coll"]
+  },
+  {
+    "text": "The politician tried to ___ public opinion, ___ clear messages, and ___ support for his policy.",
+    "words": ["influence", "deliver", "garner"],
+    "translations": ["영향을 주다", "전달하다", "얻다"],
+    "hints": ["infl", "del", "gar"]
+  },
+  {
+    "text": "To ___ productivity, employees should ___ effectively, ___ collaboration, and ___ deadlines consistently.",
+    "words": ["increase", "communicate", "encourage", "meet"],
+    "translations": ["증가시키다", "소통하다", "장려하다", "지키다"],
+    "hints": ["inc", "comm", "enc", "mee"]
+  },
+  {
+    "text": "The teacher asked students to ___ the essay thoroughly, ___ the mistakes, and ___ corrections.",
+    "words": ["review", "identify", "make"],
+    "translations": ["검토하다", "확인하다", "수정하다"],
+    "hints": ["rev", "iden", "ma"]
+  },
+  {
+    "text": "The chef aimed to ___ the dish with spices, ___ it artistically, and ___ the flavors perfectly.",
+    "words": ["season", "present", "balance"],
+    "translations": ["양념하다", "제시하다", "조화시키다"],
+    "hints": ["seas", "pres", "bal"]
+  },
+  {
+    "text": "During the conference, the speaker tried to ___ the audience, ___ knowledge, and ___ questions effectively.",
+    "words": ["engage", "share", "answer"],
+    "translations": ["몰입시키다", "공유하다", "답하다"],
+    "hints": ["eng", "sha", "ans"]
+  },
+  {
+    "text": "It is ___ to ___ ethical practices, ___ fairness, and ___ responsibility in every task.",
+    "words": ["important", "follow", "ensure", "take"],
+    "translations": ["중요한", "따르다", "보장하다", "지다"],
+    "hints": ["impo", "fol", "ens", "tak"]
+  },
+  {
+    "text": "The company decided to ___ the product line, ___ marketing strategies, and ___ customer satisfaction.",
+    "words": ["expand", "revise", "enhance"],
+    "translations": ["확장하다", "수정하다", "향상시키다"],
+    "hints": ["exp", "rev", "enha"]
+  },
+  {
+    "text": "The artist wanted to ___ inspiration from nature, ___ ideas creatively, and ___ the masterpiece.",
+    "words": ["draw", "express", "complete"],
+    "translations": ["끌어내다", "표현하다", "완성하다"],
+    "hints": ["dra", "exp", "comp"]
+  },
+  {
+    "text": "To ___ teamwork, the manager encouraged members to ___ openly, ___ solutions, and ___ trust.",
+    "words": ["promote", "communicate", "develop", "build"],
+    "translations": ["촉진하다", "소통하다", "개발하다", "쌓다"],
+    "hints": ["prom", "comm", "dev", "bui"]
+  },
+  {
+    "text": "The athlete had to ___ his endurance, ___ training consistently, and ___ a strong mindset.",
+    "words": ["improve", "continue", "maintain"],
+    "translations": ["향상시키다", "계속하다", "유지하다"],
+    "hints": ["impr", "cont", "main"]
+  },
+  {
+    "text": "The engineer needed to ___ the design, ___ safety measures, and ___ the project efficiently.",
+    "words": ["modify", "implement", "complete"],
+    "translations": ["수정하다", "실행하다", "완료하다"],
+    "hints": ["modi", "impl", "comp"]
+  },
+  {
+    "text": "To ___ the environment, people should ___ waste, ___ energy, and ___ sustainable resources.",
+    "words": ["protect", "reduce", "save", "use"],
+    "translations": ["보호하다", "줄이다", "절약하다", "사용하다"],
+    "hints": ["prot", "red", "sav", "use"]
+  },
+  {
+    "text": "The manager asked the team to ___ the project timeline, ___ each task carefully, and ___ risks.",
+    "words": ["review", "plan", "assess"],
+    "translations": ["검토하다", "계획하다", "평가하다"],
+    "hints": ["rev", "pla", "ass"]
+  },
+  {
+    "text": "Students should ___ the textbook, ___ examples thoroughly, and ___ notes to prepare for exams.",
+    "words": ["read", "analyze", "review"],
+    "translations": ["읽다", "분석하다", "복습하다"],
+    "hints": ["rea", "ana", "rev"]
+  },
+  {
+    "text": "The scientist wanted to ___ the experiment, ___ accurate data, and ___ results logically.",
+    "words": ["conduct", "record", "interpret"],
+    "translations": ["수행하다", "기록하다", "해석하다"],
+    "hints": ["cond", "rec", "int"]
+  },
+  {
+    "text": "To ___ happiness, it is important to ___ positive habits, ___ relationships, and ___ gratitude.",
+    "words": ["achieve", "develop", "nurture", "practice"],
+    "translations": ["얻다", "발달시키다", "육성하다", "실천하다"],
+    "hints": ["ach", "dev", "nur", "pra"]
+  },
+  {
+    "text": "The writer aimed to ___ creativity, ___ ideas vividly, and ___ the readers’ imagination.",
+    "words": ["enhance", "express", "stimulate"],
+    "translations": ["향상시키다", "표현하다", "자극하다"],
+    "hints": ["enha", "exp", "sti"]
+  },
+  {
+    "text": "During the meeting, the CEO asked everyone to ___ opinions, ___ ideas, and ___ collaboration.",
+    "words": ["share", "suggest", "promote"],
+    "translations": ["공유하다", "제안하다", "촉진하다"],
+    "hints": ["sha", "sug", "prom"]
+  },
+  {
+    "text": "To ___ public health, authorities need to ___ vaccination, ___ awareness, and ___ preventive measures.",
+    "words": ["protect", "promote", "implement"],
+    "translations": ["보호하다", "촉진하다", "실행하다"],
+    "hints": ["prot", "prom", "impl"]
+  },
+  {
+    "text": "The artist wanted to ___ inspiration, ___ sketches carefully, and ___ the final masterpiece.",
+    "words": ["draw", "refine", "complete"],
+    "translations": ["끌어내다", "다듬다", "완성하다"],
+    "hints": ["dra", "ref", "comp"]
+  },
+  {
+    "text": "The teacher asked students to ___ questions, ___ critical thinking, and ___ discussion in class.",
+    "words": ["ask", "develop", "encourage"],
+    "translations": ["묻다", "발달시키다", "장려하다"],
+    "hints": ["ask", "dev", "enc"]
+  },
+  {
+    "text": "It is important to ___ safety, ___ rules strictly, and ___ caution at all times.",
+    "words": ["ensure", "follow", "exercise"],
+    "translations": ["보장하다", "따르다", "발휘하다"],
+    "hints": ["ens", "fol", "exe"]
+  },
+  {
+    "text": "The student tried to ___ vocabulary daily, ___ reading, and ___ comprehension skills.",
+    "words": ["memorize", "practice", "enhance"],
+    "translations": ["암기하다", "연습하다", "향상시키다"],
+    "hints": ["mem", "pra", "enha"]
+  },
+  {
+    "text": "To ___ efficiency, the team should ___ workflow, ___ responsibilities, and ___ deadlines.",
+    "words": ["increase", "organize", "clarify", "meet"],
+    "translations": ["증가시키다", "조직하다", "명확히하다", "지키다"],
+    "hints": ["inc", "orga", "cla", "mee"]
+  },
+  {
+    "text": "The scientist wanted to ___ the hypothesis, ___ experiments, and ___ conclusions carefully.",
+    "words": ["test", "conduct", "draw"],
+    "translations": ["시험하다", "수행하다", "내리다"],
+    "hints": ["tes", "cond", "dra"]
+  },
+  {
+    "text": "To ___ communication skills, it is necessary to ___ actively, ___ clearly, and ___ understanding.",
+    "words": ["improve", "listen", "speak", "ensure"],
+    "translations": ["향상시키다", "듣다", "말하다", "보장하다"],
+    "hints": ["impr", "lis", "spe", "ens"]
+  },
+  {
+    "text": "The manager asked employees to ___ tasks efficiently, ___ results, and ___ performance continuously.",
+    "words": ["perform", "measure", "evaluate"],
+    "translations": ["수행하다", "측정하다", "평가하다"],
+    "hints": ["perf", "mea", "eva"]
+  },
+  {
+    "text": "To ___ customer satisfaction, the company should ___ feedback, ___ services, and ___ improvements.",
+    "words": ["enhance", "collect", "provide", "implement"],
+    "translations": ["향상시키다", "수집하다", "제공하다", "실행하다"],
+    "hints": ["enha", "coll", "prov", "impl"]
+  },
+  {
+    "text": "The writer tried to ___ the story with vivid characters, ___ plot twists, and ___ readers’ attention.",
+    "words": ["enrich", "create", "capture"],
+    "translations": ["풍부하게하다", "창작하다", "사로잡다"],
+    "hints": ["enri", "crea", "cap"]
+  },
+  {
+    "text": "During the conference, it was important to ___ presentations, ___ ideas logically, and ___ questions thoughtfully.",
+    "words": ["deliver", "organize", "answer"],
+    "translations": ["전달하다", "정리하다", "답하다"],
+    "hints": ["del", "orga", "ans"]
+  },
+  {
+    "text": "The coach encouraged players to ___ teamwork, ___ skills consistently, and ___ goals effectively.",
+    "words": ["promote", "practice", "achieve"],
+    "translations": ["촉진하다", "연습하다", "달성하다"],
+    "hints": ["prom", "pra", "ach"]
+  },
+  {
+    "text": "To ___ a healthy lifestyle, one should ___ nutritious food, ___ exercise regularly, and ___ enough sleep.",
+    "words": ["maintain", "eat", "perform", "get"],
+    "translations": ["유지하다", "먹다", "실천하다", "취하다"],
+    "hints": ["mai", "eat", "per", "get"]
+  },
+  {
+    "text": "The artist aimed to ___ inspiration, ___ sketches carefully, and ___ a unique masterpiece.",
+    "words": ["seek", "refine", "create"],
+    "translations": ["찾다", "다듬다", "창작하다"],
+    "hints": ["see", "ref", "crea"]
+  },
+  {
+    "text": "Students should ___ the syllabus, ___ deadlines, and ___ notes effectively.",
+    "words": ["review", "track", "organize"],
+    "translations": ["검토하다", "추적하다", "정리하다"],
+    "hints": ["rev", "tra", "org"]
+  },
+  {
+    "text": "To ___ communication, it is necessary to ___ actively, ___ clearly, and ___ feedback.",
+    "words": ["improve", "listen", "speak", "receive"],
+    "translations": ["향상시키다", "듣다", "말하다", "받다"],
+    "hints": ["impr", "lis", "spe", "rec"]
+  },
+  {
+    "text": "The manager asked the team to ___ responsibilities, ___ tasks efficiently, and ___ results on time.",
+    "words": ["clarify", "perform", "deliver"],
+    "translations": ["명확히하다", "수행하다", "전달하다"],
+    "hints": ["cla", "per", "del"]
+  },
+  {
+    "text": "To ___ the economy, governments should ___ investments, ___ trade, and ___ innovation.",
+    "words": ["boost", "encourage", "promote", "support"],
+    "translations": ["활성화하다", "장려하다", "촉진하다", "지원하다"],
+    "hints": ["boo", "enc", "prom", "sup"]
+  },
+  {
+    "text": "The scientist wanted to ___ data accurately, ___ experiments, and ___ conclusions logically.",
+    "words": ["record", "conduct", "draw"],
+    "translations": ["기록하다", "수행하다", "내리다"],
+    "hints": ["rec", "con", "dra"]
+  },
+  {
+    "text": "To ___ teamwork, employees should ___ collaboration, ___ opinions, and ___ conflicts peacefully.",
+    "words": ["promote", "encourage", "share", "resolve"],
+    "translations": ["촉진하다", "장려하다", "공유하다", "해결하다"],
+    "hints": ["prom", "enc", "sha", "res"]
+  },
+  {
+    "text": "The company plans to ___ products, ___ marketing strategies, and ___ customer satisfaction.",
+    "words": ["develop", "implement", "enhance"],
+    "translations": ["개발하다", "실행하다", "향상시키다"],
+    "hints": ["dev", "imp", "enha"]
+  },
+  {
+    "text": "During the lesson, the teacher asked students to ___ questions, ___ answers carefully, and ___ discussion thoughtfully.",
+    "words": ["ask", "provide", "engage in"],
+    "translations": ["묻다", "제공하다", "참여하다"],
+    "hints": ["ask", "pro", "eng"]
+  },
+  {
+    "text": "To ___ efficiency, one should ___ workflow, ___ responsibilities, and ___ resources wisely.",
+    "words": ["increase", "organize", "clarify", "utilize"],
+    "translations": ["증가시키다", "조직하다", "명확히하다", "활용하다"],
+    "hints": ["inc", "org", "cla", "uti"]
+  },
+  {
+    "text": "The artist wanted to ___ imagination, ___ colors vividly, and ___ the audience’s attention.",
+    "words": ["stimulate", "blend", "capture"],
+    "translations": ["자극하다", "섞다", "사로잡다"],
+    "hints": ["sti", "ble", "cap"]
+  },
+  {
+    "text": "The student tried to ___ vocabulary daily, ___ exercises, and ___ reading habits.",
+    "words": ["memorize", "perform", "develop"],
+    "translations": ["암기하다", "실천하다", "발달시키다"],
+    "hints": ["mem", "per", "dev"]
+  },
+  {
+    "text": "To ___ environmental issues, it is important to ___ pollution, ___ resources, and ___ sustainability.",
+    "words": ["address", "reduce", "conserve", "promote"],
+    "translations": ["다루다", "줄이다", "보존하다", "촉진하다"],
+    "hints": ["add", "red", "con", "prom"]
+  },
+  {
+    "text": "The teacher encouraged students to ___ creativity, ___ new ideas, and ___ innovation.",
+    "words": ["enhance", "generate", "embrace"],
+    "translations": ["향상시키다", "창출하다", "포용하다"],
+    "hints": ["enha", "gen", "emb"]
+  },
+  {
+    "text": "The manager asked the team to ___ goals, ___ progress, and ___ results accurately.",
+    "words": ["set", "track", "measure"],
+    "translations": ["설정하다", "추적하다", "측정하다"],
+    "hints": ["set", "tra", "mea"]
+  },
+  {
+    "text": "To ___ public health, authorities should ___ vaccination, ___ awareness campaigns, and ___ prevention strategies.",
+    "words": ["protect", "implement", "conduct"],
+    "translations": ["보호하다", "실행하다", "수행하다"],
+    "hints": ["prot", "imp", "con"]
+  },
+  {
+    "text": "The author aimed to ___ literature with deep themes, ___ characters vividly, and ___ readers’ imagination.",
+    "words": ["enrich", "develop", "capture"],
+    "translations": ["풍부하게하다", "발달시키다", "사로잡다"],
+    "hints": ["enri", "dev", "cap"]
+  },
+  {
+    "text": "During the meeting, it was necessary to ___ opinions, ___ ideas logically, and ___ a decision collaboratively.",
+    "words": ["share", "organize", "reach"],
+    "translations": ["공유하다", "정리하다", "도달하다"],
+    "hints": ["sha", "org", "rea"]
+  },
+  {
+    "text": "The coach advised players to ___ skills consistently, ___ teamwork, and ___ performance under pressure.",
+    "words": ["practice", "promote", "maintain"],
+    "translations": ["연습하다", "촉진하다", "유지하다"],
+    "hints": ["pra", "prom", "mai"]
+  },
+  {
+    "text": "The scientist wanted to ___ the hypothesis, ___ experiments carefully, and ___ conclusions logically.",
+    "words": ["test", "conduct", "draw"],
+    "translations": ["검증하다", "수행하다", "도출하다"],
+    "hints": ["tes", "con", "dra"]
+  },
+  {
+    "text": "To ___ career goals, one should ___ skills constantly, ___ networking, and ___ opportunities wisely.",
+    "words": ["achieve", "develop", "build", "seize"],
+    "translations": ["달성하다", "개발하다", "쌓다", "포착하다"],
+    "hints": ["ach", "dev", "bui", "sei"]
+  },
+  {
+    "text": "The company aimed to ___ brand recognition, ___ marketing campaigns, and ___ customer loyalty.",
+    "words": ["increase", "implement", "enhance"],
+    "translations": ["증가시키다", "실행하다", "향상시키다"],
+    "hints": ["inc", "imp", "enh"]
+  },
+  {
+    "text": "To ___ safety, it is important to ___ protocols, ___ training, and ___ risks effectively.",
+    "words": ["ensure", "follow", "provide", "manage"],
+    "translations": ["보장하다", "따르다", "제공하다", "관리하다"],
+    "hints": ["ens", "fol", "pro", "man"]
+  },
+  {
+    "text": "The artist tried to ___ inspiration, ___ ideas creatively, and ___ unique artwork.",
+    "words": ["seek", "express", "produce"],
+    "translations": ["찾다", "표현하다", "창작하다"],
+    "hints": ["see", "exp", "pro"]
+  },
+  {
+    "text": "Students should ___ learning materials, ___ notes efficiently, and ___ understanding thoroughly.",
+    "words": ["review", "organize", "comprehend"],
+    "translations": ["검토하다", "정리하다", "이해하다"],
+    "hints": ["rev", "org", "com"]
+  },
+  {
+    "text": "To ___ environmental protection, governments must ___ policies, ___ resources carefully, and ___ sustainability.",
+    "words": ["promote", "enforce", "use", "ensure"],
+    "translations": ["촉진하다", "집행하다", "사용하다", "보장하다"],
+    "hints": ["pro", "enf", "use", "ens"]
+  },
+  {
+    "text": "The manager asked the staff to ___ goals clearly, ___ performance regularly, and ___ results efficiently.",
+    "words": ["set", "monitor", "report"],
+    "translations": ["설정하다", "점검하다", "보고하다"],
+    "hints": ["set", "mon", "rep"]
+  },
+  {
+    "text": "The teacher encouraged students to ___ curiosity, ___ questions freely, and ___ discussions actively.",
+    "words": ["foster", "ask", "participate in"],
+    "translations": ["육성하다", "묻다", "참여하다"],
+    "hints": ["fos", "ask", "par"]
+  },
+  {
+    "text": "To ___ productivity, employees should ___ time wisely, ___ tasks efficiently, and ___ distractions.",
+    "words": ["increase", "manage", "complete", "avoid"],
+    "translations": ["증가시키다", "관리하다", "완료하다", "피하다"],
+    "hints": ["inc", "man", "com", "avo"]
+  },
+  {
+    "text": "The chef aimed to ___ flavors perfectly, ___ ingredients carefully, and ___ dishes beautifully.",
+    "words": ["balance", "select", "present"],
+    "translations": ["균형잡다", "선택하다", "제시하다"],
+    "hints": ["bal", "sel", "pre"]
+  },
+  {
+    "text": "To ___ communication skills, it is important to ___ actively, ___ ideas clearly, and ___ feedback constructively.",
+    "words": ["improve", "listen", "express", "receive"],
+    "translations": ["향상시키다", "듣다", "표현하다", "받다"],
+    "hints": ["imp", "lis", "exp", "rec"]
+  },
+  {
+    "text": "The student tried to ___ vocabulary daily, ___ exercises consistently, and ___ reading comprehension.",
+    "words": ["memorize", "practice", "enhance"],
+    "translations": ["암기하다", "연습하다", "향상시키다"],
+    "hints": ["mem", "pra", "enh"]
+  },
+  {
+    "text": "To ___ teamwork, members should ___ collaboration, ___ ideas openly, and ___ conflicts fairly.",
+    "words": ["strengthen", "encourage", "share", "resolve"],
+    "translations": ["강화하다", "장려하다", "공유하다", "해결하다"],
+    "hints": ["str", "enc", "sha", "res"]
+  },
+  {
+    "text": "The author wanted to ___ creativity, ___ unique characters, and ___ readers’ imagination.",
+    "words": ["foster", "develop", "capture"],
+    "translations": ["육성하다", "발달시키다", "사로잡다"],
+    "hints": ["fos", "dev", "cap"]
+  },
+  {
+    "text": "During the project, it was important to ___ responsibilities, ___ progress daily, and ___ deadlines carefully.",
+    "words": ["clarify", "track", "meet"],
+    "translations": ["명확히하다", "추적하다", "지키다"],
+    "hints": ["cla", "tra", "mee"]
+  },
+  {
+    "text": "To ___ economic growth, governments should ___ investments, ___ industries, and ___ innovation.",
+    "words": ["stimulate", "encourage", "develop", "promote"],
+    "translations": ["자극하다", "장려하다", "발전시키다", "촉진하다"],
+    "hints": ["sti", "enc", "dev", "pro"]
+  },
+  {
+    "text": "The coach advised athletes to ___ practice daily, ___ techniques consistently, and ___ performance under pressure.",
+    "words": ["maintain", "refine", "improve"],
+    "translations": ["유지하다", "다듬다", "향상시키다"],
+    "hints": ["mai", "ref", "imp"]
+  },
+  {
+    "text": "The company aimed to ___ products innovatively, ___ marketing strategies effectively, and ___ customer satisfaction.",
+    "words": ["develop", "implement", "enhance"],
+    "translations": ["개발하다", "실행하다", "향상시키다"],
+    "hints": ["dev", "imp", "enh"]
+  },
+  {
+    "text": "During the seminar, participants were asked to ___ ideas creatively, ___ discussion actively, and ___ solutions collaboratively.",
+    "words": ["generate", "engage in", "propose"],
+    "translations": ["창출하다", "참여하다", "제안하다"],
+    "hints": ["gen", "eng", "pro"]
+  },
+  {
+    "text": "To ___ communication skills, students should ___ actively in class, ___ questions confidently, and ___ feedback carefully.",
+    "words": ["improve", "participate", "ask", "receive"],
+    "translations": ["향상시키다", "참여하다", "묻다", "받다"],
+    "hints": ["imp", "par", "ask", "rec"]
+  },
+  {
+    "text": "The company wanted to ___ customer satisfaction, ___ complaints quickly, and ___ high-quality products consistently.",
+    "words": ["increase", "address", "deliver"],
+    "translations": ["증가시키다", "처리하다", "제공하다"],
+    "hints": ["inc", "add", "del"]
+  },
+  {
+    "text": "To ___ leadership, managers must ___ decisions wisely, ___ team members effectively, and ___ responsibilities fairly.",
+    "words": ["demonstrate", "make", "guide", "distribute"],
+    "translations": ["보이다", "내리다", "지도하다", "배분하다"],
+    "hints": ["dem", "mak", "gui", "dis"]
+  },
+  {
+    "text": "During the training, employees should ___ skills carefully, ___ exercises repeatedly, and ___ knowledge accurately.",
+    "words": ["practice", "perform", "apply"],
+    "translations": ["연습하다", "실행하다", "적용하다"],
+    "hints": ["pra", "per", "app"]
+  },
+  {
+    "text": "To ___ the environment, people should ___ recycling, ___ energy efficiently, and ___ pollution seriously.",
+    "words": ["protect", "promote", "use", "consider"],
+    "translations": ["보호하다", "촉진하다", "사용하다", "고려하다"],
+    "hints": ["pro", "pro", "use", "con"]
+  },
+  {
+    "text": "The researcher tried to ___ data accurately, ___ experiments methodically, and ___ results clearly.",
+    "words": ["collect", "conduct", "present"],
+    "translations": ["수집하다", "실행하다", "제시하다"],
+    "hints": ["col", "con", "pre"]
+  },
+  {
+    "text": "To ___ teamwork, members should ___ ideas openly, ___ responsibilities equally, and ___ cooperation actively.",
+    "words": ["strengthen", "share", "distribute", "encourage"],
+    "translations": ["강화하다", "공유하다", "배분하다", "장려하다"],
+    "hints": ["str", "sha", "dis", "enc"]
+  },
+  {
+    "text": "The author wanted to ___ plot twists effectively, ___ characters deeply, and ___ suspense consistently.",
+    "words": ["develop", "describe", "maintain"],
+    "translations": ["전개하다", "묘사하다", "유지하다"],
+    "hints": ["dev", "des", "mai"]
+  },
+  {
+    "text": "To ___ economic stability, governments should ___ budgets wisely, ___ policies carefully, and ___ investments efficiently.",
+    "words": ["ensure", "manage", "implement", "allocate"],
+    "translations": ["보장하다", "관리하다", "실행하다", "배분하다"],
+    "hints": ["ens", "man", "imp", "all"]
+  },
+  {
+    "text": "Students need to ___ learning objectives clearly, ___ study plans properly, and ___ progress consistently.",
+    "words": ["define", "organize", "track"],
+    "translations": ["정의하다", "조직하다", "추적하다"],
+    "hints": ["def", "org", "tra"]
+  },
+  {
+    "text": "To ___ health, people should ___ nutritious food, ___ exercise regularly, and ___ stress effectively.",
+    "words": ["maintain", "consume", "perform", "manage"],
+    "translations": ["유지하다", "섭취하다", "실천하다", "관리하다"],
+    "hints": ["mai", "con", "per", "man"]
+  },
+  {
+    "text": "The manager asked employees to ___ tasks efficiently, ___ meetings actively, and ___ deadlines strictly.",
+    "words": ["complete", "attend", "meet"],
+    "translations": ["완료하다", "참석하다", "지키다"],
+    "hints": ["com", "att", "mee"]
+  },
+  {
+    "text": "To ___ innovation, companies should ___ creativity, ___ research thoroughly, and ___ risks wisely.",
+    "words": ["promote", "encourage", "conduct", "take"],
+    "translations": ["촉진하다", "장려하다", "수행하다", "취하다"],
+    "hints": ["pro", "enc", "con", "tak"]
+  },
+  {
+    "text": "During the seminar, participants were encouraged to ___ ideas freely, ___ debates respectfully, and ___ perspectives thoughtfully.",
+    "words": ["share", "engage in", "consider"],
+    "translations": ["공유하다", "참여하다", "고려하다"],
+    "hints": ["sha", "eng", "con"]
+  },
+  {
+    "text": "To ___ productivity, teams should ___ collaboration, ___ communication openly, and ___ unnecessary delays.",
+    "words": ["increase", "promote", "share", "avoid"],
+    "translations": ["증가시키다", "촉진하다", "공유하다", "피하다"],
+    "hints": ["inc", "pro", "sha", "avo"]
+  },
+  {
+    "text": "The athlete wanted to ___ stamina, ___ strength consistently, and ___ techniques effectively.",
+    "words": ["improve", "build", "practice"],
+    "translations": ["향상시키다", "쌓다", "연습하다"],
+    "hints": ["imp", "bui", "pra"]
+  },
+  {
+    "text": "To ___ environmental awareness, schools should ___ campaigns, ___ activities actively, and ___ participation widely.",
+    "words": ["increase", "organize", "encourage", "promote"],
+    "translations": ["증가시키다", "조직하다", "장려하다", "촉진하다"],
+    "hints": ["inc", "org", "enc", "pro"]
+  },
+  {
+    "text": "The writer tried to ___ themes clearly, ___ messages effectively, and ___ ideas logically.",
+    "words": ["express", "convey", "present"],
+    "translations": ["표현하다", "전달하다", "제시하다"],
+    "hints": ["exp", "con", "pre"]
+  },
+  {
+    "text": "Students are advised to ___ notes systematically, ___ references accurately, and ___ assignments timely.",
+    "words": ["organize", "cite", "submit"],
+    "translations": ["정리하다", "인용하다", "제출하다"],
+    "hints": ["org", "cit", "sub"]
+  },
+  {
+    "text": "To ___ public speaking, one should ___ confidence, ___ gestures naturally, and ___ voice clearly.",
+    "words": ["enhance", "show", "use", "project"],
+    "translations": ["향상시키다", "보이다", "사용하다", "투사하다"],
+    "hints": ["enh", "sho", "use", "pro"]
+  },
+  {
+    "text": "To ___ communication skills, students should ___ actively in class, ___ questions confidently, and ___ feedback carefully.",
+    "words": ["improve", "participate", "ask", "receive"],
+    "translations": ["향상시키다", "참여하다", "묻다", "받다"],
+    "hints": ["imp", "par", "ask", "rec"]
+  },
+  {
+    "text": "The company wanted to ___ customer satisfaction, ___ complaints quickly, and ___ high-quality products consistently.",
+    "words": ["increase", "address", "deliver"],
+    "translations": ["증가시키다", "처리하다", "제공하다"],
+    "hints": ["inc", "add", "del"]
+  },
+  {
+    "text": "To ___ leadership, managers must ___ decisions wisely, ___ team members effectively, and ___ responsibilities fairly.",
+    "words": ["demonstrate", "make", "guide", "distribute"],
+    "translations": ["보이다", "내리다", "지도하다", "배분하다"],
+    "hints": ["dem", "mak", "gui", "dis"]
+  },
+  {
+    "text": "During the training, employees should ___ skills carefully, ___ exercises repeatedly, and ___ knowledge accurately.",
+    "words": ["practice", "perform", "apply"],
+    "translations": ["연습하다", "실행하다", "적용하다"],
+    "hints": ["pra", "per", "app"]
+  },
+  {
+    "text": "To ___ the environment, people should ___ recycling, ___ energy efficiently, and ___ pollution seriously.",
+    "words": ["protect", "promote", "use", "consider"],
+    "translations": ["보호하다", "촉진하다", "사용하다", "고려하다"],
+    "hints": ["pro", "pro", "use", "con"]
+  },
+  {
+    "text": "The researcher tried to ___ data accurately, ___ experiments methodically, and ___ results clearly.",
+    "words": ["collect", "conduct", "present"],
+    "translations": ["수집하다", "실행하다", "제시하다"],
+    "hints": ["col", "con", "pre"]
+  },
+  {
+    "text": "To ___ teamwork, members should ___ ideas openly, ___ responsibilities equally, and ___ cooperation actively.",
+    "words": ["strengthen", "share", "distribute", "encourage"],
+    "translations": ["강화하다", "공유하다", "배분하다", "장려하다"],
+    "hints": ["str", "sha", "dis", "enc"]
+  },
+  {
+    "text": "The author wanted to ___ plot twists effectively, ___ characters deeply, and ___ suspense consistently.",
+    "words": ["develop", "describe", "maintain"],
+    "translations": ["전개하다", "묘사하다", "유지하다"],
+    "hints": ["dev", "des", "mai"]
+  },
+  {
+    "text": "To ___ economic stability, governments should ___ budgets wisely, ___ policies carefully, and ___ investments efficiently.",
+    "words": ["ensure", "manage", "implement", "allocate"],
+    "translations": ["보장하다", "관리하다", "실행하다", "배분하다"],
+    "hints": ["ens", "man", "imp", "all"]
+  },
+  {
+    "text": "Students need to ___ learning objectives clearly, ___ study plans properly, and ___ progress consistently.",
+    "words": ["define", "organize", "track"],
+    "translations": ["정의하다", "조직하다", "추적하다"],
+    "hints": ["def", "org", "tra"]
+  },
+  {
+    "text": "To ___ health, people should ___ nutritious food, ___ exercise regularly, and ___ stress effectively.",
+    "words": ["maintain", "consume", "perform", "manage"],
+    "translations": ["유지하다", "섭취하다", "실천하다", "관리하다"],
+    "hints": ["mai", "con", "per", "man"]
+  },
+  {
+    "text": "The manager asked employees to ___ tasks efficiently, ___ meetings actively, and ___ deadlines strictly.",
+    "words": ["complete", "attend", "meet"],
+    "translations": ["완료하다", "참석하다", "지키다"],
+    "hints": ["com", "att", "mee"]
+  },
+  {
+    "text": "To ___ innovation, companies should ___ creativity, ___ research thoroughly, and ___ risks wisely.",
+    "words": ["promote", "encourage", "conduct", "take"],
+    "translations": ["촉진하다", "장려하다", "수행하다", "취하다"],
+    "hints": ["pro", "enc", "con", "tak"]
+  },
+  {
+    "text": "During the seminar, participants were encouraged to ___ ideas freely, ___ debates respectfully, and ___ perspectives thoughtfully.",
+    "words": ["share", "engage in", "consider"],
+    "translations": ["공유하다", "참여하다", "고려하다"],
+    "hints": ["sha", "eng", "con"]
+  },
+  {
+    "text": "To ___ productivity, teams should ___ collaboration, ___ communication openly, and ___ unnecessary delays.",
+    "words": ["increase", "promote", "share", "avoid"],
+    "translations": ["증가시키다", "촉진하다", "공유하다", "피하다"],
+    "hints": ["inc", "pro", "sha", "avo"]
+  },
+  {
+    "text": "The athlete wanted to ___ stamina, ___ strength consistently, and ___ techniques effectively.",
+    "words": ["improve", "build", "practice"],
+    "translations": ["향상시키다", "쌓다", "연습하다"],
+    "hints": ["imp", "bui", "pra"]
+  },
+  {
+    "text": "To ___ environmental awareness, schools should ___ campaigns, ___ activities actively, and ___ participation widely.",
+    "words": ["increase", "organize", "encourage", "promote"],
+    "translations": ["증가시키다", "조직하다", "장려하다", "촉진하다"],
+    "hints": ["inc", "org", "enc", "pro"]
+  },
+  {
+    "text": "The writer tried to ___ themes clearly, ___ messages effectively, and ___ ideas logically.",
+    "words": ["express", "convey", "present"],
+    "translations": ["표현하다", "전달하다", "제시하다"],
+    "hints": ["exp", "con", "pre"]
+  },
+  {
+    "text": "Students are advised to ___ notes systematically, ___ references accurately, and ___ assignments timely.",
+    "words": ["organize", "cite", "submit"],
+    "translations": ["정리하다", "인용하다", "제출하다"],
+    "hints": ["org", "cit", "sub"]
+  },
+  {
+    "text": "To ___ public speaking, one should ___ confidence, ___ gestures naturally, and ___ voice clearly.",
+    "words": ["enhance", "show", "use", "project"],
+    "translations": ["향상시키다", "보이다", "사용하다", "투사하다"],
+    "hints": ["enh", "sho", "use", "pro"]
+  },
+  {
+    "text": "To ___ communication skills, students should ___ actively in class, ___ questions confidently, and ___ feedback carefully.",
+    "words": ["improve", "participate", "ask", "receive"],
+    "translations": ["향상시키다", "참여하다", "묻다", "받다"],
+    "hints": ["imp", "par", "ask", "rec"]
+  },
+  {
+    "text": "The company wanted to ___ customer satisfaction, ___ complaints quickly, and ___ high-quality products consistently.",
+    "words": ["increase", "address", "deliver"],
+    "translations": ["증가시키다", "처리하다", "제공하다"],
+    "hints": ["inc", "add", "del"]
+  },
+  {
+    "text": "To ___ leadership, managers must ___ decisions wisely, ___ team members effectively, and ___ responsibilities fairly.",
+    "words": ["demonstrate", "make", "guide", "distribute"],
+    "translations": ["보이다", "내리다", "지도하다", "배분하다"],
+    "hints": ["dem", "mak", "gui", "dis"]
+  },
+  {
+    "text": "During the training, employees should ___ skills carefully, ___ exercises repeatedly, and ___ knowledge accurately.",
+    "words": ["practice", "perform", "apply"],
+    "translations": ["연습하다", "실행하다", "적용하다"],
+    "hints": ["pra", "per", "app"]
+  },
+  {
+    "text": "To ___ the environment, people should ___ recycling, ___ energy efficiently, and ___ pollution seriously.",
+    "words": ["protect", "promote", "use", "consider"],
+    "translations": ["보호하다", "촉진하다", "사용하다", "고려하다"],
+    "hints": ["pro", "pro", "use", "con"]
+  },
+  {
+    "text": "The researcher tried to ___ data accurately, ___ experiments methodically, and ___ results clearly.",
+    "words": ["collect", "conduct", "present"],
+    "translations": ["수집하다", "실행하다", "제시하다"],
+    "hints": ["col", "con", "pre"]
+  },
+  {
+    "text": "To ___ teamwork, members should ___ ideas openly, ___ responsibilities equally, and ___ cooperation actively.",
+    "words": ["strengthen", "share", "distribute", "encourage"],
+    "translations": ["강화하다", "공유하다", "배분하다", "장려하다"],
+    "hints": ["str", "sha", "dis", "enc"]
+  },
+  {
+    "text": "The author wanted to ___ plot twists effectively, ___ characters deeply, and ___ suspense consistently.",
+    "words": ["develop", "describe", "maintain"],
+    "translations": ["전개하다", "묘사하다", "유지하다"],
+    "hints": ["dev", "des", "mai"]
+  },
+  {
+    "text": "To ___ economic stability, governments should ___ budgets wisely, ___ policies carefully, and ___ investments efficiently.",
+    "words": ["ensure", "manage", "implement", "allocate"],
+    "translations": ["보장하다", "관리하다", "실행하다", "배분하다"],
+    "hints": ["ens", "man", "imp", "all"]
+  },
+  {
+    "text": "Students need to ___ learning objectives clearly, ___ study plans properly, and ___ progress consistently.",
+    "words": ["define", "organize", "track"],
+    "translations": ["정의하다", "조직하다", "추적하다"],
+    "hints": ["def", "org", "tra"]
+  },
+  {
+    "text": "To ___ health, people should ___ nutritious food, ___ exercise regularly, and ___ stress effectively.",
+    "words": ["maintain", "consume", "perform", "manage"],
+    "translations": ["유지하다", "섭취하다", "실천하다", "관리하다"],
+    "hints": ["mai", "con", "per", "man"]
+  },
+  {
+    "text": "The manager asked employees to ___ tasks efficiently, ___ meetings actively, and ___ deadlines strictly.",
+    "words": ["complete", "attend", "meet"],
+    "translations": ["완료하다", "참석하다", "지키다"],
+    "hints": ["com", "att", "mee"]
+  },
+  {
+    "text": "To ___ innovation, companies should ___ creativity, ___ research thoroughly, and ___ risks wisely.",
+    "words": ["promote", "encourage", "conduct", "take"],
+    "translations": ["촉진하다", "장려하다", "수행하다", "취하다"],
+    "hints": ["pro", "enc", "con", "tak"]
+  },
+  {
+    "text": "During the seminar, participants were encouraged to ___ ideas freely, ___ debates respectfully, and ___ perspectives thoughtfully.",
+    "words": ["share", "engage in", "consider"],
+    "translations": ["공유하다", "참여하다", "고려하다"],
+    "hints": ["sha", "eng", "con"]
+  },
+  {
+    "text": "To ___ productivity, teams should ___ collaboration, ___ communication openly, and ___ unnecessary delays.",
+    "words": ["increase", "promote", "share", "avoid"],
+    "translations": ["증가시키다", "촉진하다", "공유하다", "피하다"],
+    "hints": ["inc", "pro", "sha", "avo"]
+  },
+  {
+    "text": "The athlete wanted to ___ stamina, ___ strength consistently, and ___ techniques effectively.",
+    "words": ["improve", "build", "practice"],
+    "translations": ["향상시키다", "쌓다", "연습하다"],
+    "hints": ["imp", "bui", "pra"]
+  },
+  {
+    "text": "To ___ environmental awareness, schools should ___ campaigns, ___ activities actively, and ___ participation widely.",
+    "words": ["increase", "organize", "encourage", "promote"],
+    "translations": ["증가시키다", "조직하다", "장려하다", "촉진하다"],
+    "hints": ["inc", "org", "enc", "pro"]
+  },
+  {
+    "text": "The writer tried to ___ themes clearly, ___ messages effectively, and ___ ideas logically.",
+    "words": ["express", "convey", "present"],
+    "translations": ["표현하다", "전달하다", "제시하다"],
+    "hints": ["exp", "con", "pre"]
+  },
+  {
+    "text": "Students are advised to ___ notes systematically, ___ references accurately, and ___ assignments timely.",
+    "words": ["organize", "cite", "submit"],
+    "translations": ["정리하다", "인용하다", "제출하다"],
+    "hints": ["org", "cit", "sub"]
+  },
+  {
+    "text": "To ___ public speaking, one should ___ confidence, ___ gestures naturally, and ___ voice clearly.",
+    "words": ["enhance", "show", "use", "project"],
+    "translations": ["향상시키다", "보이다", "사용하다", "투사하다"],
+    "hints": ["enh", "sho", "use", "pro"]
+  },
+  {
+    "text": "To ___ confidence, students should ___ presentations regularly, ___ knowledge deeply, and ___ feedback positively.",
+    "words": ["build", "give", "study", "receive"],
+    "translations": ["쌓다", "하다", "공부하다", "받다"],
+    "hints": ["bui", "giv", "stu", "rec"]
+  },
+  {
+    "text": "The company aims to ___ innovation, ___ research frequently, and ___ products effectively.",
+    "words": ["promote", "conduct", "develop"],
+    "translations": ["촉진하다", "수행하다", "개발하다"],
+    "hints": ["pro", "con", "dev"]
+  },
+  {
+    "text": "During negotiations, the manager needed to ___ terms clearly, ___ agreement fairly, and ___ outcomes successfully.",
+    "words": ["define", "reach", "achieve"],
+    "translations": ["정의하다", "도달하다", "달성하다"],
+    "hints": ["def", "rea", "ach"]
+  },
+  {
+    "text": "To ___ teamwork, employees must ___ tasks collaboratively, ___ communication openly, and ___ trust consistently.",
+    "words": ["enhance", "complete", "maintain", "build"],
+    "translations": ["향상시키다", "완료하다", "유지하다", "쌓다"],
+    "hints": ["enh", "com", "mai", "bui"]
+  },
+  {
+    "text": "The researcher needed to ___ experiments accurately, ___ data precisely, and ___ conclusions logically.",
+    "words": ["perform", "record", "draw"],
+    "translations": ["수행하다", "기록하다", "내리다"],
+    "hints": ["per", "rec", "dra"]
+  },
+  {
+    "text": "To ___ productivity, workers should ___ priorities clearly, ___ breaks properly, and ___ deadlines effectively.",
+    "words": ["increase", "set", "take", "meet"],
+    "translations": ["늘리다", "정하다", "취하다", "지키다"],
+    "hints": ["inc", "set", "tak", "mee"]
+  },
+  {
+    "text": "During the conference, participants were asked to ___ presentations attentively, ___ notes carefully, and ___ questions thoughtfully.",
+    "words": ["watch", "take", "ask"],
+    "translations": ["보다", "적다", "묻다"],
+    "hints": ["wat", "tak", "ask"]
+  },
+  {
+    "text": "The teacher tried to ___ students' interest, ___ lessons engagingly, and ___ knowledge effectively.",
+    "words": ["capture", "make", "deliver"],
+    "translations": ["사로잡다", "만들다", "전달하다"],
+    "hints": ["cap", "mak", "del"]
+  },
+  {
+    "text": "To ___ safety, drivers should ___ rules strictly, ___ vehicles carefully, and ___ risks sensibly.",
+    "words": ["ensure", "follow", "check", "avoid"],
+    "translations": ["보장하다", "따르다", "확인하다", "피하다"],
+    "hints": ["ens", "fol", "che", "avo"]
+  },
+  {
+    "text": "The leader encouraged members to ___ ideas freely, ___ suggestions respectfully, and ___ solutions collaboratively.",
+    "words": ["share", "offer", "develop"],
+    "translations": ["공유하다", "제안하다", "개발하다"],
+    "hints": ["sha", "off", "dev"]
+  },
+  {
+    "text": "Students are required to ___ reports clearly, ___ references properly, and ___ deadlines strictly.",
+    "words": ["write", "cite", "meet"],
+    "translations": ["쓰다", "인용하다", "지키다"],
+    "hints": ["wri", "cit", "mee"]
+  },
+  {
+    "text": "To ___ creativity, artists should ___ sketches daily, ___ colors boldly, and ___ ideas without fear.",
+    "words": ["enhance", "draw", "mix", "express"],
+    "translations": ["향상시키다", "그리다", "섞다", "표현하다"],
+    "hints": ["enh", "dra", "mix", "exp"]
+  },
+  {
+    "text": "The coach advised players to ___ exercises regularly, ___ strategies carefully, and ___ teamwork consistently.",
+    "words": ["perform", "plan", "build"],
+    "translations": ["실행하다", "계획하다", "쌓다"],
+    "hints": ["per", "pla", "bui"]
+  },
+  {
+    "text": "To ___ healthy habits, people should ___ meals balanced, ___ sleep adequately, and ___ activities actively.",
+    "words": ["maintain", "eat", "take", "perform"],
+    "translations": ["유지하다", "먹다", "취하다", "실행하다"],
+    "hints": ["mai", "eat", "tak", "per"]
+  },
+  {
+    "text": "During the ceremony, guests needed to ___ respect formally, ___ attendance punctually, and ___ participation actively.",
+    "words": ["show", "confirm", "ensure"],
+    "translations": ["보이다", "확인하다", "보장하다"],
+    "hints": ["sho", "con", "ens"]
+  },
+  {
+    "text": "The company aims to ___ global expansion, ___ branches strategically, and ___ products internationally.",
+    "words": ["pursue", "open", "distribute"],
+    "translations": ["추구하다", "열다", "배포하다"],
+    "hints": ["pur", "ope", "dis"]
+  },
+  {
+    "text": "To ___ environmental awareness, citizens should ___ recycling, ___ energy efficiently, and ___ policies actively.",
+    "words": ["raise", "practice", "use", "support"],
+    "translations": ["높이다", "실천하다", "사용하다", "지원하다"],
+    "hints": ["rai", "pra", "use", "sup"]
+  },
+  {
+    "text": "During the seminar, participants were asked to ___ knowledge deeply, ___ questions thoughtfully, and ___ discussions respectfully.",
+    "words": ["gain", "ask", "conduct"],
+    "translations": ["얻다", "묻다", "진행하다"],
+    "hints": ["gai", "ask", "con"]
+  },
+  {
+    "text": "The teacher encouraged students to ___ writing skills, ___ reading regularly, and ___ comprehension carefully.",
+    "words": ["improve", "practice", "develop"],
+    "translations": ["향상시키다", "연습하다", "발전시키다"],
+    "hints": ["imp", "pra", "dev"]
   }
 ]
